@@ -1,0 +1,12 @@
+{
+	id: "1DB3D66C2CF80741"
+	group: "19176439039DDA72"
+	order_index: 0
+	filename: "spectrum"
+	title: "Spectrum!"
+	icon: "spectrum:spectral_shard_storage_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}

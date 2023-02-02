@@ -1,0 +1,63 @@
+{
+	id: "7E5B06F4FE187E22"
+	group: "4FB9660C08C751B9"
+	order_index: 0
+	filename: "a_family"
+	title: "A Family"
+	icon: {
+		id: "mca:sirben_baby_girl"
+		Count: 1b
+		tag: {
+			baby: {
+				motherName: "Unknown"
+				mother: [I;
+					0
+					0
+					0
+					0
+				]
+				fatherName: "Unknown"
+				age: 0
+				father: [I;
+					0
+					0
+					0
+					0
+				]
+			}
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -0.5d
+			y: -0.5d
+			description: ["Become good Friends with a villager"]
+			id: "0B990A95945CC7A4"
+			tasks: [{
+				id: "7121B9E18FD385FE"
+				type: "advancement"
+				title: "Good Friends"
+				advancement: "mca:friend"
+				criterion: ""
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.5d
+			dependencies: ["0B990A95945CC7A4"]
+			hide: false
+			invisible: true
+			id: "642E140A7BED0FE6"
+			tasks: [{
+				id: "6920BF9B1B23621D"
+				type: "advancement"
+				title: "Get engange"
+				advancement: "mca:marriage"
+				criterion: ""
+			}]
+		}
+	]
+	quest_links: [ ]
+}
