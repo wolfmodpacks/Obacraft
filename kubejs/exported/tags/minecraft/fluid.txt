@@ -1,0 +1,83 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 1, 2023, 7:57:47 PM
+
+#spectrum:lagoon_rod_fishable_in
+- #minecraft:water (from Spectrum)
+- #spectrum:mud (from Spectrum)
+- #spectrum:liquid_crystal (from Spectrum)
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- create:flowing_honey (from Create)
+- create:honey (from Create)
+- create:flowing_chocolate (from Create)
+- create:chocolate (from Create)
+- milk:flowing_milk? (from Milk Lib)
+- milk:still_milk? (from Milk Lib)
+
+#spectrum:swimmable_fluid
+- #spectrum:liquid_crystal (from Spectrum)
+- #spectrum:mud (from Spectrum)
+- #spectrum:midnight_solution (from Spectrum)
+
+#ae2:blacklisted/annihilation_plane
+
+#spectrum:mud
+- spectrum:mud (from Spectrum)
+- spectrum:flowing_mud (from Spectrum)
+
+#c:milk
+- milk:flowing_milk? (from Milk Lib)
+- milk:still_milk? (from Milk Lib)
+
+#c:tea
+- create:flowing_tea (from Create)
+- create:tea (from Create)
+
+#c:water
+- #minecraft:water? (from Fabric Convention Tags)
+
+#spectrum:molten_rod_fishable_in
+- #minecraft:water (from Spectrum)
+- #minecraft:lava (from Spectrum)
+- #spectrum:mud (from Spectrum)
+- #spectrum:liquid_crystal (from Spectrum)
+
+#c:lava
+- #minecraft:lava? (from Fabric Convention Tags)
+
+#spectrum:midnight_solution_converted
+- #spectrum:liquid_crystal (from Spectrum)
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#create:bottomless/deny
+
+#spectrum:midnight_solution
+- spectrum:midnight_solution (from Spectrum)
+- spectrum:flowing_midnight_solution (from Spectrum)
+
+#c:honey
+- create:flowing_honey (from Create)
+- create:honey (from Create)
+
+#spectrum:bedrock_rod_fishable_in
+- #minecraft:water (from Spectrum)
+- #minecraft:lava (from Spectrum)
+- #spectrum:mud (from Spectrum)
+- #spectrum:liquid_crystal (from Spectrum)
+- #spectrum:midnight_solution (from Spectrum)
+
+#create:bottomless/allow
+- minecraft:water (from Create)
+- minecraft:lava (from Create)
+
+#spectrum:liquid_crystal
+- spectrum:liquid_crystal (from Spectrum)
+- spectrum:flowing_liquid_crystal (from Spectrum)
+
+#c:chocolate
+- create:flowing_chocolate (from Create)
+- create:chocolate (from Create)

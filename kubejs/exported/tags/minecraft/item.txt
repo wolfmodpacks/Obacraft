@@ -1,0 +1,4915 @@
+To refresh this file, delete it and run /reload command again! Last updated: Feb 1, 2023, 7:57:47 PM
+
+#dragonloot:explosion_resistant
+- dragonloot:dragon_scale (from DragonLoot)
+- dragonloot:dragon_helmet (from DragonLoot)
+- dragonloot:dragon_chestplate (from DragonLoot)
+- dragonloot:dragon_leggings (from DragonLoot)
+- dragonloot:dragon_boots (from DragonLoot)
+- dragonloot:upgraded_dragon_chestplate (from DragonLoot)
+- dragonloot:dragon_pickaxe (from DragonLoot)
+- dragonloot:dragon_shovel (from DragonLoot)
+- dragonloot:dragon_axe (from DragonLoot)
+- dragonloot:dragon_hoe (from DragonLoot)
+- dragonloot:dragon_sword (from DragonLoot)
+- dragonloot:dragon_bow (from DragonLoot)
+- dragonloot:dragon_crossbow (from DragonLoot)
+- dragonloot:dragon_trident (from DragonLoot)
+- dragonloot:dragon_anvil (from DragonLoot)
+- dragonloot:dragon_horse_armor (from DragonLoot)
+
+#c:glowstone_blocks
+- minecraft:glowstone (from Incubus Core)
+
+#c:sweeteners
+- minecraft:sugar (from Incubus Core)
+- minecraft:honey_bottle (from Incubus Core)
+
+#c:mossy_cobblestone
+- minecraft:mossy_cobblestone (from Porting Lib Tags)
+
+#c:crops/beetroot
+- minecraft:beetroot (from Porting Lib Tags)
+
+#mca:villager_eggs
+- mca:male_villager_spawn_egg (from Minecraft Comes Alive)
+- mca:female_villager_spawn_egg (from Minecraft Comes Alive)
+
+#c:green_dye
+- minecraft:green_dye (from Applied Energistics 2)
+
+#c:fluix
+- ae2:fluix_crystal (from Applied Energistics 2)
+
+#create:stone_types/veridium
+- create:cut_veridium (from Create)
+- create:cut_veridium_stairs (from Create)
+- create:cut_veridium_wall (from Create)
+- create:polished_cut_veridium (from Create)
+- create:polished_cut_veridium_stairs (from Create)
+- create:polished_cut_veridium_wall (from Create)
+- create:cut_veridium_bricks (from Create)
+- create:cut_veridium_brick_stairs (from Create)
+- create:cut_veridium_brick_wall (from Create)
+- create:small_veridium_bricks (from Create)
+- create:small_veridium_brick_stairs (from Create)
+- create:small_veridium_brick_wall (from Create)
+- create:layered_veridium (from Create)
+- create:veridium_pillar (from Create)
+
+#c:carpets
+- minecraft:white_carpet (from Incubus Core)
+- minecraft:orange_carpet (from Incubus Core)
+- minecraft:magenta_carpet (from Incubus Core)
+- minecraft:light_blue_carpet (from Incubus Core)
+- minecraft:yellow_carpet (from Incubus Core)
+- minecraft:lime_carpet (from Incubus Core)
+- minecraft:pink_carpet (from Incubus Core)
+- minecraft:gray_carpet (from Incubus Core)
+- minecraft:light_gray_carpet (from Incubus Core)
+- minecraft:cyan_carpet (from Incubus Core)
+- minecraft:purple_carpet (from Incubus Core)
+- minecraft:blue_carpet (from Incubus Core)
+- minecraft:brown_carpet (from Incubus Core)
+- minecraft:green_carpet (from Incubus Core)
+- minecraft:red_carpet (from Incubus Core)
+- minecraft:black_carpet (from Incubus Core)
+
+#fabric:pickaxes
+- dragonloot:dragon_pickaxe (from DragonLoot)
+
+#spectrum:moonstone_crystals
+- spectrum:small_moonstone_bud (from Spectrum)
+- spectrum:medium_moonstone_bud (from Spectrum)
+- spectrum:large_moonstone_bud (from Spectrum)
+- spectrum:moonstone_cluster (from Spectrum)
+- spectrum:moonstone_shard (from Spectrum)
+
+#doodads:doodad_bundle_craftable
+- doodads:spore_sword (from Doodads)
+- doodads:bendy_straw (from Doodads)
+- doodads:celestial_ring (from Doodads)
+- doodads:duct_tape (from Doodads)
+- doodads:sun_ring (from Doodads)
+- doodads:blossom_belt (from Doodads)
+- doodads:soggy_glove (from Doodads)
+- doodads:cactus_ring (from Doodads)
+- doodads:moon_ring (from Doodads)
+- doodads:speed_boots (from Doodads)
+- doodads:midnights_eye (from Doodads)
+- doodads:slimey_shoes (from Doodads)
+- doodads:shulker_aglet (from Doodads)
+- doodads:ender_goggles (from Doodads)
+- doodads:glare_staff (from Doodads)
+- doodads:loggers_glove (from Doodads)
+- doodads:glare_plushie (from Doodads)
+- doodads:paintbrush (from Doodads)
+- doodads:beaver_teeth (from Doodads)
+- doodads:scissors (from Doodads)
+
+#c:nether_brick_ingots
+- minecraft:nether_brick (from Porting Lib Tags)
+
+#c:diamond_ores
+- #minecraft:diamond_ores (from Porting Lib Tags)
+- minecraft:diamond_ore (from Incubus Core)
+
+#spectrum:mob_heads/axolotl_heads
+- spectrum:axolotl_blue_head (from Spectrum)
+- spectrum:axolotl_brown_head (from Spectrum)
+- spectrum:axolotl_cyan_head (from Spectrum)
+- spectrum:axolotl_gold_head (from Spectrum)
+- spectrum:axolotl_leucistic_head (from Spectrum)
+
+#spectrum:mob_heads/parrot_heads
+- spectrum:parrot_blue_head (from Spectrum)
+- spectrum:parrot_cyan_head (from Spectrum)
+- spectrum:parrot_gray_head (from Spectrum)
+- spectrum:parrot_green_head (from Spectrum)
+- spectrum:parrot_red_head (from Spectrum)
+
+#create:upright_on_belt
+- create:blaze_cake_base (from Create)
+- create:blaze_cake (from Create)
+- create:creative_blaze_cake (from Create)
+- create:builders_tea (from Create)
+- minecraft:glass_bottle (from Create)
+- minecraft:potion (from Create)
+- minecraft:splash_potion (from Create)
+- minecraft:lingering_potion (from Create)
+- minecraft:honey_bottle (from Create)
+- minecraft:cake (from Create)
+
+#c:gold_nuggets
+- minecraft:gold_nugget (from Applied Energistics 2)
+- minecraft:gold_nugget (from Porting Lib Tags)
+- minecraft:gold_nugget (from Incubus Core)
+
+#c:concrete_powder
+- minecraft:white_concrete_powder (from Incubus Core)
+- minecraft:orange_concrete_powder (from Incubus Core)
+- minecraft:magenta_concrete_powder (from Incubus Core)
+- minecraft:light_blue_concrete_powder (from Incubus Core)
+- minecraft:yellow_concrete_powder (from Incubus Core)
+- minecraft:lime_concrete_powder (from Incubus Core)
+- minecraft:pink_concrete_powder (from Incubus Core)
+- minecraft:gray_concrete_powder (from Incubus Core)
+- minecraft:light_gray_concrete_powder (from Incubus Core)
+- minecraft:cyan_concrete_powder (from Incubus Core)
+- minecraft:purple_concrete_powder (from Incubus Core)
+- minecraft:blue_concrete_powder (from Incubus Core)
+- minecraft:brown_concrete_powder (from Incubus Core)
+- minecraft:green_concrete_powder (from Incubus Core)
+- minecraft:red_concrete_powder (from Incubus Core)
+- minecraft:black_concrete_powder (from Incubus Core)
+
+#c:storage_blocks
+- #c:certus_quartz_blocks (from Applied Energistics 2)
+- create:raw_zinc_block (from Create)
+- create:zinc_block (from Create)
+- create:brass_block (from Create)
+- #c:amethyst_blocks (from Porting Lib Tags)
+- #c:coal_blocks (from Porting Lib Tags)
+- #c:copper_blocks (from Porting Lib Tags)
+- #c:diamond_blocks (from Porting Lib Tags)
+- #c:emerald_blocks (from Porting Lib Tags)
+- #c:gold_blocks (from Porting Lib Tags)
+- #c:iron_blocks (from Porting Lib Tags)
+- #c:lapis_blocks (from Porting Lib Tags)
+- #c:quartz_blocks (from Porting Lib Tags)
+- #c:raw_copper_blocks (from Porting Lib Tags)
+- #c:raw_gold_blocks (from Porting Lib Tags)
+- #c:raw_iron_blocks (from Porting Lib Tags)
+- #c:redstone_blocks (from Porting Lib Tags)
+- #c:netherite_blocks (from Porting Lib Tags)
+
+#c:blue_ices
+- minecraft:blue_ice (from Powah!)
+
+#fabric:axes
+- dragonloot:dragon_axe (from DragonLoot)
+
+#c:milk
+- #c:milks (from Spectrum)
+- minecraft:milk_bucket (from Spectrum)
+
+#minecraft:wool_carpets
+- minecraft:white_carpet (from Default)
+- minecraft:orange_carpet (from Default)
+- minecraft:magenta_carpet (from Default)
+- minecraft:light_blue_carpet (from Default)
+- minecraft:yellow_carpet (from Default)
+- minecraft:lime_carpet (from Default)
+- minecraft:pink_carpet (from Default)
+- minecraft:gray_carpet (from Default)
+- minecraft:light_gray_carpet (from Default)
+- minecraft:cyan_carpet (from Default)
+- minecraft:purple_carpet (from Default)
+- minecraft:blue_carpet (from Default)
+- minecraft:brown_carpet (from Default)
+- minecraft:green_carpet (from Default)
+- minecraft:red_carpet (from Default)
+- minecraft:black_carpet (from Default)
+
+#c:dyes
+- #c:black_dyes? (from Fabric Convention Tags)
+- #c:blue_dyes? (from Fabric Convention Tags)
+- #c:brown_dyes? (from Fabric Convention Tags)
+- #c:green_dyes? (from Fabric Convention Tags)
+- #c:red_dyes? (from Fabric Convention Tags)
+- #c:white_dyes? (from Fabric Convention Tags)
+- #c:yellow_dyes? (from Fabric Convention Tags)
+- #c:light_gray_dyes? (from Fabric Convention Tags)
+- #c:light_blue_dyes? (from Fabric Convention Tags)
+- #c:lime_dyes? (from Fabric Convention Tags)
+- #c:magenta_dyes? (from Fabric Convention Tags)
+- #c:orange_dyes? (from Fabric Convention Tags)
+- #c:pink_dyes? (from Fabric Convention Tags)
+- #c:cyan_dyes? (from Fabric Convention Tags)
+- #c:gray_dyes? (from Fabric Convention Tags)
+- #c:purple_dyes? (from Fabric Convention Tags)
+- #c:white_dyes (from Porting Lib Tags)
+- #c:orange_dyes (from Porting Lib Tags)
+- #c:magenta_dyes (from Porting Lib Tags)
+- #c:light_blue_dyes (from Porting Lib Tags)
+- #c:yellow_dyes (from Porting Lib Tags)
+- #c:lime_dyes (from Porting Lib Tags)
+- #c:pink_dyes (from Porting Lib Tags)
+- #c:gray_dyes (from Porting Lib Tags)
+- #c:light_gray_dyes (from Porting Lib Tags)
+- #c:cyan_dyes (from Porting Lib Tags)
+- #c:purple_dyes (from Porting Lib Tags)
+- #c:blue_dyes (from Porting Lib Tags)
+- #c:brown_dyes (from Porting Lib Tags)
+- #c:green_dyes (from Porting Lib Tags)
+- #c:red_dyes (from Porting Lib Tags)
+- #c:black_dyes (from Porting Lib Tags)
+
+#c:white_dye
+- minecraft:white_dye (from Applied Energistics 2)
+
+#c:buds
+- ae2:small_quartz_bud (from Applied Energistics 2)
+- ae2:medium_quartz_bud (from Applied Energistics 2)
+- ae2:large_quartz_bud (from Applied Energistics 2)
+
+#c:vegetables_small
+- minecraft:dried_kelp (from Incubus Core)
+
+#c:brown_dyes
+- minecraft:brown_dye (from Fabric Convention Tags)
+- minecraft:brown_dye (from Porting Lib Tags)
+
+#ae2:p2p_attunements/fluid_p2p_tunnel
+- minecraft:bucket (from Applied Energistics 2)
+- minecraft:milk_bucket (from Applied Energistics 2)
+- minecraft:water_bucket (from Applied Energistics 2)
+- minecraft:lava_bucket (from Applied Energistics 2)
+
+#c:lapis_blocks
+- minecraft:lapis_block (from Porting Lib Tags)
+
+#c:certus_quartz_dusts
+- ae2:certus_quartz_dust (from Applied Energistics 2)
+- ae2:certus_quartz_dust (from Applied Energistics 2)
+
+#spectrum:water_meats
+- minecraft:cooked_cod (from Spectrum)
+- minecraft:cooked_salmon (from Spectrum)
+
+#c:light_gray_dye
+- minecraft:light_gray_dye (from Applied Energistics 2)
+
+#c:zinc_nuggets
+- create:zinc_nugget (from Create)
+
+#ae2:interface
+- ae2:cable_interface (from Applied Energistics 2)
+- ae2:interface (from Applied Energistics 2)
+
+#spectrum:topaz_crystals
+- spectrum:small_topaz_bud (from Spectrum)
+- spectrum:medium_topaz_bud (from Spectrum)
+- spectrum:large_topaz_bud (from Spectrum)
+- spectrum:topaz_cluster (from Spectrum)
+- spectrum:topaz_shard (from Spectrum)
+
+#forge:ingots
+- mca:rose_gold_ingot (from Minecraft Comes Alive)
+
+#c:regular_ices
+- minecraft:ice (from Powah!)
+
+#ftbchunks:right_click_whitelist
+- minecraft:shield (from FTB Chunks)
+- minecraft:firework_rocket (from FTB Chunks)
+- minecraft:map (from FTB Chunks)
+
+#minecraft:coals
+- minecraft:coal (from Default)
+- minecraft:charcoal (from Default)
+
+#ae2:quartz_sword
+- ae2:certus_quartz_sword (from Applied Energistics 2)
+- ae2:nether_quartz_sword (from Applied Energistics 2)
+
+#c:pink_glass
+- minecraft:pink_stained_glass (from Porting Lib Tags)
+
+#minecraft:piglin_food
+- minecraft:porkchop (from Default)
+- minecraft:cooked_porkchop (from Default)
+
+#c:quartz_ores
+- minecraft:nether_quartz_ore (from Applied Energistics 2)
+- minecraft:nether_quartz_ore (from Fabric Convention Tags)
+- minecraft:nether_quartz_ore (from Porting Lib Tags)
+- minecraft:nether_quartz_ore (from Incubus Core)
+
+#c:wrenches
+- ae2:certus_quartz_wrench (from Applied Energistics 2)
+- ae2:nether_quartz_wrench (from Applied Energistics 2)
+- ae2:network_tool (from Applied Energistics 2)
+- create:wrench (from Create)
+
+#spectrum:onyx_crystals
+- spectrum:small_onyx_bud (from Spectrum)
+- spectrum:medium_onyx_bud (from Spectrum)
+- spectrum:large_onyx_bud (from Spectrum)
+- spectrum:onyx_cluster (from Spectrum)
+- spectrum:onyx_shard (from Spectrum)
+
+#c:nether_brick_fences
+- minecraft:nether_brick_fence (from Porting Lib Tags)
+
+#c:emerald_ores
+- #minecraft:emerald_ores (from Porting Lib Tags)
+- minecraft:emerald_ore (from Incubus Core)
+
+#spectrum:indestructible_blacklisted
+
+#spectrum:gemstone_ores
+- #spectrum:amethyst_ores (from Spectrum)
+- #spectrum:citrine_ores (from Spectrum)
+- #spectrum:topaz_ores (from Spectrum)
+- #spectrum:onyx_ores (from Spectrum)
+- #spectrum:moonstone_ores (from Spectrum)
+
+#c:light_gray_glass_panes
+- minecraft:light_gray_stained_glass_pane (from Porting Lib Tags)
+
+#c:green_dyes
+- minecraft:green_dye (from Fabric Convention Tags)
+- minecraft:green_dye (from Porting Lib Tags)
+
+#c:mushroooms
+- minecraft:brown_mushroom (from Spectrum)
+- minecraft:red_mushroom (from Spectrum)
+
+#c:ore_bearing_ground/netherrack
+- minecraft:netherrack (from Porting Lib Tags)
+
+#spectrum:citrine_ores
+- spectrum:citrine_ore (from Spectrum)
+- spectrum:deepslate_citrine_ore (from Spectrum)
+
+#c:dusts/redstone
+- minecraft:redstone (from Porting Lib Tags)
+
+#minecraft:beds
+- minecraft:red_bed (from Default)
+- minecraft:black_bed (from Default)
+- minecraft:blue_bed (from Default)
+- minecraft:brown_bed (from Default)
+- minecraft:cyan_bed (from Default)
+- minecraft:gray_bed (from Default)
+- minecraft:green_bed (from Default)
+- minecraft:light_blue_bed (from Default)
+- minecraft:light_gray_bed (from Default)
+- minecraft:lime_bed (from Default)
+- minecraft:magenta_bed (from Default)
+- minecraft:orange_bed (from Default)
+- minecraft:pink_bed (from Default)
+- minecraft:purple_bed (from Default)
+- minecraft:white_bed (from Default)
+- minecraft:yellow_bed (from Default)
+
+#c:charcoal
+- minecraft:charcoal (from Incubus Core)
+
+#minecraft:doors
+- #minecraft:wooden_doors (from Default)
+- minecraft:iron_door (from Default)
+- create:train_door (from Create)
+- create:framed_glass_door (from Create)
+
+#ae2:glass_cable
+- ae2:white_glass_cable (from Applied Energistics 2)
+- ae2:orange_glass_cable (from Applied Energistics 2)
+- ae2:magenta_glass_cable (from Applied Energistics 2)
+- ae2:light_blue_glass_cable (from Applied Energistics 2)
+- ae2:yellow_glass_cable (from Applied Energistics 2)
+- ae2:lime_glass_cable (from Applied Energistics 2)
+- ae2:pink_glass_cable (from Applied Energistics 2)
+- ae2:gray_glass_cable (from Applied Energistics 2)
+- ae2:light_gray_glass_cable (from Applied Energistics 2)
+- ae2:cyan_glass_cable (from Applied Energistics 2)
+- ae2:purple_glass_cable (from Applied Energistics 2)
+- ae2:blue_glass_cable (from Applied Energistics 2)
+- ae2:brown_glass_cable (from Applied Energistics 2)
+- ae2:green_glass_cable (from Applied Energistics 2)
+- ae2:red_glass_cable (from Applied Energistics 2)
+- ae2:black_glass_cable (from Applied Energistics 2)
+- ae2:fluix_glass_cable (from Applied Energistics 2)
+
+#spectrum:topaz_ores
+- spectrum:topaz_ore (from Spectrum)
+- spectrum:deepslate_topaz_ore (from Spectrum)
+
+#ae2:quartz_shovel
+- ae2:certus_quartz_shovel (from Applied Energistics 2)
+- ae2:nether_quartz_shovel (from Applied Energistics 2)
+
+#c:ores_in_ground/deepslate
+- create:deepslate_zinc_ore (from Create)
+- minecraft:deepslate_coal_ore (from Porting Lib Tags)
+- minecraft:deepslate_copper_ore (from Porting Lib Tags)
+- minecraft:deepslate_diamond_ore (from Porting Lib Tags)
+- minecraft:deepslate_emerald_ore (from Porting Lib Tags)
+- minecraft:deepslate_gold_ore (from Porting Lib Tags)
+- minecraft:deepslate_iron_ore (from Porting Lib Tags)
+- minecraft:deepslate_lapis_ore (from Porting Lib Tags)
+- minecraft:deepslate_redstone_ore (from Porting Lib Tags)
+
+#c:redstone_dusts
+- minecraft:redstone (from Applied Energistics 2)
+- minecraft:redstone (from Fabric Convention Tags)
+- minecraft:redstone (from Incubus Core)
+
+#c:gold_raw_materials
+- minecraft:raw_gold (from Porting Lib Tags)
+
+#spectrum:colored_logs
+- spectrum:black_log (from Spectrum)
+- spectrum:blue_log (from Spectrum)
+- spectrum:brown_log (from Spectrum)
+- spectrum:cyan_log (from Spectrum)
+- spectrum:gray_log (from Spectrum)
+- spectrum:green_log (from Spectrum)
+- spectrum:light_blue_log (from Spectrum)
+- spectrum:light_gray_log (from Spectrum)
+- spectrum:lime_log (from Spectrum)
+- spectrum:magenta_log (from Spectrum)
+- spectrum:orange_log (from Spectrum)
+- spectrum:pink_log (from Spectrum)
+- spectrum:purple_log (from Spectrum)
+- spectrum:red_log (from Spectrum)
+- spectrum:white_log (from Spectrum)
+- spectrum:yellow_log (from Spectrum)
+
+#spectrum:mob_heads/shulker_heads
+- spectrum:shulker_black_head (from Spectrum)
+- spectrum:shulker_blue_head (from Spectrum)
+- spectrum:shulker_brown_head (from Spectrum)
+- spectrum:shulker_cyan_head (from Spectrum)
+- spectrum:shulker_gray_head (from Spectrum)
+- spectrum:shulker_green_head (from Spectrum)
+- spectrum:shulker_light_blue_head (from Spectrum)
+- spectrum:shulker_light_gray_head (from Spectrum)
+- spectrum:shulker_lime_head (from Spectrum)
+- spectrum:shulker_magenta_head (from Spectrum)
+- spectrum:shulker_orange_head (from Spectrum)
+- spectrum:shulker_pink_head (from Spectrum)
+- spectrum:shulker_purple_head (from Spectrum)
+- spectrum:shulker_red_head (from Spectrum)
+- spectrum:shulker_white_head (from Spectrum)
+- spectrum:shulker_yellow_head (from Spectrum)
+
+#create:stone_types/granite
+- create:cut_granite (from Create)
+- create:cut_granite_stairs (from Create)
+- create:cut_granite_wall (from Create)
+- create:polished_cut_granite (from Create)
+- create:polished_cut_granite_stairs (from Create)
+- create:polished_cut_granite_wall (from Create)
+- create:cut_granite_bricks (from Create)
+- create:cut_granite_brick_stairs (from Create)
+- create:cut_granite_brick_wall (from Create)
+- create:small_granite_bricks (from Create)
+- create:small_granite_brick_stairs (from Create)
+- create:small_granite_brick_wall (from Create)
+- create:layered_granite (from Create)
+- create:granite_pillar (from Create)
+
+#spectrum:spawners
+- spectrum:spawner (from Spectrum)
+- minecraft:spawner (from Spectrum)
+
+#spectrum:enchantable_books
+- minecraft:book (from Spectrum)
+- spectrum:gilded_book (from Spectrum)
+
+#minecraft:signs
+- minecraft:oak_sign (from Default)
+- minecraft:spruce_sign (from Default)
+- minecraft:birch_sign (from Default)
+- minecraft:acacia_sign (from Default)
+- minecraft:jungle_sign (from Default)
+- minecraft:dark_oak_sign (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+- minecraft:mangrove_sign (from Default)
+
+#c:redstone_ores
+- #minecraft:redstone_ores (from Porting Lib Tags)
+- minecraft:redstone_ore (from Incubus Core)
+
+#minecraft:fishes
+- minecraft:cod (from Default)
+- minecraft:cooked_cod (from Default)
+- minecraft:salmon (from Default)
+- minecraft:cooked_salmon (from Default)
+- minecraft:pufferfish (from Default)
+- minecraft:tropical_fish (from Default)
+
+#c:cyan_glass
+- minecraft:cyan_stained_glass (from Porting Lib Tags)
+
+#trinkets:all
+- artifacts:whoopee_cushion (from Artifacts)
+
+#c:brass_plates
+- create:brass_sheet (from Create)
+
+#c:wheat_seeds
+- minecraft:wheat_seeds (from Porting Lib Tags)
+
+#ae2:inscriber_presses
+- ae2:calculation_processor_press (from Applied Energistics 2)
+- ae2:engineering_processor_press (from Applied Energistics 2)
+- ae2:logic_processor_press (from Applied Energistics 2)
+- ae2:silicon_press (from Applied Energistics 2)
+
+#c:raw_uraninite_ores
+- powah:uraninite_raw (from Powah!)
+
+#c:enchanting_fuels
+- #c:lapis (from Porting Lib Tags)
+
+#origins:shields
+- artifacts:umbrella (from Artifacts)
+
+#c:gray_dyes
+- minecraft:gray_dye (from Fabric Convention Tags)
+- minecraft:gray_dye (from Porting Lib Tags)
+
+#c:sand
+- #c:colorless_sand (from Porting Lib Tags)
+- #c:red_sand (from Porting Lib Tags)
+
+#spectrum:raw_lean_meats
+- minecraft:rabbit (from Spectrum)
+- minecraft:porkchop (from Spectrum)
+
+#spectrum:mob_heads/spider_heads
+- spectrum:cave_spider_head (from Spectrum)
+- spectrum:spider_head (from Spectrum)
+
+#spectrum:pedestals
+- spectrum:pedestal_basic_topaz (from Spectrum)
+- spectrum:pedestal_basic_amethyst (from Spectrum)
+- spectrum:pedestal_basic_citrine (from Spectrum)
+- spectrum:pedestal_all_basic (from Spectrum)
+- spectrum:pedestal_onyx (from Spectrum)
+- spectrum:pedestal_moonstone (from Spectrum)
+
+#c:brass_ingots
+- create:brass_ingot (from Create)
+
+#minecraft:redstone_ores
+- minecraft:redstone_ore (from Default)
+- minecraft:deepslate_redstone_ore (from Default)
+
+#create:vanilla_stripped_logs
+- minecraft:stripped_acacia_log (from Create)
+- minecraft:stripped_birch_log (from Create)
+- minecraft:stripped_crimson_stem (from Create)
+- minecraft:stripped_dark_oak_log (from Create)
+- minecraft:stripped_jungle_log (from Create)
+- minecraft:stripped_oak_log (from Create)
+- minecraft:stripped_spruce_log (from Create)
+- minecraft:stripped_mangrove_log (from Create)
+- minecraft:stripped_warped_stem (from Create)
+
+#create:modded_stripped_wood
+- ars_nouveau:stripped_blue_archwood_wood? (from Create)
+- ars_nouveau:stripped_purple_archwood_wood? (from Create)
+- ars_nouveau:stripped_green_archwood_wood? (from Create)
+- ars_nouveau:stripped_red_archwood_wood? (from Create)
+- botania:stripped_livingwood? (from Create)
+- botania:stripped_dreamwood? (from Create)
+- forbidden_arcanus:stripped_cherrywood? (from Create)
+- forbidden_arcanus:stripped_mysterywood? (from Create)
+- hexcasting:akashic_wood_stripped? (from Create)
+- integrateddynamics:menril_wood_stripped? (from Create)
+- byg:stripped_aspen_wood? (from Create)
+- byg:stripped_baobab_wood? (from Create)
+- byg:stripped_enchanted_wood? (from Create)
+- byg:stripped_cherry_wood? (from Create)
+- byg:stripped_cika_wood? (from Create)
+- byg:stripped_cypress_wood? (from Create)
+- byg:stripped_ebony_wood? (from Create)
+- byg:stripped_ether_wood? (from Create)
+- byg:stripped_fir_wood? (from Create)
+- byg:stripped_green_enchanted_wood? (from Create)
+- byg:stripped_holly_wood? (from Create)
+- byg:stripped_jacaranda_wood? (from Create)
+- byg:stripped_lament_wood? (from Create)
+- byg:stripped_mahogany_wood? (from Create)
+- byg:stripped_mangrove_wood? (from Create)
+- byg:stripped_maple_wood? (from Create)
+- byg:stripped_nightshade_wood? (from Create)
+- byg:stripped_palm_wood? (from Create)
+- byg:stripped_palo_verde_wood? (from Create)
+- byg:stripped_pine_wood? (from Create)
+- byg:stripped_rainbow_eucalyptus_wood? (from Create)
+- byg:stripped_redwood_wood? (from Create)
+- byg:stripped_skyris_wood? (from Create)
+- byg:stripped_willow_wood? (from Create)
+- byg:stripped_witch_hazel_wood? (from Create)
+- byg:stripped_zelkova_wood? (from Create)
+- silentgear:stripped_netherwood_wood? (from Create)
+- twilightforest:stripped_twilight_oak_wood? (from Create)
+- twilightforest:stripped_canopy_wood? (from Create)
+- twilightforest:stripped_mangrove_wood? (from Create)
+- twilightforest:stripped_dark_wood? (from Create)
+- twilightforest:stripped_time_wood? (from Create)
+- twilightforest:stripped_transformation_wood? (from Create)
+- twilightforest:stripped_mining_wood? (from Create)
+- twilightforest:stripped_sorting_wood? (from Create)
+- tconstruct:stripped_greenheart_wood? (from Create)
+- tconstruct:stripped_skyroot_wood? (from Create)
+- tconstruct:stripped_bloodshroom_wood? (from Create)
+- architects_palette:stripped_twisted_wood? (from Create)
+- quark:stripped_azalea_wood? (from Create)
+- quark:stripped_blossom_wood? (from Create)
+- ecologics:stripped_coconut_wood? (from Create)
+- ecologics:stripped_walnut_wood? (from Create)
+- ecologics:stripped_azalea_wood? (from Create)
+- biomesoplenty:stripped_fir_wood? (from Create)
+- biomesoplenty:stripped_redwood_wood? (from Create)
+- biomesoplenty:stripped_cherry_wood? (from Create)
+- biomesoplenty:stripped_mahogany_wood? (from Create)
+- biomesoplenty:stripped_jacaranda_wood? (from Create)
+- biomesoplenty:stripped_palm_wood? (from Create)
+- biomesoplenty:stripped_willow_wood? (from Create)
+- biomesoplenty:stripped_dead_wood? (from Create)
+- biomesoplenty:stripped_magic_wood? (from Create)
+- biomesoplenty:stripped_umbran_wood? (from Create)
+- biomesoplenty:stripped_hellbark_wood? (from Create)
+- blue_skies:stripped_bluebright_wood? (from Create)
+- blue_skies:stripped_starlit_wood? (from Create)
+- blue_skies:stripped_frostbright_wood? (from Create)
+- blue_skies:stripped_lunar_wood? (from Create)
+- blue_skies:stripped_dusk_wood? (from Create)
+- blue_skies:stripped_maple_wood? (from Create)
+- blue_skies:stripped_cherry_wood? (from Create)
+- byg:stripped_bulbis_wood? (from Create)
+
+#c:light_blue_glass_panes
+- minecraft:light_blue_stained_glass_pane (from Porting Lib Tags)
+
+#c:copper_plates
+- create:copper_sheet (from Create)
+
+#c:colorless_glass_panes
+- minecraft:glass_pane (from Porting Lib Tags)
+
+#minecraft:walls
+- minecraft:cobblestone_wall (from Default)
+- minecraft:mossy_cobblestone_wall (from Default)
+- minecraft:brick_wall (from Default)
+- minecraft:prismarine_wall (from Default)
+- minecraft:red_sandstone_wall (from Default)
+- minecraft:mossy_stone_brick_wall (from Default)
+- minecraft:granite_wall (from Default)
+- minecraft:stone_brick_wall (from Default)
+- minecraft:nether_brick_wall (from Default)
+- minecraft:andesite_wall (from Default)
+- minecraft:red_nether_brick_wall (from Default)
+- minecraft:sandstone_wall (from Default)
+- minecraft:end_stone_brick_wall (from Default)
+- minecraft:diorite_wall (from Default)
+- minecraft:blackstone_wall (from Default)
+- minecraft:polished_blackstone_brick_wall (from Default)
+- minecraft:polished_blackstone_wall (from Default)
+- minecraft:cobbled_deepslate_wall (from Default)
+- minecraft:polished_deepslate_wall (from Default)
+- minecraft:deepslate_tile_wall (from Default)
+- minecraft:deepslate_brick_wall (from Default)
+- minecraft:mud_brick_wall (from Default)
+- create:cut_granite_wall (from Create)
+- create:polished_cut_granite_wall (from Create)
+- create:cut_granite_brick_wall (from Create)
+- create:small_granite_brick_wall (from Create)
+- create:cut_diorite_wall (from Create)
+- create:polished_cut_diorite_wall (from Create)
+- create:cut_diorite_brick_wall (from Create)
+- create:small_diorite_brick_wall (from Create)
+- create:cut_andesite_wall (from Create)
+- create:polished_cut_andesite_wall (from Create)
+- create:cut_andesite_brick_wall (from Create)
+- create:small_andesite_brick_wall (from Create)
+- create:cut_calcite_wall (from Create)
+- create:polished_cut_calcite_wall (from Create)
+- create:cut_calcite_brick_wall (from Create)
+- create:small_calcite_brick_wall (from Create)
+- create:cut_dripstone_wall (from Create)
+- create:polished_cut_dripstone_wall (from Create)
+- create:cut_dripstone_brick_wall (from Create)
+- create:small_dripstone_brick_wall (from Create)
+- create:cut_deepslate_wall (from Create)
+- create:polished_cut_deepslate_wall (from Create)
+- create:cut_deepslate_brick_wall (from Create)
+- create:small_deepslate_brick_wall (from Create)
+- create:cut_tuff_wall (from Create)
+- create:polished_cut_tuff_wall (from Create)
+- create:cut_tuff_brick_wall (from Create)
+- create:small_tuff_brick_wall (from Create)
+- create:cut_asurine_wall (from Create)
+- create:polished_cut_asurine_wall (from Create)
+- create:cut_asurine_brick_wall (from Create)
+- create:small_asurine_brick_wall (from Create)
+- create:cut_crimsite_wall (from Create)
+- create:polished_cut_crimsite_wall (from Create)
+- create:cut_crimsite_brick_wall (from Create)
+- create:small_crimsite_brick_wall (from Create)
+- create:cut_limestone_wall (from Create)
+- create:polished_cut_limestone_wall (from Create)
+- create:cut_limestone_brick_wall (from Create)
+- create:small_limestone_brick_wall (from Create)
+- create:cut_ochrum_wall (from Create)
+- create:polished_cut_ochrum_wall (from Create)
+- create:cut_ochrum_brick_wall (from Create)
+- create:small_ochrum_brick_wall (from Create)
+- create:cut_scoria_wall (from Create)
+- create:polished_cut_scoria_wall (from Create)
+- create:cut_scoria_brick_wall (from Create)
+- create:small_scoria_brick_wall (from Create)
+- create:cut_scorchia_wall (from Create)
+- create:polished_cut_scorchia_wall (from Create)
+- create:cut_scorchia_brick_wall (from Create)
+- create:small_scorchia_brick_wall (from Create)
+- create:cut_veridium_wall (from Create)
+- create:polished_cut_veridium_wall (from Create)
+- create:cut_veridium_brick_wall (from Create)
+- create:small_veridium_brick_wall (from Create)
+- spectrum:smooth_basalt_wall (from Spectrum)
+- spectrum:polished_basalt_wall (from Spectrum)
+- spectrum:basalt_brick_wall (from Spectrum)
+- spectrum:calcite_wall (from Spectrum)
+- spectrum:polished_calcite_wall (from Spectrum)
+- spectrum:calcite_brick_wall (from Spectrum)
+
+#c:copper_raw_materials
+- minecraft:raw_copper (from Porting Lib Tags)
+
+#c:diamond_blocks
+- minecraft:diamond_block (from Porting Lib Tags)
+
+#spectrum:shooting_stars
+- spectrum:shooting_star_glistering (from Spectrum)
+- spectrum:shooting_star_fiery (from Spectrum)
+- spectrum:shooting_star_colorful (from Spectrum)
+- spectrum:shooting_star_pristine (from Spectrum)
+- spectrum:shooting_star_gemstone (from Spectrum)
+
+#c:cooked_meat
+- #c:cooked_fish (from Incubus Core)
+- minecraft:cooked_beef (from Incubus Core)
+- minecraft:cooked_porkchop (from Incubus Core)
+- minecraft:cooked_chicken (from Incubus Core)
+- minecraft:cooked_rabbit (from Incubus Core)
+- minecraft:cooked_mutton (from Incubus Core)
+
+#ae2:all_fluix
+- ae2:fluix_crystal (from Applied Energistics 2)
+
+#ae2:p2p_attunements/fe_p2p_tunnel
+- ae2:dense_energy_cell (from Applied Energistics 2)
+- ae2:energy_acceptor (from Applied Energistics 2)
+- ae2:energy_cell (from Applied Energistics 2)
+- ae2:creative_energy_cell (from Applied Energistics 2)
+- megacells:mega_energy_cell (from MEGA Cells)
+
+#itemfilters:filters
+- itemfilters:always_true (from Item Filters)
+- itemfilters:always_false (from Item Filters)
+- itemfilters:or (from Item Filters)
+- itemfilters:and (from Item Filters)
+- itemfilters:not (from Item Filters)
+- itemfilters:xor (from Item Filters)
+- itemfilters:tag (from Item Filters)
+- itemfilters:mod (from Item Filters)
+- itemfilters:item_group (from Item Filters)
+- itemfilters:id_regex (from Item Filters)
+- itemfilters:damage (from Item Filters)
+- itemfilters:block (from Item Filters)
+- itemfilters:max_count (from Item Filters)
+- itemfilters:strong_nbt (from Item Filters)
+- itemfilters:weak_nbt (from Item Filters)
+- itemfilters:custom (from Item Filters)
+
+#c:crops/potato
+- minecraft:potato (from Porting Lib Tags)
+
+#spectrum:amethyst_ores
+- spectrum:amethyst_ore (from Spectrum)
+- spectrum:deepslate_amethyst_ore (from Spectrum)
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs (from Default)
+- minecraft:music_disc_pigstep (from Default)
+- minecraft:music_disc_otherside (from Default)
+- minecraft:music_disc_5 (from Default)
+
+#c:gray_dye
+- minecraft:gray_dye (from Applied Energistics 2)
+
+#ae2:all_quartz
+- #c:quartz (from Applied Energistics 2)
+- #c:certus_quartz (from Applied Energistics 2)
+- ae2:charged_certus_quartz_crystal (from Applied Energistics 2)
+
+#c:blue_dyes
+- minecraft:blue_dye (from Fabric Convention Tags)
+- minecraft:blue_dye (from Porting Lib Tags)
+
+#c:swords
+- dragonloot:dragon_sword (from DragonLoot)
+- #fabric:swords? (from Fabric Convention Tags)
+- minecraft:diamond_sword (from Fabric Convention Tags)
+- minecraft:golden_sword (from Fabric Convention Tags)
+- minecraft:wooden_sword (from Fabric Convention Tags)
+- minecraft:stone_sword (from Fabric Convention Tags)
+- minecraft:iron_sword (from Fabric Convention Tags)
+- minecraft:netherite_sword (from Fabric Convention Tags)
+- minecraft:wooden_sword (from Porting Lib Tags)
+- minecraft:stone_sword (from Porting Lib Tags)
+- minecraft:iron_sword (from Porting Lib Tags)
+- minecraft:golden_sword (from Porting Lib Tags)
+- minecraft:diamond_sword (from Porting Lib Tags)
+- minecraft:netherite_sword (from Porting Lib Tags)
+- spectrum:bedrock_sword (from Spectrum)
+- spectrum:razor_falchion (from Spectrum)
+
+#c:armors
+- #c:helmets (from Porting Lib Tags)
+- #c:chestplates (from Porting Lib Tags)
+- #c:leggings (from Porting Lib Tags)
+- #c:boots (from Porting Lib Tags)
+
+#c:zinc_ingots
+- create:zinc_ingot (from Create)
+
+#minecraft:sand
+- minecraft:sand (from Default)
+- minecraft:red_sand (from Default)
+
+#mca:lactose
+- minecraft:cake (from Minecraft Comes Alive)
+- minecraft:cookie (from Minecraft Comes Alive)
+- minecraft:milk_bucket (from Minecraft Comes Alive)
+
+#c:starch
+- minecraft:wheat (from Incubus Core)
+- minecraft:potato (from Incubus Core)
+
+#spectrum:moonstone_ores
+- spectrum:moonstone_ore (from Spectrum)
+- spectrum:deepslate_moonstone_ore (from Spectrum)
+
+#trinkets:charm/charm
+- minecraft:totem_of_undying (from Charm of Undying)
+- biomemakeover:enchanted_totem? (from Charm of Undying)
+- fwaystones:void_totem? (from Charm of Undying)
+
+#c:ores_in_ground/netherrack
+- minecraft:nether_gold_ore (from Porting Lib Tags)
+- minecraft:nether_quartz_ore (from Porting Lib Tags)
+
+#c:shields
+- minecraft:shield (from Fabric Convention Tags)
+- minecraft:shield (from Porting Lib Tags)
+
+#fabric:hoes
+- dragonloot:dragon_hoe (from DragonLoot)
+
+#c:pink_glass_panes
+- minecraft:pink_stained_glass_pane (from Porting Lib Tags)
+
+#create:stone_types/diorite
+- create:cut_diorite (from Create)
+- create:cut_diorite_stairs (from Create)
+- create:cut_diorite_wall (from Create)
+- create:polished_cut_diorite (from Create)
+- create:polished_cut_diorite_stairs (from Create)
+- create:polished_cut_diorite_wall (from Create)
+- create:cut_diorite_bricks (from Create)
+- create:cut_diorite_brick_stairs (from Create)
+- create:cut_diorite_brick_wall (from Create)
+- create:small_diorite_bricks (from Create)
+- create:small_diorite_brick_stairs (from Create)
+- create:small_diorite_brick_wall (from Create)
+- create:layered_diorite (from Create)
+- create:diorite_pillar (from Create)
+
+#spectrum:mob_heads/bovine_heads
+- spectrum:cow_head (from Spectrum)
+- spectrum:mooshroom_red_head (from Spectrum)
+- spectrum:mooshroom_brown_head (from Spectrum)
+
+#spectrum:colored_stairs
+- spectrum:black_stairs (from Spectrum)
+- spectrum:blue_stairs (from Spectrum)
+- spectrum:brown_stairs (from Spectrum)
+- spectrum:cyan_stairs (from Spectrum)
+- spectrum:gray_stairs (from Spectrum)
+- spectrum:green_stairs (from Spectrum)
+- spectrum:light_blue_stairs (from Spectrum)
+- spectrum:light_gray_stairs (from Spectrum)
+- spectrum:lime_stairs (from Spectrum)
+- spectrum:magenta_stairs (from Spectrum)
+- spectrum:orange_stairs (from Spectrum)
+- spectrum:pink_stairs (from Spectrum)
+- spectrum:purple_stairs (from Spectrum)
+- spectrum:red_stairs (from Spectrum)
+- spectrum:white_stairs (from Spectrum)
+- spectrum:yellow_stairs (from Spectrum)
+
+#forge:storage_blocks
+- #mca:storage_blocks (from Minecraft Comes Alive)
+
+#spectrum:pure_resources
+- spectrum:pure_coal (from Spectrum)
+- spectrum:pure_iron (from Spectrum)
+- spectrum:pure_gold (from Spectrum)
+- spectrum:pure_diamond (from Spectrum)
+- spectrum:pure_emerald (from Spectrum)
+- spectrum:pure_redstone (from Spectrum)
+- spectrum:pure_lapis (from Spectrum)
+- spectrum:pure_copper (from Spectrum)
+- spectrum:pure_quartz (from Spectrum)
+- spectrum:pure_netherite (from Spectrum)
+- spectrum:pure_glowstone (from Spectrum)
+- spectrum:pure_prismarine (from Spectrum)
+- spectrum:pure_certus_quartz (from Spectrum)
+- spectrum:pure_fluix (from Spectrum)
+- spectrum:pure_globette (from Spectrum)
+- spectrum:pure_globette_nether (from Spectrum)
+- spectrum:pure_globette_end (from Spectrum)
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot (from Default)
+- minecraft:emerald (from Default)
+- minecraft:diamond (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:iron_ingot (from Default)
+- #create:create_ingots (from Create)
+- minecraft:amethyst_shard (from Spectrum)
+- spectrum:topaz_shard (from Spectrum)
+- spectrum:citrine_shard (from Spectrum)
+- spectrum:onyx_shard (from Spectrum)
+- spectrum:moonstone_shard (from Spectrum)
+- spectrum:spectral_shard (from Spectrum)
+
+#trinkets:chest/cape
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- minecraft:elytra (from Elytra Slot)
+- deeperdarker:soul_elytra? (from Elytra Slot)
+- enderitemod:enderite_elytra_seperated? (from Elytra Slot)
+- lilwings:white_fox_elytra? (from Elytra Slot)
+- lilwings:swamp_hopper_elytra? (from Elytra Slot)
+- lilwings:swallow_tail_elytra? (from Elytra Slot)
+- lilwings:shroom_skipper_elytra? (from Elytra Slot)
+- lilwings:painted_panther_elytra? (from Elytra Slot)
+- lilwings:crystal_puff_elytra? (from Elytra Slot)
+- lilwings:cloudy_puff_elytra? (from Elytra Slot)
+- lilwings:butter_gold_elytra? (from Elytra Slot)
+- lilwings:aponi_elytra? (from Elytra Slot)
+- lilwings:red_applefly_elytra? (from Elytra Slot)
+- lilwings:gold_applefly_elytra? (from Elytra Slot)
+- lilwings:grayling_elytra? (from Elytra Slot)
+- lilwings:grayling_flowering_elytra? (from Elytra Slot)
+- lilwings:grayling_blooming_elytra? (from Elytra Slot)
+
+#ae2:smart_cable
+- ae2:white_smart_cable (from Applied Energistics 2)
+- ae2:orange_smart_cable (from Applied Energistics 2)
+- ae2:magenta_smart_cable (from Applied Energistics 2)
+- ae2:light_blue_smart_cable (from Applied Energistics 2)
+- ae2:yellow_smart_cable (from Applied Energistics 2)
+- ae2:lime_smart_cable (from Applied Energistics 2)
+- ae2:pink_smart_cable (from Applied Energistics 2)
+- ae2:gray_smart_cable (from Applied Energistics 2)
+- ae2:light_gray_smart_cable (from Applied Energistics 2)
+- ae2:cyan_smart_cable (from Applied Energistics 2)
+- ae2:purple_smart_cable (from Applied Energistics 2)
+- ae2:blue_smart_cable (from Applied Energistics 2)
+- ae2:brown_smart_cable (from Applied Energistics 2)
+- ae2:green_smart_cable (from Applied Energistics 2)
+- ae2:red_smart_cable (from Applied Energistics 2)
+- ae2:black_smart_cable (from Applied Energistics 2)
+- ae2:fluix_smart_cable (from Applied Energistics 2)
+
+#c:amethysts
+- minecraft:amethyst_shard (from Incubus Core)
+
+#spectrum:colored_slabs
+- spectrum:black_slab (from Spectrum)
+- spectrum:blue_slab (from Spectrum)
+- spectrum:brown_slab (from Spectrum)
+- spectrum:cyan_slab (from Spectrum)
+- spectrum:gray_slab (from Spectrum)
+- spectrum:green_slab (from Spectrum)
+- spectrum:light_blue_slab (from Spectrum)
+- spectrum:light_gray_slab (from Spectrum)
+- spectrum:lime_slab (from Spectrum)
+- spectrum:magenta_slab (from Spectrum)
+- spectrum:orange_slab (from Spectrum)
+- spectrum:pink_slab (from Spectrum)
+- spectrum:purple_slab (from Spectrum)
+- spectrum:red_slab (from Spectrum)
+- spectrum:white_slab (from Spectrum)
+- spectrum:yellow_slab (from Spectrum)
+
+#minecraft:coal_ores
+- minecraft:coal_ore (from Default)
+- minecraft:deepslate_coal_ore (from Default)
+
+#create:stone_types/scorchia
+- create:cut_scorchia (from Create)
+- create:cut_scorchia_stairs (from Create)
+- create:cut_scorchia_wall (from Create)
+- create:polished_cut_scorchia (from Create)
+- create:polished_cut_scorchia_stairs (from Create)
+- create:polished_cut_scorchia_wall (from Create)
+- create:cut_scorchia_bricks (from Create)
+- create:cut_scorchia_brick_stairs (from Create)
+- create:cut_scorchia_brick_wall (from Create)
+- create:small_scorchia_bricks (from Create)
+- create:small_scorchia_brick_stairs (from Create)
+- create:small_scorchia_brick_wall (from Create)
+- create:layered_scorchia (from Create)
+- create:scorchia_pillar (from Create)
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor (from Default)
+- minecraft:birch_trapdoor (from Default)
+- minecraft:dark_oak_trapdoor (from Default)
+- minecraft:jungle_trapdoor (from Default)
+- minecraft:oak_trapdoor (from Default)
+- minecraft:spruce_trapdoor (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:mangrove_trapdoor (from Default)
+
+#c:tridents
+- minecraft:trident (from Porting Lib Tags)
+
+#c:gold_ores
+- #minecraft:gold_ores? (from Applied Energistics 2)
+- #minecraft:gold_ores (from Porting Lib Tags)
+- minecraft:gold_ore (from Incubus Core)
+
+#create:valve_handles
+- create:copper_valve_handle (from Create)
+- create:white_valve_handle (from Create)
+- create:orange_valve_handle (from Create)
+- create:magenta_valve_handle (from Create)
+- create:light_blue_valve_handle (from Create)
+- create:yellow_valve_handle (from Create)
+- create:lime_valve_handle (from Create)
+- create:pink_valve_handle (from Create)
+- create:gray_valve_handle (from Create)
+- create:light_gray_valve_handle (from Create)
+- create:cyan_valve_handle (from Create)
+- create:purple_valve_handle (from Create)
+- create:blue_valve_handle (from Create)
+- create:brown_valve_handle (from Create)
+- create:green_valve_handle (from Create)
+- create:red_valve_handle (from Create)
+- create:black_valve_handle (from Create)
+
+#c:pink_dyes
+- minecraft:pink_dye (from Fabric Convention Tags)
+- minecraft:pink_dye (from Porting Lib Tags)
+
+#c:flour
+- create:wheat_flour (from Create)
+
+#c:iron_nuggets
+- minecraft:iron_nugget (from Applied Energistics 2)
+- minecraft:iron_nugget (from Porting Lib Tags)
+- minecraft:iron_nugget (from Incubus Core)
+
+#c:crops/carrot
+- minecraft:carrot (from Porting Lib Tags)
+
+#c:netherite_ingots
+- minecraft:netherite_ingot (from Fabric Convention Tags)
+- minecraft:netherite_ingot (from Porting Lib Tags)
+- minecraft:netherite_ingot (from Incubus Core)
+
+#c:nether_stars
+- minecraft:nether_star (from Porting Lib Tags)
+
+#c:spears
+- minecraft:trident (from Fabric Convention Tags)
+
+#c:quartz_blocks
+- minecraft:quartz_block (from Porting Lib Tags)
+- minecraft:quartz (from Powah!)
+
+#minecraft:stairs
+- #minecraft:wooden_stairs (from Default)
+- minecraft:cobblestone_stairs (from Default)
+- minecraft:sandstone_stairs (from Default)
+- minecraft:nether_brick_stairs (from Default)
+- minecraft:stone_brick_stairs (from Default)
+- minecraft:brick_stairs (from Default)
+- minecraft:purpur_stairs (from Default)
+- minecraft:quartz_stairs (from Default)
+- minecraft:red_sandstone_stairs (from Default)
+- minecraft:prismarine_brick_stairs (from Default)
+- minecraft:prismarine_stairs (from Default)
+- minecraft:dark_prismarine_stairs (from Default)
+- minecraft:polished_granite_stairs (from Default)
+- minecraft:smooth_red_sandstone_stairs (from Default)
+- minecraft:mossy_stone_brick_stairs (from Default)
+- minecraft:polished_diorite_stairs (from Default)
+- minecraft:mossy_cobblestone_stairs (from Default)
+- minecraft:end_stone_brick_stairs (from Default)
+- minecraft:stone_stairs (from Default)
+- minecraft:smooth_sandstone_stairs (from Default)
+- minecraft:smooth_quartz_stairs (from Default)
+- minecraft:granite_stairs (from Default)
+- minecraft:andesite_stairs (from Default)
+- minecraft:red_nether_brick_stairs (from Default)
+- minecraft:polished_andesite_stairs (from Default)
+- minecraft:diorite_stairs (from Default)
+- minecraft:blackstone_stairs (from Default)
+- minecraft:polished_blackstone_brick_stairs (from Default)
+- minecraft:polished_blackstone_stairs (from Default)
+- minecraft:cobbled_deepslate_stairs (from Default)
+- minecraft:polished_deepslate_stairs (from Default)
+- minecraft:deepslate_tile_stairs (from Default)
+- minecraft:deepslate_brick_stairs (from Default)
+- minecraft:oxidized_cut_copper_stairs (from Default)
+- minecraft:weathered_cut_copper_stairs (from Default)
+- minecraft:exposed_cut_copper_stairs (from Default)
+- minecraft:cut_copper_stairs (from Default)
+- minecraft:waxed_weathered_cut_copper_stairs (from Default)
+- minecraft:waxed_exposed_cut_copper_stairs (from Default)
+- minecraft:waxed_cut_copper_stairs (from Default)
+- minecraft:waxed_oxidized_cut_copper_stairs (from Default)
+- minecraft:mud_brick_stairs (from Default)
+- create:cut_granite_stairs (from Create)
+- create:polished_cut_granite_stairs (from Create)
+- create:cut_granite_brick_stairs (from Create)
+- create:small_granite_brick_stairs (from Create)
+- create:cut_diorite_stairs (from Create)
+- create:polished_cut_diorite_stairs (from Create)
+- create:cut_diorite_brick_stairs (from Create)
+- create:small_diorite_brick_stairs (from Create)
+- create:cut_andesite_stairs (from Create)
+- create:polished_cut_andesite_stairs (from Create)
+- create:cut_andesite_brick_stairs (from Create)
+- create:small_andesite_brick_stairs (from Create)
+- create:cut_calcite_stairs (from Create)
+- create:polished_cut_calcite_stairs (from Create)
+- create:cut_calcite_brick_stairs (from Create)
+- create:small_calcite_brick_stairs (from Create)
+- create:cut_dripstone_stairs (from Create)
+- create:polished_cut_dripstone_stairs (from Create)
+- create:cut_dripstone_brick_stairs (from Create)
+- create:small_dripstone_brick_stairs (from Create)
+- create:cut_deepslate_stairs (from Create)
+- create:polished_cut_deepslate_stairs (from Create)
+- create:cut_deepslate_brick_stairs (from Create)
+- create:small_deepslate_brick_stairs (from Create)
+- create:cut_tuff_stairs (from Create)
+- create:polished_cut_tuff_stairs (from Create)
+- create:cut_tuff_brick_stairs (from Create)
+- create:small_tuff_brick_stairs (from Create)
+- create:cut_asurine_stairs (from Create)
+- create:polished_cut_asurine_stairs (from Create)
+- create:cut_asurine_brick_stairs (from Create)
+- create:small_asurine_brick_stairs (from Create)
+- create:cut_crimsite_stairs (from Create)
+- create:polished_cut_crimsite_stairs (from Create)
+- create:cut_crimsite_brick_stairs (from Create)
+- create:small_crimsite_brick_stairs (from Create)
+- create:cut_limestone_stairs (from Create)
+- create:polished_cut_limestone_stairs (from Create)
+- create:cut_limestone_brick_stairs (from Create)
+- create:small_limestone_brick_stairs (from Create)
+- create:cut_ochrum_stairs (from Create)
+- create:polished_cut_ochrum_stairs (from Create)
+- create:cut_ochrum_brick_stairs (from Create)
+- create:small_ochrum_brick_stairs (from Create)
+- create:cut_scoria_stairs (from Create)
+- create:polished_cut_scoria_stairs (from Create)
+- create:cut_scoria_brick_stairs (from Create)
+- create:small_scoria_brick_stairs (from Create)
+- create:cut_scorchia_stairs (from Create)
+- create:polished_cut_scorchia_stairs (from Create)
+- create:cut_scorchia_brick_stairs (from Create)
+- create:small_scorchia_brick_stairs (from Create)
+- create:cut_veridium_stairs (from Create)
+- create:polished_cut_veridium_stairs (from Create)
+- create:cut_veridium_brick_stairs (from Create)
+- create:small_veridium_brick_stairs (from Create)
+- spectrum:smooth_basalt_stairs (from Spectrum)
+- spectrum:polished_basalt_stairs (from Spectrum)
+- spectrum:basalt_brick_stairs (from Spectrum)
+- spectrum:calcite_stairs (from Spectrum)
+- spectrum:polished_calcite_stairs (from Spectrum)
+- spectrum:calcite_brick_stairs (from Spectrum)
+- #spectrum:colored_stairs (from Spectrum)
+
+#c:plates
+- create:sturdy_sheet (from Create)
+- create:copper_sheet (from Create)
+- create:brass_sheet (from Create)
+- create:iron_sheet (from Create)
+- create:golden_sheet (from Create)
+
+#c:eggs
+- minecraft:egg (from Porting Lib Tags)
+
+#c:white_glass_panes
+- minecraft:white_stained_glass_pane (from Porting Lib Tags)
+
+#minecraft:logs
+- #minecraft:logs_that_burn (from Default)
+- #minecraft:crimson_stems (from Default)
+- #minecraft:warped_stems (from Default)
+
+#create:stone_types/andesite
+- create:cut_andesite (from Create)
+- create:cut_andesite_stairs (from Create)
+- create:cut_andesite_wall (from Create)
+- create:polished_cut_andesite (from Create)
+- create:polished_cut_andesite_stairs (from Create)
+- create:polished_cut_andesite_wall (from Create)
+- create:cut_andesite_bricks (from Create)
+- create:cut_andesite_brick_stairs (from Create)
+- create:cut_andesite_brick_wall (from Create)
+- create:small_andesite_bricks (from Create)
+- create:small_andesite_brick_stairs (from Create)
+- create:small_andesite_brick_wall (from Create)
+- create:layered_andesite (from Create)
+- create:andesite_pillar (from Create)
+
+#c:coal_blocks
+- minecraft:coal_block (from Porting Lib Tags)
+
+#minecraft:compasses
+- minecraft:compass (from Default)
+- minecraft:recovery_compass (from Default)
+
+#minecraft:arrows
+- minecraft:arrow (from Default)
+- minecraft:tipped_arrow (from Default)
+- minecraft:spectral_arrow (from Default)
+
+#c:pickaxes
+- dragonloot:dragon_pickaxe (from DragonLoot)
+- #fabric:pickaxes? (from Fabric Convention Tags)
+- minecraft:diamond_pickaxe (from Fabric Convention Tags)
+- minecraft:golden_pickaxe (from Fabric Convention Tags)
+- minecraft:wooden_pickaxe (from Fabric Convention Tags)
+- minecraft:stone_pickaxe (from Fabric Convention Tags)
+- minecraft:iron_pickaxe (from Fabric Convention Tags)
+- minecraft:netherite_pickaxe (from Fabric Convention Tags)
+- minecraft:wooden_pickaxe (from Porting Lib Tags)
+- minecraft:stone_pickaxe (from Porting Lib Tags)
+- minecraft:iron_pickaxe (from Porting Lib Tags)
+- minecraft:golden_pickaxe (from Porting Lib Tags)
+- minecraft:diamond_pickaxe (from Porting Lib Tags)
+- minecraft:netherite_pickaxe (from Porting Lib Tags)
+- spectrum:bedrock_pickaxe (from Spectrum)
+- spectrum:tender_pickaxe (from Spectrum)
+- spectrum:lucky_pickaxe (from Spectrum)
+- spectrum:oblivion_pickaxe (from Spectrum)
+- spectrum:resonant_pickaxe (from Spectrum)
+- spectrum:multitool (from Spectrum)
+
+#create:vanilla_stripped_wood
+- minecraft:stripped_acacia_wood (from Create)
+- minecraft:stripped_birch_wood (from Create)
+- minecraft:stripped_crimson_hyphae (from Create)
+- minecraft:stripped_dark_oak_wood (from Create)
+- minecraft:stripped_jungle_wood (from Create)
+- minecraft:stripped_oak_wood (from Create)
+- minecraft:stripped_mangrove_wood (from Create)
+- minecraft:stripped_spruce_wood (from Create)
+- minecraft:stripped_warped_hyphae (from Create)
+
+#c:red_dye
+- minecraft:red_dye (from Applied Energistics 2)
+
+#c:gravel
+- minecraft:gravel (from Porting Lib Tags)
+
+#c:white_dyes
+- minecraft:white_dye (from Fabric Convention Tags)
+- minecraft:white_dye (from Porting Lib Tags)
+
+#spectrum:raw_common_meats
+- minecraft:beef (from Spectrum)
+- minecraft:mutton (from Spectrum)
+- minecraft:chicken (from Spectrum)
+
+#minecraft:wooden_doors
+- minecraft:oak_door (from Default)
+- minecraft:spruce_door (from Default)
+- minecraft:birch_door (from Default)
+- minecraft:jungle_door (from Default)
+- minecraft:acacia_door (from Default)
+- minecraft:dark_oak_door (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:mangrove_door (from Default)
+
+#c:trapped_chests
+- minecraft:trapped_chest (from Porting Lib Tags)
+
+#ae2:p2p_attunements/light_p2p_tunnel
+- minecraft:torch (from Applied Energistics 2)
+- minecraft:glowstone (from Applied Energistics 2)
+
+#spectrum:alcohols
+- #spectrum:drinkable_spirits (from Spectrum)
+- spectrum:pure_alcohol (from Spectrum)
+
+#c:wooden_barrels
+- minecraft:barrel (from Porting Lib Tags)
+
+#trinkets:head/crown
+- spectrum:ashen_circlet (from Spectrum)
+- spectrum:weeping_circlet (from Spectrum)
+- spectrum:puff_circlet (from Spectrum)
+- spectrum:whispy_circlet (from Spectrum)
+
+#minecraft:emerald_ores
+- minecraft:emerald_ore (from Default)
+- minecraft:deepslate_emerald_ore (from Default)
+
+#create:stone_types/deepslate
+- create:cut_deepslate (from Create)
+- create:cut_deepslate_stairs (from Create)
+- create:cut_deepslate_wall (from Create)
+- create:polished_cut_deepslate (from Create)
+- create:polished_cut_deepslate_stairs (from Create)
+- create:polished_cut_deepslate_wall (from Create)
+- create:cut_deepslate_bricks (from Create)
+- create:cut_deepslate_brick_stairs (from Create)
+- create:cut_deepslate_brick_wall (from Create)
+- create:small_deepslate_bricks (from Create)
+- create:small_deepslate_brick_stairs (from Create)
+- create:small_deepslate_brick_wall (from Create)
+- create:layered_deepslate (from Create)
+- create:deepslate_pillar (from Create)
+
+#c:yellow_glass
+- minecraft:yellow_stained_glass (from Porting Lib Tags)
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+
+#spectrum:amethyst_chiseled_base_blocks
+- spectrum:amethyst_chiseled_basalt (from Spectrum)
+- spectrum:amethyst_chiseled_calcite (from Spectrum)
+
+#c:black_dye
+- minecraft:black_dye (from Applied Energistics 2)
+
+#minecraft:ignored_by_piglin_babies
+- minecraft:leather (from Default)
+
+#c:colorless_glass
+- create:tiled_glass (from Create)
+- create:framed_glass (from Create)
+- create:horizontal_framed_glass (from Create)
+- create:vertical_framed_glass (from Create)
+- minecraft:glass (from Porting Lib Tags)
+
+#c:tinted_glass
+- minecraft:tinted_glass (from Porting Lib Tags)
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#spectrum:drinkable_spirits
+- spectrum:jade_wine (from Spectrum)
+- spectrum:infused_beverage (from Spectrum)
+- spectrum:suspicious_brew (from Spectrum)
+- spectrum:reprise (from Spectrum)
+
+#minecraft:terracotta
+- minecraft:terracotta (from Default)
+- minecraft:white_terracotta (from Default)
+- minecraft:orange_terracotta (from Default)
+- minecraft:magenta_terracotta (from Default)
+- minecraft:light_blue_terracotta (from Default)
+- minecraft:yellow_terracotta (from Default)
+- minecraft:lime_terracotta (from Default)
+- minecraft:pink_terracotta (from Default)
+- minecraft:gray_terracotta (from Default)
+- minecraft:light_gray_terracotta (from Default)
+- minecraft:cyan_terracotta (from Default)
+- minecraft:purple_terracotta (from Default)
+- minecraft:blue_terracotta (from Default)
+- minecraft:brown_terracotta (from Default)
+- minecraft:green_terracotta (from Default)
+- minecraft:red_terracotta (from Default)
+- minecraft:black_terracotta (from Default)
+
+#c:wooden_fence_gates
+- minecraft:oak_fence_gate (from Porting Lib Tags)
+- minecraft:spruce_fence_gate (from Porting Lib Tags)
+- minecraft:birch_fence_gate (from Porting Lib Tags)
+- minecraft:jungle_fence_gate (from Porting Lib Tags)
+- minecraft:acacia_fence_gate (from Porting Lib Tags)
+- minecraft:dark_oak_fence_gate (from Porting Lib Tags)
+- minecraft:crimson_fence_gate (from Porting Lib Tags)
+- minecraft:warped_fence_gate (from Porting Lib Tags)
+
+#c:green_glass
+- minecraft:green_stained_glass (from Porting Lib Tags)
+
+#c:zinc_ores
+- create:zinc_ore (from Create)
+- create:deepslate_zinc_ore (from Create)
+
+#c:stripped_logs
+- #create:vanilla_stripped_logs (from Create)
+- #create:modded_stripped_logs (from Create)
+
+#spectrum:colored_pressure_plates
+- spectrum:black_pressure_plate (from Spectrum)
+- spectrum:blue_pressure_plate (from Spectrum)
+- spectrum:brown_pressure_plate (from Spectrum)
+- spectrum:cyan_pressure_plate (from Spectrum)
+- spectrum:gray_pressure_plate (from Spectrum)
+- spectrum:green_pressure_plate (from Spectrum)
+- spectrum:light_blue_pressure_plate (from Spectrum)
+- spectrum:light_gray_pressure_plate (from Spectrum)
+- spectrum:lime_pressure_plate (from Spectrum)
+- spectrum:magenta_pressure_plate (from Spectrum)
+- spectrum:orange_pressure_plate (from Spectrum)
+- spectrum:pink_pressure_plate (from Spectrum)
+- spectrum:purple_pressure_plate (from Spectrum)
+- spectrum:red_pressure_plate (from Spectrum)
+- spectrum:white_pressure_plate (from Spectrum)
+- spectrum:yellow_pressure_plate (from Spectrum)
+
+#c:black_glass_panes
+- minecraft:black_stained_glass_pane (from Porting Lib Tags)
+
+#c:wooden_fences
+- #minecraft:wooden_fences (from Porting Lib Tags)
+
+#c:ingots
+- #create:create_ingots (from Create)
+- #c:brick_ingots (from Porting Lib Tags)
+- #c:copper_ingots (from Porting Lib Tags)
+- #c:gold_ingots (from Porting Lib Tags)
+- #c:iron_ingots (from Porting Lib Tags)
+- #c:netherite_ingots (from Porting Lib Tags)
+- #c:nether_brick_ingots (from Porting Lib Tags)
+
+#ae2:illuminated_panel
+- ae2:monitor (from Applied Energistics 2)
+- ae2:semi_dark_monitor (from Applied Energistics 2)
+- ae2:dark_monitor (from Applied Energistics 2)
+
+#minecraft:anvil
+- minecraft:anvil (from Default)
+- minecraft:chipped_anvil (from Default)
+- minecraft:damaged_anvil (from Default)
+- spectrum:bedrock_anvil (from Spectrum)
+
+#c:iron_blocks
+- minecraft:iron_block (from Porting Lib Tags)
+
+#c:coal_ores
+- #minecraft:coal_ores (from Porting Lib Tags)
+- minecraft:coal_ore (from Incubus Core)
+
+#ftbchunks:right_click_blacklist
+- minecraft:bucket (from FTB Chunks)
+- minecraft:water_bucket (from FTB Chunks)
+- minecraft:lava_bucket (from FTB Chunks)
+- minecraft:lead (from FTB Chunks)
+- minecraft:name_tag (from FTB Chunks)
+- minecraft:splash_potion (from FTB Chunks)
+- minecraft:lingering_potion (from FTB Chunks)
+
+#spectrum:mob_heads
+- minecraft:skeleton_skull (from Spectrum)
+- minecraft:wither_skeleton_skull (from Spectrum)
+- minecraft:zombie_head (from Spectrum)
+- minecraft:creeper_head (from Spectrum)
+- minecraft:dragon_head (from Spectrum)
+- spectrum:egg_laying_wooly_pig_head (from Spectrum)
+- spectrum:axolotl_blue_head (from Spectrum)
+- spectrum:axolotl_brown_head (from Spectrum)
+- spectrum:axolotl_cyan_head (from Spectrum)
+- spectrum:axolotl_gold_head (from Spectrum)
+- spectrum:axolotl_leucistic_head (from Spectrum)
+- spectrum:bat_head (from Spectrum)
+- spectrum:bee_head (from Spectrum)
+- spectrum:blaze_head (from Spectrum)
+- spectrum:cat_head (from Spectrum)
+- spectrum:cave_spider_head (from Spectrum)
+- spectrum:chicken_head (from Spectrum)
+- spectrum:clownfish_head (from Spectrum)
+- spectrum:cow_head (from Spectrum)
+- spectrum:donkey_head (from Spectrum)
+- spectrum:drowned_head (from Spectrum)
+- spectrum:elder_guardian_head (from Spectrum)
+- spectrum:enderman_head (from Spectrum)
+- spectrum:endermite_head (from Spectrum)
+- spectrum:evoker_head (from Spectrum)
+- spectrum:fox_head (from Spectrum)
+- spectrum:fox_arctic_head (from Spectrum)
+- spectrum:ghast_head (from Spectrum)
+- spectrum:glow_squid_head (from Spectrum)
+- spectrum:goat_head (from Spectrum)
+- spectrum:guardian_head (from Spectrum)
+- spectrum:hoglin_head (from Spectrum)
+- spectrum:horse_head (from Spectrum)
+- spectrum:husk_head (from Spectrum)
+- spectrum:illusioner_head (from Spectrum)
+- spectrum:iron_golem_head (from Spectrum)
+- spectrum:llama_head (from Spectrum)
+- spectrum:magma_cube_head (from Spectrum)
+- spectrum:mooshroom_red_head (from Spectrum)
+- spectrum:mooshroom_brown_head (from Spectrum)
+- spectrum:mule_head (from Spectrum)
+- spectrum:ocelot_head (from Spectrum)
+- spectrum:panda_head (from Spectrum)
+- spectrum:parrot_blue_head (from Spectrum)
+- spectrum:parrot_cyan_head (from Spectrum)
+- spectrum:parrot_gray_head (from Spectrum)
+- spectrum:parrot_green_head (from Spectrum)
+- spectrum:parrot_red_head (from Spectrum)
+- spectrum:phantom_head (from Spectrum)
+- spectrum:pig_head (from Spectrum)
+- spectrum:piglin_head (from Spectrum)
+- spectrum:polar_bear_head (from Spectrum)
+- spectrum:pufferfish_head (from Spectrum)
+- spectrum:rabbit_head (from Spectrum)
+- spectrum:ravager_head (from Spectrum)
+- spectrum:salmon_head (from Spectrum)
+- spectrum:sheep_black_head (from Spectrum)
+- spectrum:sheep_blue_head (from Spectrum)
+- spectrum:sheep_brown_head (from Spectrum)
+- spectrum:sheep_cyan_head (from Spectrum)
+- spectrum:sheep_gray_head (from Spectrum)
+- spectrum:sheep_green_head (from Spectrum)
+- spectrum:sheep_light_blue_head (from Spectrum)
+- spectrum:sheep_light_gray_head (from Spectrum)
+- spectrum:sheep_lime_head (from Spectrum)
+- spectrum:sheep_magenta_head (from Spectrum)
+- spectrum:sheep_orange_head (from Spectrum)
+- spectrum:sheep_pink_head (from Spectrum)
+- spectrum:sheep_purple_head (from Spectrum)
+- spectrum:sheep_red_head (from Spectrum)
+- spectrum:sheep_white_head (from Spectrum)
+- spectrum:sheep_yellow_head (from Spectrum)
+- spectrum:shulker_black_head (from Spectrum)
+- spectrum:shulker_blue_head (from Spectrum)
+- spectrum:shulker_brown_head (from Spectrum)
+- spectrum:shulker_cyan_head (from Spectrum)
+- spectrum:shulker_gray_head (from Spectrum)
+- spectrum:shulker_green_head (from Spectrum)
+- spectrum:shulker_light_blue_head (from Spectrum)
+- spectrum:shulker_light_gray_head (from Spectrum)
+- spectrum:shulker_lime_head (from Spectrum)
+- spectrum:shulker_magenta_head (from Spectrum)
+- spectrum:shulker_orange_head (from Spectrum)
+- spectrum:shulker_pink_head (from Spectrum)
+- spectrum:shulker_purple_head (from Spectrum)
+- spectrum:shulker_red_head (from Spectrum)
+- spectrum:shulker_white_head (from Spectrum)
+- spectrum:shulker_yellow_head (from Spectrum)
+- spectrum:silverfish_head (from Spectrum)
+- spectrum:slime_head (from Spectrum)
+- spectrum:snow_golem_head (from Spectrum)
+- spectrum:spider_head (from Spectrum)
+- spectrum:squid_head (from Spectrum)
+- spectrum:stray_head (from Spectrum)
+- spectrum:strider_head (from Spectrum)
+- spectrum:trader_llama_head (from Spectrum)
+- spectrum:turtle_head (from Spectrum)
+- spectrum:vex_head (from Spectrum)
+- spectrum:villager_head (from Spectrum)
+- spectrum:vindicator_head (from Spectrum)
+- spectrum:wandering_trader_head (from Spectrum)
+- spectrum:witch_head (from Spectrum)
+- spectrum:wither_head (from Spectrum)
+- spectrum:wolf_head (from Spectrum)
+- spectrum:zoglin_head (from Spectrum)
+- spectrum:zombie_villager_head (from Spectrum)
+- spectrum:zombified_piglin_head (from Spectrum)
+
+#c:glass_panes
+- create:tiled_glass_pane (from Create)
+- create:framed_glass_pane (from Create)
+- create:horizontal_framed_glass_pane (from Create)
+- create:vertical_framed_glass_pane (from Create)
+- create:oak_window_pane (from Create)
+- create:spruce_window_pane (from Create)
+- create:birch_window_pane (from Create)
+- create:jungle_window_pane (from Create)
+- create:acacia_window_pane (from Create)
+- create:dark_oak_window_pane (from Create)
+- create:crimson_window_pane (from Create)
+- create:warped_window_pane (from Create)
+- create:ornate_iron_window_pane (from Create)
+- minecraft:glass_pane (from Fabric Convention Tags)
+- minecraft:gray_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:black_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:orange_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:blue_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:brown_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:cyan_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:green_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:light_blue_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:light_gray_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:lime_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:magenta_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:pink_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:purple_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:red_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:white_stained_glass_pane (from Fabric Convention Tags)
+- minecraft:yellow_stained_glass_pane (from Fabric Convention Tags)
+- #c:colorless_glass_panes (from Porting Lib Tags)
+- #c:stained_glass_panes (from Porting Lib Tags)
+- #c:stained_glass_panes (from Incubus Core)
+- minecraft:glass_pane (from Incubus Core)
+
+#c:sandstone
+- minecraft:sandstone (from Porting Lib Tags)
+- minecraft:cut_sandstone (from Porting Lib Tags)
+- minecraft:chiseled_sandstone (from Porting Lib Tags)
+- minecraft:smooth_sandstone (from Porting Lib Tags)
+- minecraft:red_sandstone (from Porting Lib Tags)
+- minecraft:cut_red_sandstone (from Porting Lib Tags)
+- minecraft:chiseled_red_sandstone (from Porting Lib Tags)
+- minecraft:smooth_red_sandstone (from Porting Lib Tags)
+
+#c:mushrooms
+- minecraft:brown_mushroom (from Porting Lib Tags)
+- minecraft:red_mushroom (from Porting Lib Tags)
+- #c:mushrooms_nether (from Incubus Core)
+- minecraft:red_mushroom (from Incubus Core)
+- minecraft:brown_mushroom (from Incubus Core)
+
+#ae2:can_remove_color
+- minecraft:water_bucket (from Applied Energistics 2)
+- minecraft:snowball (from Applied Energistics 2)
+
+#trinkets:head/face
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- create:goggles (from Create)
+- doodads:ender_goggles (from Doodads)
+- doodads:beaver_teeth (from Doodads)
+- doodads:bendy_straw (from Doodads)
+- spectrum:glow_vision_goggles (from Spectrum)
+
+#minecraft:iron_ores
+- minecraft:iron_ore (from Default)
+- minecraft:deepslate_iron_ore (from Default)
+
+#create:stone_types/scoria
+- create:cut_scoria (from Create)
+- create:cut_scoria_stairs (from Create)
+- create:cut_scoria_wall (from Create)
+- create:polished_cut_scoria (from Create)
+- create:polished_cut_scoria_stairs (from Create)
+- create:polished_cut_scoria_wall (from Create)
+- create:cut_scoria_bricks (from Create)
+- create:cut_scoria_brick_stairs (from Create)
+- create:cut_scoria_brick_wall (from Create)
+- create:small_scoria_bricks (from Create)
+- create:small_scoria_brick_stairs (from Create)
+- create:small_scoria_brick_wall (from Create)
+- create:layered_scoria (from Create)
+- create:scoria_pillar (from Create)
+
+#c:raw_copper_ores
+- minecraft:raw_copper (from Fabric Convention Tags)
+- minecraft:raw_copper (from Incubus Core)
+
+#c:ore_bearing_ground/deepslate
+- minecraft:deepslate (from Porting Lib Tags)
+
+#c:orange_dyes
+- minecraft:orange_dye (from Fabric Convention Tags)
+- minecraft:orange_dye (from Porting Lib Tags)
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone (from Default)
+- minecraft:blackstone (from Default)
+- minecraft:cobbled_deepslate (from Default)
+
+#c:milks
+- spectrum:clotted_cream (from Spectrum)
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch (from Default)
+- minecraft:soul_lantern (from Default)
+- minecraft:soul_campfire (from Default)
+
+#c:shears
+- #fabric:shears? (from Fabric Convention Tags)
+- minecraft:shears (from Fabric Convention Tags)
+- minecraft:shears (from Porting Lib Tags)
+- spectrum:bedrock_shears (from Spectrum)
+
+#c:potions
+- minecraft:lingering_potion (from Fabric Convention Tags)
+- minecraft:splash_potion (from Fabric Convention Tags)
+- minecraft:potion (from Fabric Convention Tags)
+
+#trinkets:chest/necklace
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- artifacts:cross_necklace (from Artifacts)
+- artifacts:flame_pendant (from Artifacts)
+- artifacts:lucky_scarf (from Artifacts)
+- artifacts:panic_necklace (from Artifacts)
+- artifacts:scarf_of_invisibility (from Artifacts)
+- artifacts:shock_pendant (from Artifacts)
+- artifacts:thorn_pendant (from Artifacts)
+- artifacts:charm_of_sinking (from Artifacts)
+- doodads:midnights_eye (from Doodads)
+- spectrum:totem_pendant (from Spectrum)
+- spectrum:lesser_potion_pendant (from Spectrum)
+- spectrum:greater_potion_pendant (from Spectrum)
+- spectrum:shieldgrasp_amulet (from Spectrum)
+
+#c:fences
+- #c:nether_brick_fences (from Porting Lib Tags)
+- #c:wooden_fences (from Porting Lib Tags)
+
+#c:red_glass_panes
+- minecraft:red_stained_glass_pane (from Porting Lib Tags)
+
+#c:lime_glass_panes
+- minecraft:lime_stained_glass_pane (from Porting Lib Tags)
+
+#c:copper_blocks
+- minecraft:copper_block (from Porting Lib Tags)
+- minecraft:cut_copper (from Porting Lib Tags)
+
+#ae2:knife
+- ae2:certus_quartz_cutting_knife (from Applied Energistics 2)
+- ae2:nether_quartz_cutting_knife (from Applied Energistics 2)
+
+#spectrum:onyx_ores
+- spectrum:onyx_ore (from Spectrum)
+- spectrum:deepslate_onyx_ore (from Spectrum)
+
+#spectrum:mob_heads/equidae_heads
+- spectrum:donkey_head (from Spectrum)
+- spectrum:horse_head (from Spectrum)
+- spectrum:mule_head (from Spectrum)
+
+#minecraft:mangrove_logs
+- minecraft:mangrove_log (from Default)
+- minecraft:mangrove_wood (from Default)
+- minecraft:stripped_mangrove_log (from Default)
+- minecraft:stripped_mangrove_wood (from Default)
+
+#spectrum:dyes
+- minecraft:black_dye (from Spectrum)
+- minecraft:blue_dye (from Spectrum)
+- minecraft:brown_dye (from Spectrum)
+- minecraft:cyan_dye (from Spectrum)
+- minecraft:gray_dye (from Spectrum)
+- minecraft:green_dye (from Spectrum)
+- minecraft:light_blue_dye (from Spectrum)
+- minecraft:light_gray_dye (from Spectrum)
+- minecraft:lime_dye (from Spectrum)
+- minecraft:magenta_dye (from Spectrum)
+- minecraft:orange_dye (from Spectrum)
+- minecraft:pink_dye (from Spectrum)
+- minecraft:purple_dye (from Spectrum)
+- minecraft:red_dye (from Spectrum)
+- minecraft:white_dye (from Spectrum)
+- minecraft:yellow_dye (from Spectrum)
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs (from Default)
+- minecraft:spruce_stairs (from Default)
+- minecraft:birch_stairs (from Default)
+- minecraft:jungle_stairs (from Default)
+- minecraft:acacia_stairs (from Default)
+- minecraft:dark_oak_stairs (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:mangrove_stairs (from Default)
+
+#c:glowstone_dusts
+- minecraft:glowstone_dust (from Applied Energistics 2)
+- minecraft:glowstone_dust (from Incubus Core)
+
+#minecraft:wooden_buttons
+- minecraft:oak_button (from Default)
+- minecraft:spruce_button (from Default)
+- minecraft:birch_button (from Default)
+- minecraft:jungle_button (from Default)
+- minecraft:acacia_button (from Default)
+- minecraft:dark_oak_button (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:mangrove_button (from Default)
+- #spectrum:colored_buttons (from Spectrum)
+
+#c:terracotta
+- minecraft:white_terracotta (from Incubus Core)
+- minecraft:orange_terracotta (from Incubus Core)
+- minecraft:magenta_terracotta (from Incubus Core)
+- minecraft:light_blue_terracotta (from Incubus Core)
+- minecraft:yellow_terracotta (from Incubus Core)
+- minecraft:lime_terracotta (from Incubus Core)
+- minecraft:pink_terracotta (from Incubus Core)
+- minecraft:gray_terracotta (from Incubus Core)
+- minecraft:light_gray_terracotta (from Incubus Core)
+- minecraft:cyan_terracotta (from Incubus Core)
+- minecraft:purple_terracotta (from Incubus Core)
+- minecraft:blue_terracotta (from Incubus Core)
+- minecraft:brown_terracotta (from Incubus Core)
+- minecraft:green_terracotta (from Incubus Core)
+- minecraft:red_terracotta (from Incubus Core)
+- minecraft:black_terracotta (from Incubus Core)
+
+#c:slimeballs
+- minecraft:slime_ball (from Porting Lib Tags)
+
+#modern_industrialization:replicator_blacklist
+- #spectrum:bedrock_equipment (from Spectrum)
+- #spectrum:bedrock_armor (from Spectrum)
+- #spectrum:gemstone_armor (from Spectrum)
+- #spectrum:mob_heads (from Spectrum)
+- spectrum:bottomless_bundle (from Spectrum)
+- spectrum:memory (from Spectrum)
+- spectrum:cracked_end_portal_frame (from Spectrum)
+- #spectrum:pedestals (from Spectrum)
+- spectrum:knowledge_gem (from Spectrum)
+- spectrum:celestial_pocketwatch (from Spectrum)
+- spectrum:moonstone_shard (from Spectrum)
+- spectrum:moonstone_powder (from Spectrum)
+- spectrum:onyx_shard (from Spectrum)
+- spectrum:onyx_powder (from Spectrum)
+- spectrum:spectral_shard (from Spectrum)
+- spectrum:hibernating_jade_vine_seeds (from Spectrum)
+- spectrum:germinated_jade_vine_seeds (from Spectrum)
+- spectrum:jade_vine_petals (from Spectrum)
+- spectrum:moonstruck_nectar (from Spectrum)
+- spectrum:vegetal (from Spectrum)
+- spectrum:neolith (from Spectrum)
+- spectrum:bedrock_dust (from Spectrum)
+- spectrum:midnight_aberration (from Spectrum)
+- spectrum:midnight_chip (from Spectrum)
+- spectrum:multitool (from Spectrum)
+- spectrum:tender_pickaxe (from Spectrum)
+- spectrum:lucky_pickaxe (from Spectrum)
+- spectrum:razor_falchion (from Spectrum)
+- spectrum:oblivion_pickaxe (from Spectrum)
+- spectrum:resonant_pickaxe (from Spectrum)
+- spectrum:ender_splice (from Spectrum)
+- #spectrum:trinkets (from Spectrum)
+
+#c:helmets
+- minecraft:leather_helmet (from Porting Lib Tags)
+- minecraft:turtle_helmet (from Porting Lib Tags)
+- minecraft:chainmail_helmet (from Porting Lib Tags)
+- minecraft:iron_helmet (from Porting Lib Tags)
+- minecraft:golden_helmet (from Porting Lib Tags)
+- minecraft:diamond_helmet (from Porting Lib Tags)
+- minecraft:netherite_helmet (from Porting Lib Tags)
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks (from Default)
+- minecraft:mossy_stone_bricks (from Default)
+- minecraft:cracked_stone_bricks (from Default)
+- minecraft:chiseled_stone_bricks (from Default)
+
+#ae2:quartz_wrench
+- ae2:certus_quartz_wrench (from Applied Energistics 2)
+- ae2:nether_quartz_wrench (from Applied Energistics 2)
+
+#c:milk_buckets
+- minecraft:milk_bucket (from Fabric Convention Tags)
+- minecraft:milk_bucket (from Milk Lib)
+
+#c:budding_blocks
+- minecraft:budding_amethyst (from Applied Energistics 2)
+- ae2:flawless_budding_quartz (from Applied Energistics 2)
+- ae2:flawed_budding_quartz (from Applied Energistics 2)
+- ae2:chipped_budding_quartz (from Applied Energistics 2)
+- ae2:damaged_budding_quartz (from Applied Energistics 2)
+
+#c:orange_glass
+- minecraft:orange_stained_glass (from Porting Lib Tags)
+
+#c:iron_ores
+- minecraft:iron_ores? (from Applied Energistics 2)
+- #minecraft:iron_ores (from Porting Lib Tags)
+- minecraft:iron_ore (from Incubus Core)
+
+#ae2:blacklisted/annihilation_plane
+
+#c:dirt
+- minecraft:dirt (from Incubus Core)
+- minecraft:coarse_dirt (from Incubus Core)
+- minecraft:rooted_dirt (from Incubus Core)
+
+#c:barrels
+- #c:wooden_barrels (from Porting Lib Tags)
+
+#c:brown_glass
+- minecraft:brown_stained_glass (from Porting Lib Tags)
+
+#spectrum:player_only_glass
+- spectrum:tinted_semi_permeable_glass (from Spectrum)
+- spectrum:glowing_semi_permeable_glass (from Spectrum)
+- spectrum:vanilla_semi_permeable_glass (from Spectrum)
+- spectrum:amethyst_semi_permeable_glass (from Spectrum)
+- spectrum:topaz_semi_permeable_glass (from Spectrum)
+- spectrum:citrine_semi_permeable_glass (from Spectrum)
+- spectrum:onyx_semi_permeable_glass (from Spectrum)
+- spectrum:moonstone_semi_permeable_glass (from Spectrum)
+
+#spectrum:gemstone_glass
+- spectrum:amethyst_glass (from Spectrum)
+- spectrum:citrine_glass (from Spectrum)
+- spectrum:topaz_glass (from Spectrum)
+- spectrum:moonstone_glass (from Spectrum)
+- spectrum:onyx_glass (from Spectrum)
+
+#minecraft:slabs
+- #minecraft:wooden_slabs (from Default)
+- minecraft:stone_slab (from Default)
+- minecraft:smooth_stone_slab (from Default)
+- minecraft:stone_brick_slab (from Default)
+- minecraft:sandstone_slab (from Default)
+- minecraft:purpur_slab (from Default)
+- minecraft:quartz_slab (from Default)
+- minecraft:red_sandstone_slab (from Default)
+- minecraft:brick_slab (from Default)
+- minecraft:cobblestone_slab (from Default)
+- minecraft:nether_brick_slab (from Default)
+- minecraft:petrified_oak_slab (from Default)
+- minecraft:prismarine_slab (from Default)
+- minecraft:prismarine_brick_slab (from Default)
+- minecraft:dark_prismarine_slab (from Default)
+- minecraft:polished_granite_slab (from Default)
+- minecraft:smooth_red_sandstone_slab (from Default)
+- minecraft:mossy_stone_brick_slab (from Default)
+- minecraft:polished_diorite_slab (from Default)
+- minecraft:mossy_cobblestone_slab (from Default)
+- minecraft:end_stone_brick_slab (from Default)
+- minecraft:smooth_sandstone_slab (from Default)
+- minecraft:smooth_quartz_slab (from Default)
+- minecraft:granite_slab (from Default)
+- minecraft:andesite_slab (from Default)
+- minecraft:red_nether_brick_slab (from Default)
+- minecraft:polished_andesite_slab (from Default)
+- minecraft:diorite_slab (from Default)
+- minecraft:cut_sandstone_slab (from Default)
+- minecraft:cut_red_sandstone_slab (from Default)
+- minecraft:blackstone_slab (from Default)
+- minecraft:polished_blackstone_brick_slab (from Default)
+- minecraft:polished_blackstone_slab (from Default)
+- minecraft:cobbled_deepslate_slab (from Default)
+- minecraft:polished_deepslate_slab (from Default)
+- minecraft:deepslate_tile_slab (from Default)
+- minecraft:deepslate_brick_slab (from Default)
+- minecraft:waxed_weathered_cut_copper_slab (from Default)
+- minecraft:waxed_exposed_cut_copper_slab (from Default)
+- minecraft:waxed_cut_copper_slab (from Default)
+- minecraft:oxidized_cut_copper_slab (from Default)
+- minecraft:weathered_cut_copper_slab (from Default)
+- minecraft:exposed_cut_copper_slab (from Default)
+- minecraft:cut_copper_slab (from Default)
+- minecraft:waxed_oxidized_cut_copper_slab (from Default)
+- minecraft:mud_brick_slab (from Default)
+- create:cut_granite_slab (from Create)
+- create:polished_cut_granite_slab (from Create)
+- create:cut_granite_brick_slab (from Create)
+- create:small_granite_brick_slab (from Create)
+- create:cut_diorite_slab (from Create)
+- create:polished_cut_diorite_slab (from Create)
+- create:cut_diorite_brick_slab (from Create)
+- create:small_diorite_brick_slab (from Create)
+- create:cut_andesite_slab (from Create)
+- create:polished_cut_andesite_slab (from Create)
+- create:cut_andesite_brick_slab (from Create)
+- create:small_andesite_brick_slab (from Create)
+- create:cut_calcite_slab (from Create)
+- create:polished_cut_calcite_slab (from Create)
+- create:cut_calcite_brick_slab (from Create)
+- create:small_calcite_brick_slab (from Create)
+- create:cut_dripstone_slab (from Create)
+- create:polished_cut_dripstone_slab (from Create)
+- create:cut_dripstone_brick_slab (from Create)
+- create:small_dripstone_brick_slab (from Create)
+- create:cut_deepslate_slab (from Create)
+- create:polished_cut_deepslate_slab (from Create)
+- create:cut_deepslate_brick_slab (from Create)
+- create:small_deepslate_brick_slab (from Create)
+- create:cut_tuff_slab (from Create)
+- create:polished_cut_tuff_slab (from Create)
+- create:cut_tuff_brick_slab (from Create)
+- create:small_tuff_brick_slab (from Create)
+- create:cut_asurine_slab (from Create)
+- create:polished_cut_asurine_slab (from Create)
+- create:cut_asurine_brick_slab (from Create)
+- create:small_asurine_brick_slab (from Create)
+- create:cut_crimsite_slab (from Create)
+- create:polished_cut_crimsite_slab (from Create)
+- create:cut_crimsite_brick_slab (from Create)
+- create:small_crimsite_brick_slab (from Create)
+- create:cut_limestone_slab (from Create)
+- create:polished_cut_limestone_slab (from Create)
+- create:cut_limestone_brick_slab (from Create)
+- create:small_limestone_brick_slab (from Create)
+- create:cut_ochrum_slab (from Create)
+- create:polished_cut_ochrum_slab (from Create)
+- create:cut_ochrum_brick_slab (from Create)
+- create:small_ochrum_brick_slab (from Create)
+- create:cut_scoria_slab (from Create)
+- create:polished_cut_scoria_slab (from Create)
+- create:cut_scoria_brick_slab (from Create)
+- create:small_scoria_brick_slab (from Create)
+- create:cut_scorchia_slab (from Create)
+- create:polished_cut_scorchia_slab (from Create)
+- create:cut_scorchia_brick_slab (from Create)
+- create:small_scorchia_brick_slab (from Create)
+- create:cut_veridium_slab (from Create)
+- create:polished_cut_veridium_slab (from Create)
+- create:cut_veridium_brick_slab (from Create)
+- create:small_veridium_brick_slab (from Create)
+- spectrum:smooth_basalt_slab (from Spectrum)
+- spectrum:polished_basalt_slab (from Spectrum)
+- spectrum:basalt_brick_slab (from Spectrum)
+- spectrum:calcite_slab (from Spectrum)
+- spectrum:polished_calcite_slab (from Spectrum)
+- spectrum:calcite_brick_slab (from Spectrum)
+- #spectrum:colored_slabs (from Spectrum)
+
+#c:orange_glass_panes
+- minecraft:orange_stained_glass_pane (from Porting Lib Tags)
+
+#c:coal
+- #minecraft:coals? (from Fabric Convention Tags)
+- minecraft:coal (from Incubus Core)
+
+#create:casing
+- create:andesite_casing (from Create)
+- create:brass_casing (from Create)
+- create:copper_casing (from Create)
+- create:shadow_steel_casing (from Create)
+- create:refined_radiance_casing (from Create)
+- create:railway_casing (from Create)
+
+#spectrum:colored_buttons
+- spectrum:black_button (from Spectrum)
+- spectrum:blue_button (from Spectrum)
+- spectrum:brown_button (from Spectrum)
+- spectrum:cyan_button (from Spectrum)
+- spectrum:gray_button (from Spectrum)
+- spectrum:green_button (from Spectrum)
+- spectrum:light_blue_button (from Spectrum)
+- spectrum:light_gray_button (from Spectrum)
+- spectrum:lime_button (from Spectrum)
+- spectrum:magenta_button (from Spectrum)
+- spectrum:orange_button (from Spectrum)
+- spectrum:pink_button (from Spectrum)
+- spectrum:purple_button (from Spectrum)
+- spectrum:red_button (from Spectrum)
+- spectrum:white_button (from Spectrum)
+- spectrum:yellow_button (from Spectrum)
+
+#c:fruit
+- minecraft:apple (from Incubus Core)
+- minecraft:chorus_fruit (from Incubus Core)
+
+#ae2:p2p_attunements/me_p2p_tunnel
+- #ae2:covered_cable (from Applied Energistics 2)
+- #ae2:covered_dense_cable (from Applied Energistics 2)
+- #ae2:glass_cable (from Applied Energistics 2)
+- #ae2:smart_cable (from Applied Energistics 2)
+- #ae2:smart_dense_cable (from Applied Energistics 2)
+
+#c:gold_blocks
+- minecraft:gold_block (from Porting Lib Tags)
+
+#c:green_glass_panes
+- minecraft:green_stained_glass_pane (from Porting Lib Tags)
+
+#c:dusts/prismarine
+- minecraft:prismarine_shard (from Porting Lib Tags)
+
+#minecraft:buttons
+- #minecraft:wooden_buttons (from Default)
+- minecraft:stone_button (from Default)
+- minecraft:polished_blackstone_button (from Default)
+
+#mca:zombie_eggs
+- mca:male_zombie_villager_spawn_egg (from Minecraft Comes Alive)
+- mca:female_zombie_villager_spawn_egg (from Minecraft Comes Alive)
+
+#c:wooden_rods
+- minecraft:stick (from Applied Energistics 2)
+- minecraft:stick (from Porting Lib Tags)
+
+#minecraft:rails
+- minecraft:rail (from Default)
+- minecraft:powered_rail (from Default)
+- minecraft:detector_rail (from Default)
+- minecraft:activator_rail (from Default)
+
+#minecraft:pressure_plate
+- spectrum:black_pressure_plate (from Spectrum)
+- spectrum:blue_pressure_plate (from Spectrum)
+- spectrum:brown_pressure_plate (from Spectrum)
+- spectrum:cyan_pressure_plate (from Spectrum)
+- spectrum:gray_pressure_plate (from Spectrum)
+- spectrum:green_pressure_plate (from Spectrum)
+- spectrum:light_blue_pressure_plate (from Spectrum)
+- spectrum:light_gray_pressure_plate (from Spectrum)
+- spectrum:lime_pressure_plate (from Spectrum)
+- spectrum:magenta_pressure_plate (from Spectrum)
+- spectrum:orange_pressure_plate (from Spectrum)
+- spectrum:pink_pressure_plate (from Spectrum)
+- spectrum:purple_pressure_plate (from Spectrum)
+- spectrum:red_pressure_plate (from Spectrum)
+- spectrum:white_pressure_plate (from Spectrum)
+- spectrum:yellow_pressure_plate (from Spectrum)
+
+#megacells:mega_pattern_provider
+- megacells:mega_pattern_provider (from MEGA Cells)
+- megacells:cable_mega_pattern_provider (from MEGA Cells)
+
+#ae2:all_quartz_dust
+- #c:certus_quartz_dusts (from Applied Energistics 2)
+
+#c:yellow_dyes
+- minecraft:yellow_dye (from Fabric Convention Tags)
+- minecraft:yellow_dye (from Porting Lib Tags)
+
+#minecraft:overworld_natural_logs
+- minecraft:acacia_log (from Default)
+- minecraft:birch_log (from Default)
+- minecraft:oak_log (from Default)
+- minecraft:jungle_log (from Default)
+- minecraft:spruce_log (from Default)
+- minecraft:dark_oak_log (from Default)
+- minecraft:mangrove_log (from Default)
+
+#create:modded_stripped_logs
+- ars_nouveau:stripped_blue_archwood_log? (from Create)
+- ars_nouveau:stripped_purple_archwood_log? (from Create)
+- ars_nouveau:stripped_green_archwood_log? (from Create)
+- ars_nouveau:stripped_red_archwood_log? (from Create)
+- botania:stripped_livingwood_log? (from Create)
+- botania:stripped_dreamwood_log? (from Create)
+- forbidden_arcanus:stripped_cherrywood_log? (from Create)
+- forbidden_arcanus:stripped_mysterywood_log? (from Create)
+- hexcasting:akashic_log_stripped? (from Create)
+- integrateddynamics:menril_log_stripped? (from Create)
+- byg:stripped_aspen_log? (from Create)
+- byg:stripped_baobab_log? (from Create)
+- byg:stripped_enchanted_log? (from Create)
+- byg:stripped_cherry_log? (from Create)
+- byg:stripped_cika_log? (from Create)
+- byg:stripped_cypress_log? (from Create)
+- byg:stripped_ebony_log? (from Create)
+- byg:stripped_ether_log? (from Create)
+- byg:stripped_fir_log? (from Create)
+- byg:stripped_green_enchanted_log? (from Create)
+- byg:stripped_holly_log? (from Create)
+- byg:stripped_jacaranda_log? (from Create)
+- byg:stripped_lament_log? (from Create)
+- byg:stripped_mahogany_log? (from Create)
+- byg:stripped_mangrove_log? (from Create)
+- byg:stripped_maple_log? (from Create)
+- byg:stripped_nightshade_log? (from Create)
+- byg:stripped_palm_log? (from Create)
+- byg:stripped_palo_verde_log? (from Create)
+- byg:stripped_pine_log? (from Create)
+- byg:stripped_rainbow_eucalyptus_log? (from Create)
+- byg:stripped_redwood_log? (from Create)
+- byg:stripped_skyris_log? (from Create)
+- byg:stripped_willow_log? (from Create)
+- byg:stripped_witch_hazel_log? (from Create)
+- byg:stripped_zelkova_log? (from Create)
+- silentgear:stripped_netherwood_log? (from Create)
+- twilightforest:stripped_twilight_oak_log? (from Create)
+- twilightforest:stripped_canopy_log? (from Create)
+- twilightforest:stripped_mangrove_log? (from Create)
+- twilightforest:stripped_dark_log? (from Create)
+- twilightforest:stripped_time_log? (from Create)
+- twilightforest:stripped_transformation_log? (from Create)
+- twilightforest:stripped_mining_log? (from Create)
+- twilightforest:stripped_sorting_log? (from Create)
+- tconstruct:stripped_greenheart_log? (from Create)
+- tconstruct:stripped_skyroot_log? (from Create)
+- tconstruct:stripped_bloodshroom_log? (from Create)
+- architects_palette:stripped_twisted_log? (from Create)
+- quark:stripped_azalea_log? (from Create)
+- quark:stripped_blossom_log? (from Create)
+- ecologics:stripped_coconut_log? (from Create)
+- ecologics:stripped_walnut_log? (from Create)
+- ecologics:stripped_azalea_log? (from Create)
+- biomesoplenty:stripped_fir_log? (from Create)
+- biomesoplenty:stripped_redwood_log? (from Create)
+- biomesoplenty:stripped_cherry_log? (from Create)
+- biomesoplenty:stripped_mahogany_log? (from Create)
+- biomesoplenty:stripped_jacaranda_log? (from Create)
+- biomesoplenty:stripped_palm_log? (from Create)
+- biomesoplenty:stripped_willow_log? (from Create)
+- biomesoplenty:stripped_dead_log? (from Create)
+- biomesoplenty:stripped_magic_log? (from Create)
+- biomesoplenty:stripped_umbran_log? (from Create)
+- biomesoplenty:stripped_hellbark_log? (from Create)
+- blue_skies:stripped_bluebright_log? (from Create)
+- blue_skies:stripped_starlit_log? (from Create)
+- blue_skies:stripped_frostbright_log? (from Create)
+- blue_skies:stripped_lunar_log? (from Create)
+- blue_skies:stripped_dusk_log? (from Create)
+- blue_skies:stripped_maple_log? (from Create)
+- blue_skies:stripped_cherry_log? (from Create)
+- byg:stripped_bulbis_stem? (from Create)
+
+#create:stone_types/tuff
+- create:cut_tuff (from Create)
+- create:cut_tuff_stairs (from Create)
+- create:cut_tuff_wall (from Create)
+- create:polished_cut_tuff (from Create)
+- create:polished_cut_tuff_stairs (from Create)
+- create:polished_cut_tuff_wall (from Create)
+- create:cut_tuff_bricks (from Create)
+- create:cut_tuff_brick_stairs (from Create)
+- create:cut_tuff_brick_wall (from Create)
+- create:small_tuff_bricks (from Create)
+- create:small_tuff_brick_stairs (from Create)
+- create:small_tuff_brick_wall (from Create)
+- create:layered_tuff (from Create)
+- create:tuff_pillar (from Create)
+
+#c:yellow_dye
+- minecraft:yellow_dye (from Applied Energistics 2)
+
+#c:ender_pearls
+- minecraft:ender_pearl (from Applied Energistics 2)
+- minecraft:ender_pearl (from Porting Lib Tags)
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate (from Default)
+- minecraft:spruce_pressure_plate (from Default)
+- minecraft:birch_pressure_plate (from Default)
+- minecraft:jungle_pressure_plate (from Default)
+- minecraft:acacia_pressure_plate (from Default)
+- minecraft:dark_oak_pressure_plate (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:mangrove_pressure_plate (from Default)
+- #spectrum:colored_pressure_plates (from Spectrum)
+
+#trinkets:legs/belt
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- artifacts:antidote_vessel (from Artifacts)
+- artifacts:cloud_in_a_bottle (from Artifacts)
+- artifacts:crystal_heart (from Artifacts)
+- artifacts:obsidian_skull (from Artifacts)
+- artifacts:universal_attractor (from Artifacts)
+- artifacts:helium_flamingo (from Artifacts)
+- doodads:blossom_belt (from Doodads)
+- spectrum:take_off_belt (from Spectrum)
+- spectrum:azure_dike_belt (from Spectrum)
+
+#ae2:smart_dense_cable
+- ae2:white_smart_dense_cable (from Applied Energistics 2)
+- ae2:orange_smart_dense_cable (from Applied Energistics 2)
+- ae2:magenta_smart_dense_cable (from Applied Energistics 2)
+- ae2:light_blue_smart_dense_cable (from Applied Energistics 2)
+- ae2:yellow_smart_dense_cable (from Applied Energistics 2)
+- ae2:lime_smart_dense_cable (from Applied Energistics 2)
+- ae2:pink_smart_dense_cable (from Applied Energistics 2)
+- ae2:gray_smart_dense_cable (from Applied Energistics 2)
+- ae2:light_gray_smart_dense_cable (from Applied Energistics 2)
+- ae2:cyan_smart_dense_cable (from Applied Energistics 2)
+- ae2:purple_smart_dense_cable (from Applied Energistics 2)
+- ae2:blue_smart_dense_cable (from Applied Energistics 2)
+- ae2:brown_smart_dense_cable (from Applied Energistics 2)
+- ae2:green_smart_dense_cable (from Applied Energistics 2)
+- ae2:red_smart_dense_cable (from Applied Energistics 2)
+- ae2:black_smart_dense_cable (from Applied Energistics 2)
+- ae2:fluix_smart_dense_cable (from Applied Energistics 2)
+
+#c:sugar_crops
+- minecraft:sugar_cane (from Incubus Core)
+
+#minecraft:tall_flowers
+- minecraft:sunflower (from Default)
+- minecraft:lilac (from Default)
+- minecraft:peony (from Default)
+- minecraft:rose_bush (from Default)
+
+#c:light_gray_glass
+- minecraft:light_gray_stained_glass (from Porting Lib Tags)
+
+#c:cobblestone
+- minecraft:cobblestone (from Applied Energistics 2)
+- minecraft:infested_cobblestone (from Applied Energistics 2)
+- minecraft:mossy_cobblestone (from Applied Energistics 2)
+- #c:normal_cobblestone (from Porting Lib Tags)
+- #c:infested_cobblestone (from Porting Lib Tags)
+- #c:mossy_cobblestone (from Porting Lib Tags)
+- #c:deepslate_cobblestone (from Porting Lib Tags)
+- minecraft:cobblestone (from Incubus Core)
+- minecraft:blackstone (from Incubus Core)
+- minecraft:cobbled_deepslate (from Incubus Core)
+
+#c:quartz
+- minecraft:quartz (from Applied Energistics 2)
+- minecraft:quartz (from Fabric Convention Tags)
+- minecraft:quartz (from Porting Lib Tags)
+- minecraft:quartz (from Incubus Core)
+
+#spectrum:onyx_chiseled_base_blocks
+- spectrum:onyx_chiseled_basalt (from Spectrum)
+- spectrum:onyx_chiseled_calcite (from Spectrum)
+
+#create:create_ingots
+- create:andesite_alloy (from Create)
+- create:zinc_ingot (from Create)
+- create:brass_ingot (from Create)
+
+#spectrum:coming_soon_tooltip
+- spectrum:crystallarieum (from Spectrum)
+- spectrum:dreamflayer (from Spectrum)
+- spectrum:small_bismuth_bud (from Spectrum)
+- spectrum:large_bismuth_bud (from Spectrum)
+- spectrum:bismuth_cluster (from Spectrum)
+- spectrum:bismuth_block (from Spectrum)
+- spectrum:bismuth_crystal (from Spectrum)
+- spectrum:malachite_ore (from Spectrum)
+- spectrum:deepslate_malachite_ore (from Spectrum)
+- spectrum:small_malachite_bud (from Spectrum)
+- spectrum:large_malachite_bud (from Spectrum)
+- spectrum:malachite_cluster (from Spectrum)
+- spectrum:raw_malachite (from Spectrum)
+- spectrum:malachite_crystal (from Spectrum)
+- spectrum:malachite_block (from Spectrum)
+- #spectrum:pure_resources (from Spectrum)
+- spectrum:small_coal_bud (from Spectrum)
+- spectrum:large_coal_bud (from Spectrum)
+- spectrum:small_copper_bud (from Spectrum)
+- spectrum:large_copper_bud (from Spectrum)
+- spectrum:small_diamond_bud (from Spectrum)
+- spectrum:large_diamond_bud (from Spectrum)
+- spectrum:small_emerald_bud (from Spectrum)
+- spectrum:large_emerald_bud (from Spectrum)
+- spectrum:small_glowstone_bud (from Spectrum)
+- spectrum:large_glowstone_bud (from Spectrum)
+- spectrum:small_gold_bud (from Spectrum)
+- spectrum:large_gold_bud (from Spectrum)
+- spectrum:small_iron_bud (from Spectrum)
+- spectrum:large_iron_bud (from Spectrum)
+- spectrum:small_lapis_bud (from Spectrum)
+- spectrum:large_lapis_bud (from Spectrum)
+- spectrum:small_netherite_bud (from Spectrum)
+- spectrum:large_netherite_bud (from Spectrum)
+- spectrum:small_prismarine_bud (from Spectrum)
+- spectrum:large_prismarine_bud (from Spectrum)
+- spectrum:small_quartz_bud (from Spectrum)
+- spectrum:large_quartz_bud (from Spectrum)
+- spectrum:small_redstone_bud (from Spectrum)
+- spectrum:large_redstone_bud (from Spectrum)
+- spectrum:small_certus_quartz_bud (from Spectrum)
+- spectrum:large_certus_quartz_bud (from Spectrum)
+- spectrum:small_fluix_bud (from Spectrum)
+- spectrum:large_fluix_bud (from Spectrum)
+- spectrum:small_globette_bud (from Spectrum)
+- spectrum:large_globette_bud (from Spectrum)
+- spectrum:small_globette_end_bud (from Spectrum)
+- spectrum:large_globette_end_bud (from Spectrum)
+- spectrum:small_globette_nether_bud (from Spectrum)
+- spectrum:large_globette_nether_bud (from Spectrum)
+- spectrum:malachite_cluster (from Spectrum)
+- spectrum:bismuth_cluster (from Spectrum)
+- spectrum:coal_cluster (from Spectrum)
+- spectrum:copper_cluster (from Spectrum)
+- spectrum:diamond_cluster (from Spectrum)
+- spectrum:emerald_cluster (from Spectrum)
+- spectrum:glowstone_cluster (from Spectrum)
+- spectrum:gold_cluster (from Spectrum)
+- spectrum:iron_cluster (from Spectrum)
+- spectrum:lapis_cluster (from Spectrum)
+- spectrum:netherite_cluster (from Spectrum)
+- spectrum:prismarine_cluster (from Spectrum)
+- spectrum:quartz_cluster (from Spectrum)
+- spectrum:redstone_cluster (from Spectrum)
+- spectrum:certus_quartz_cluster (from Spectrum)
+- spectrum:fluix_cluster (from Spectrum)
+- spectrum:globette_cluster (from Spectrum)
+- spectrum:globette_end_cluster (from Spectrum)
+- spectrum:globette_nether_cluster (from Spectrum)
+- spectrum:music_disc_dimension_theme (from Spectrum)
+- spectrum:spawner (from Spectrum)
+- spectrum:bottle_of_terror (from Spectrum)
+- spectrum:puff_circlet (from Spectrum)
+- spectrum:neat_ring (from Spectrum)
+- spectrum:greater_potion_pendant (from Spectrum)
+- spectrum:resonant_pickaxe (from Spectrum)
+- spectrum:exchanging_staff (from Spectrum)
+- spectrum:end_portal_cracker (from Spectrum)
+- spectrum:pedestal_moonstone (from Spectrum)
+- spectrum:upgrade_speed3 (from Spectrum)
+- spectrum:upgrade_efficiency2 (from Spectrum)
+- spectrum:upgrade_yield (from Spectrum)
+- spectrum:upgrade_yield2 (from Spectrum)
+- spectrum:upgrade_experience2 (from Spectrum)
+- spectrum:cracked_end_portal_frame (from Spectrum)
+- spectrum:entity_detector (from Spectrum)
+- spectrum:celestial_pocketwatch (from Spectrum)
+- spectrum:inkwell (from Spectrum)
+- spectrum:ink_duct (from Spectrum)
+- spectrum:artists_palette (from Spectrum)
+- spectrum:paltaeria_ore (from Spectrum)
+- spectrum:paltaeria_fragments (from Spectrum)
+- spectrum:paltaeria_gem (from Spectrum)
+- spectrum:paltaeria_fragment_block (from Spectrum)
+- spectrum:spectral_shard (from Spectrum)
+- spectrum:spectral_shard_block (from Spectrum)
+- spectrum:spectral_shard_storage_block (from Spectrum)
+- spectrum:ominous_sapling (from Spectrum)
+- spectrum:spirit_sallow_roots (from Spectrum)
+- spectrum:spirit_sallow_log (from Spectrum)
+- spectrum:spirit_sallow_leaves (from Spectrum)
+- spectrum:spirit_sallow_heart (from Spectrum)
+- spectrum:vibrant_cyan_catkin (from Spectrum)
+- spectrum:vibrant_magenta_catkin (from Spectrum)
+- spectrum:vibrant_yellow_catkin (from Spectrum)
+- spectrum:vibrant_black_catkin (from Spectrum)
+- spectrum:vibrant_white_catkin (from Spectrum)
+- spectrum:lucid_cyan_catkin (from Spectrum)
+- spectrum:lucid_magenta_catkin (from Spectrum)
+- spectrum:lucid_yellow_catkin (from Spectrum)
+- spectrum:lucid_black_catkin (from Spectrum)
+- spectrum:lucid_white_catkin (from Spectrum)
+- spectrum:sacred_soil (from Spectrum)
+- spectrum:moonstone_shard (from Spectrum)
+- spectrum:moonstone_powder (from Spectrum)
+- spectrum:moonstone_storage_block (from Spectrum)
+- spectrum:moonstone_glass (from Spectrum)
+- spectrum:moonstone_semi_permeable_glass (from Spectrum)
+- spectrum:moonstone_chime (from Spectrum)
+- spectrum:moonstone_decostone (from Spectrum)
+- spectrum:moonstone_chiseled_basalt (from Spectrum)
+- spectrum:moonstone_chiseled_calcite (from Spectrum)
+- spectrum:moonstone_calcite_lamp (from Spectrum)
+- spectrum:moonstone_basalt_lamp (from Spectrum)
+- spectrum:moonstone_block (from Spectrum)
+- spectrum:budding_moonstone (from Spectrum)
+- spectrum:small_moonstone_bud (from Spectrum)
+- spectrum:medium_moonstone_bud (from Spectrum)
+- spectrum:large_moonstone_bud (from Spectrum)
+- spectrum:moonstone_cluster (from Spectrum)
+- spectrum:moonstone_ore (from Spectrum)
+- spectrum:deepslate_moonstone_ore (from Spectrum)
+- spectrum:white_pigment (from Spectrum)
+- spectrum:light_gray_pigment (from Spectrum)
+- spectrum:gray_pigment (from Spectrum)
+- spectrum:white_block (from Spectrum)
+- spectrum:light_gray_block (from Spectrum)
+- spectrum:gray_block (from Spectrum)
+- spectrum:white_lamp (from Spectrum)
+- spectrum:gray_lamp (from Spectrum)
+- spectrum:light_gray_lamp (from Spectrum)
+- spectrum:white_log (from Spectrum)
+- spectrum:gray_log (from Spectrum)
+- spectrum:light_gray_log (from Spectrum)
+- spectrum:white_leaves (from Spectrum)
+- spectrum:gray_leaves (from Spectrum)
+- spectrum:light_gray_leaves (from Spectrum)
+- spectrum:white_sapling (from Spectrum)
+- spectrum:gray_sapling (from Spectrum)
+- spectrum:light_gray_sapling (from Spectrum)
+- spectrum:white_planks (from Spectrum)
+- spectrum:gray_planks (from Spectrum)
+- spectrum:light_gray_planks (from Spectrum)
+- spectrum:white_stairs (from Spectrum)
+- spectrum:gray_stairs (from Spectrum)
+- spectrum:light_gray_stairs (from Spectrum)
+- spectrum:white_pressure_plate (from Spectrum)
+- spectrum:gray_pressure_plate (from Spectrum)
+- spectrum:light_gray_pressure_plate (from Spectrum)
+- spectrum:white_fence (from Spectrum)
+- spectrum:gray_fence (from Spectrum)
+- spectrum:light_gray_fence (from Spectrum)
+- spectrum:white_fence_gate (from Spectrum)
+- spectrum:gray_fence_gate (from Spectrum)
+- spectrum:light_gray_fence_gate (from Spectrum)
+- spectrum:white_button (from Spectrum)
+- spectrum:gray_button (from Spectrum)
+- spectrum:light_gray_button (from Spectrum)
+- spectrum:white_slab (from Spectrum)
+- spectrum:gray_slab (from Spectrum)
+- spectrum:light_gray_slab (from Spectrum)
+- spectrum:white_glowblock (from Spectrum)
+- spectrum:gray_glowblock (from Spectrum)
+- spectrum:light_gray_glowblock (from Spectrum)
+- spectrum:white_spore_blossom (from Spectrum)
+- spectrum:gray_spore_blossom (from Spectrum)
+- spectrum:light_gray_spore_blossom (from Spectrum)
+- spectrum:connection_node (from Spectrum)
+- spectrum:provider_node (from Spectrum)
+- spectrum:storage_node (from Spectrum)
+- spectrum:pusher_node (from Spectrum)
+- spectrum:puller_node (from Spectrum)
+- spectrum:interaction_node (from Spectrum)
+
+#create:stone_types/calcite
+- create:cut_calcite (from Create)
+- create:cut_calcite_stairs (from Create)
+- create:cut_calcite_wall (from Create)
+- create:polished_cut_calcite (from Create)
+- create:polished_cut_calcite_stairs (from Create)
+- create:polished_cut_calcite_wall (from Create)
+- create:cut_calcite_bricks (from Create)
+- create:cut_calcite_brick_stairs (from Create)
+- create:cut_calcite_brick_wall (from Create)
+- create:small_calcite_bricks (from Create)
+- create:small_calcite_brick_stairs (from Create)
+- create:small_calcite_brick_wall (from Create)
+- create:layered_calcite (from Create)
+- create:calcite_pillar (from Create)
+
+#c:raw_fish
+- minecraft:cod (from Incubus Core)
+- minecraft:salmon (from Incubus Core)
+- minecraft:tropical_fish (from Incubus Core)
+- minecraft:pufferfish (from Incubus Core)
+
+#minecraft:gold_ores
+- minecraft:gold_ore (from Default)
+- minecraft:nether_gold_ore (from Default)
+- minecraft:deepslate_gold_ore (from Default)
+
+#minecraft:completes_find_tree_tutorial
+- #minecraft:logs (from Default)
+- #minecraft:leaves (from Default)
+- #minecraft:wart_blocks (from Default)
+
+#trinkets:chest/pin
+- spectrum:radiance_pin (from Spectrum)
+- spectrum:gleaming_pin (from Spectrum)
+
+#mca:villager_plantable
+- minecraft:wheat_seeds (from Minecraft Comes Alive)
+- minecraft:potato (from Minecraft Comes Alive)
+- minecraft:carrot (from Minecraft Comes Alive)
+- minecraft:beetroot_seeds (from Minecraft Comes Alive)
+- minecraft:pumpkin_seeds (from Minecraft Comes Alive)
+- minecraft:melon_seeds (from Minecraft Comes Alive)
+
+#mca:rose_gold_dusts
+- mca:rose_gold_dust (from Minecraft Comes Alive)
+- mca:gold_dust (from Minecraft Comes Alive)
+
+#create:pressurized_air_sources
+- create:copper_backtank (from Create)
+
+#c:ores
+- create:zinc_ore (from Create)
+- create:deepslate_zinc_ore (from Create)
+- #minecraft:iron_ores? (from Fabric Convention Tags)
+- #minecraft:copper_ores? (from Fabric Convention Tags)
+- #minecraft:redstone_ores? (from Fabric Convention Tags)
+- #minecraft:gold_ores? (from Fabric Convention Tags)
+- #minecraft:coal_ores? (from Fabric Convention Tags)
+- #minecraft:diamond_ores? (from Fabric Convention Tags)
+- #minecraft:lapis_ores? (from Fabric Convention Tags)
+- #c:quartz_ores? (from Fabric Convention Tags)
+- #minecraft:emerald_ores? (from Fabric Convention Tags)
+- #c:coal_ores (from Porting Lib Tags)
+- #c:copper_ores (from Porting Lib Tags)
+- #c:diamond_ores (from Porting Lib Tags)
+- #c:emerald_ores (from Porting Lib Tags)
+- #c:gold_ores (from Porting Lib Tags)
+- #c:iron_ores (from Porting Lib Tags)
+- #c:lapis_ores (from Porting Lib Tags)
+- #c:redstone_ores (from Porting Lib Tags)
+- #c:quartz_ores (from Porting Lib Tags)
+- #c:netherite_scrap_ores (from Porting Lib Tags)
+- #c:uraninite_ores (from Powah!)
+- #spectrum:ores (from Spectrum)
+
+#minecraft:dirt
+- minecraft:dirt (from Default)
+- minecraft:grass_block (from Default)
+- minecraft:podzol (from Default)
+- minecraft:coarse_dirt (from Default)
+- minecraft:mycelium (from Default)
+- minecraft:rooted_dirt (from Default)
+- minecraft:moss_block (from Default)
+- minecraft:mud (from Default)
+- minecraft:muddy_mangrove_roots (from Default)
+
+#minecraft:cluster_max_harvestables
+- minecraft:diamond_pickaxe (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:iron_pickaxe (from Default)
+- minecraft:netherite_pickaxe (from Default)
+- minecraft:stone_pickaxe (from Default)
+- minecraft:wooden_pickaxe (from Default)
+- dragonloot:dragon_pickaxe (from DragonLoot)
+- spectrum:multitool (from Spectrum)
+- spectrum:tender_pickaxe (from Spectrum)
+- spectrum:lucky_pickaxe (from Spectrum)
+- spectrum:resonant_pickaxe (from Spectrum)
+- spectrum:oblivion_pickaxe (from Spectrum)
+- spectrum:bedrock_pickaxe (from Spectrum)
+
+#c:pumpkin_seeds
+- minecraft:pumpkin_seeds (from Porting Lib Tags)
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand (from Default)
+- minecraft:soul_soil (from Default)
+
+#c:raw_materials
+- create:raw_zinc (from Create)
+- #c:copper_raw_materials (from Porting Lib Tags)
+- #c:gold_raw_materials (from Porting Lib Tags)
+- #c:iron_raw_materials (from Porting Lib Tags)
+
+#c:foods
+- minecraft:apple (from Fabric Convention Tags)
+- minecraft:mushroom_stew (from Fabric Convention Tags)
+- minecraft:bread (from Fabric Convention Tags)
+- minecraft:porkchop (from Fabric Convention Tags)
+- minecraft:cooked_porkchop (from Fabric Convention Tags)
+- minecraft:golden_apple (from Fabric Convention Tags)
+- minecraft:enchanted_golden_apple (from Fabric Convention Tags)
+- minecraft:cod (from Fabric Convention Tags)
+- minecraft:salmon (from Fabric Convention Tags)
+- minecraft:tropical_fish (from Fabric Convention Tags)
+- minecraft:pufferfish (from Fabric Convention Tags)
+- minecraft:cooked_cod (from Fabric Convention Tags)
+- minecraft:cooked_salmon (from Fabric Convention Tags)
+- minecraft:cookie (from Fabric Convention Tags)
+- minecraft:melon_slice (from Fabric Convention Tags)
+- minecraft:dried_kelp (from Fabric Convention Tags)
+- minecraft:beef (from Fabric Convention Tags)
+- minecraft:cooked_beef (from Fabric Convention Tags)
+- minecraft:chicken (from Fabric Convention Tags)
+- minecraft:cooked_chicken (from Fabric Convention Tags)
+- minecraft:rotten_flesh (from Fabric Convention Tags)
+- minecraft:spider_eye (from Fabric Convention Tags)
+- minecraft:carrot (from Fabric Convention Tags)
+- minecraft:potato (from Fabric Convention Tags)
+- minecraft:baked_potato (from Fabric Convention Tags)
+- minecraft:poisonous_potato (from Fabric Convention Tags)
+- minecraft:golden_carrot (from Fabric Convention Tags)
+- minecraft:pumpkin_pie (from Fabric Convention Tags)
+- minecraft:rabbit (from Fabric Convention Tags)
+- minecraft:cooked_rabbit (from Fabric Convention Tags)
+- minecraft:rabbit_stew (from Fabric Convention Tags)
+- minecraft:mutton (from Fabric Convention Tags)
+- minecraft:cooked_mutton (from Fabric Convention Tags)
+- minecraft:chorus_fruit (from Fabric Convention Tags)
+- minecraft:beetroot (from Fabric Convention Tags)
+- minecraft:beetroot_soup (from Fabric Convention Tags)
+- minecraft:suspicious_stew (from Fabric Convention Tags)
+- minecraft:sweet_berries (from Fabric Convention Tags)
+- minecraft:glow_berries (from Fabric Convention Tags)
+- minecraft:honey_bottle (from Fabric Convention Tags)
+
+#c:light_blue_dye
+- minecraft:light_blue_dye (from Applied Energistics 2)
+
+#c:lava_buckets
+- minecraft:lava_bucket (from Fabric Convention Tags)
+
+#c:raw_iron_ores
+- minecraft:raw_iron (from Fabric Convention Tags)
+- minecraft:raw_iron (from Incubus Core)
+
+#c:crops/wheat
+- minecraft:wheat (from Porting Lib Tags)
+
+#c:magenta_dyes
+- minecraft:magenta_dye (from Fabric Convention Tags)
+- minecraft:magenta_dye (from Porting Lib Tags)
+
+#c:purple_glass_panes
+- minecraft:purple_stained_glass_pane (from Porting Lib Tags)
+
+#ae2:p2p_attunements/redstone_p2p_tunnel
+- minecraft:redstone (from Applied Energistics 2)
+- minecraft:repeater (from Applied Energistics 2)
+- minecraft:redstone_lamp (from Applied Energistics 2)
+- minecraft:comparator (from Applied Energistics 2)
+- minecraft:daylight_detector (from Applied Energistics 2)
+- minecraft:redstone_torch (from Applied Energistics 2)
+- minecraft:redstone_block (from Applied Energistics 2)
+- minecraft:lever (from Applied Energistics 2)
+
+#c:honey_buckets
+- create:honey_bucket (from Create)
+
+#c:end_stones
+- minecraft:end_stone (from Porting Lib Tags)
+
+#c:redstone_blocks
+- minecraft:redstone_block (from Porting Lib Tags)
+
+#c:black_dyes
+- minecraft:black_dye (from Fabric Convention Tags)
+- minecraft:black_dye (from Porting Lib Tags)
+
+#c:lapis
+- minecraft:lapis_lazuli (from Fabric Convention Tags)
+- minecraft:lapis_lazuli (from Porting Lib Tags)
+
+#c:dough
+- create:dough (from Create)
+
+#c:fluix_dusts
+- ae2:fluix_dust (from Applied Energistics 2)
+
+#minecraft:wool
+- minecraft:white_wool (from Default)
+- minecraft:orange_wool (from Default)
+- minecraft:magenta_wool (from Default)
+- minecraft:light_blue_wool (from Default)
+- minecraft:yellow_wool (from Default)
+- minecraft:lime_wool (from Default)
+- minecraft:pink_wool (from Default)
+- minecraft:gray_wool (from Default)
+- minecraft:light_gray_wool (from Default)
+- minecraft:cyan_wool (from Default)
+- minecraft:purple_wool (from Default)
+- minecraft:blue_wool (from Default)
+- minecraft:brown_wool (from Default)
+- minecraft:green_wool (from Default)
+- minecraft:red_wool (from Default)
+- minecraft:black_wool (from Default)
+
+#c:gunpowder
+- minecraft:gunpowder (from Porting Lib Tags)
+
+#c:boots
+- minecraft:leather_boots (from Porting Lib Tags)
+- minecraft:chainmail_boots (from Porting Lib Tags)
+- minecraft:iron_boots (from Porting Lib Tags)
+- minecraft:golden_boots (from Porting Lib Tags)
+- minecraft:diamond_boots (from Porting Lib Tags)
+- minecraft:netherite_boots (from Porting Lib Tags)
+
+#spectrum:mob_heads/slime_heads
+- spectrum:slime_head (from Spectrum)
+- spectrum:magma_cube_head (from Spectrum)
+
+#c:lime_dye
+- minecraft:lime_dye (from Applied Energistics 2)
+
+#c:lime_dyes
+- minecraft:lime_dye (from Fabric Convention Tags)
+- minecraft:lime_dye (from Porting Lib Tags)
+
+#c:lime_glass
+- minecraft:lime_stained_glass (from Porting Lib Tags)
+
+#c:brass_blocks
+- create:brass_block (from Create)
+
+#c:blaze_rods
+- minecraft:blaze_rod (from Porting Lib Tags)
+
+#trinkets:hand/glove
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- artifacts:digging_claws (from Artifacts)
+- artifacts:feral_claws (from Artifacts)
+- artifacts:fire_gauntlet (from Artifacts)
+- artifacts:pocket_piston (from Artifacts)
+- artifacts:power_glove (from Artifacts)
+- artifacts:vampiric_glove (from Artifacts)
+- artifacts:golden_hook (from Artifacts)
+- doodads:soggy_glove (from Doodads)
+- doodads:loggers_glove (from Doodads)
+- spectrum:gloves_of_dawns_grasp (from Spectrum)
+
+#c:deepslate_cobblestone
+- minecraft:cobbled_deepslate (from Porting Lib Tags)
+
+#minecraft:warped_stems
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+
+#c:yellow_glass_panes
+- minecraft:yellow_stained_glass_pane (from Porting Lib Tags)
+
+#spectrum:mob_heads/sheep_heads
+- spectrum:sheep_black_head (from Spectrum)
+- spectrum:sheep_blue_head (from Spectrum)
+- spectrum:sheep_brown_head (from Spectrum)
+- spectrum:sheep_cyan_head (from Spectrum)
+- spectrum:sheep_gray_head (from Spectrum)
+- spectrum:sheep_green_head (from Spectrum)
+- spectrum:sheep_light_blue_head (from Spectrum)
+- spectrum:sheep_light_gray_head (from Spectrum)
+- spectrum:sheep_lime_head (from Spectrum)
+- spectrum:sheep_magenta_head (from Spectrum)
+- spectrum:sheep_orange_head (from Spectrum)
+- spectrum:sheep_pink_head (from Spectrum)
+- spectrum:sheep_purple_head (from Spectrum)
+- spectrum:sheep_red_head (from Spectrum)
+- spectrum:sheep_white_head (from Spectrum)
+- spectrum:sheep_yellow_head (from Spectrum)
+
+#fabric:shovels
+- dragonloot:dragon_shovel (from DragonLoot)
+
+#c:ore_bearing_ground/stone
+- minecraft:stone (from Porting Lib Tags)
+
+#c:stripped_wood
+- #create:vanilla_stripped_wood (from Create)
+- #create:modded_stripped_wood (from Create)
+
+#create:seats
+- create:white_seat (from Create)
+- create:orange_seat (from Create)
+- create:magenta_seat (from Create)
+- create:light_blue_seat (from Create)
+- create:yellow_seat (from Create)
+- create:lime_seat (from Create)
+- create:pink_seat (from Create)
+- create:gray_seat (from Create)
+- create:light_gray_seat (from Create)
+- create:cyan_seat (from Create)
+- create:purple_seat (from Create)
+- create:blue_seat (from Create)
+- create:brown_seat (from Create)
+- create:green_seat (from Create)
+- create:red_seat (from Create)
+- create:black_seat (from Create)
+
+#ae2:quartz_hoe
+- ae2:certus_quartz_hoe (from Applied Energistics 2)
+- ae2:nether_quartz_hoe (from Applied Energistics 2)
+
+#create:sandpaper
+- create:sand_paper (from Create)
+- create:red_sand_paper (from Create)
+
+#c:dusts
+- ae2:certus_quartz_dust (from Applied Energistics 2)
+- ae2:ender_dust (from Applied Energistics 2)
+- ae2:fluix_dust (from Applied Energistics 2)
+- ae2:sky_dust (from Applied Energistics 2)
+- #c:dusts/glowstone (from Porting Lib Tags)
+- #c:dusts/prismarine (from Porting Lib Tags)
+- #c:dusts/redstone (from Porting Lib Tags)
+
+#c:crops
+- #c:crops/beetroot (from Porting Lib Tags)
+- #c:crops/carrot (from Porting Lib Tags)
+- #c:crops/nether_wart (from Porting Lib Tags)
+- #c:crops/potato (from Porting Lib Tags)
+- #c:crops/wheat (from Porting Lib Tags)
+
+#mca:plants
+- #minecraft:saplings (from Minecraft Comes Alive)
+- #minecraft:leaves (from Minecraft Comes Alive)
+- minecraft:grass (from Minecraft Comes Alive)
+- minecraft:lily_pad (from Minecraft Comes Alive)
+- minecraft:wheat_seeds (from Minecraft Comes Alive)
+- minecraft:pumpkin_seeds (from Minecraft Comes Alive)
+- minecraft:melon_seeds (from Minecraft Comes Alive)
+- minecraft:beetroot_seeds (from Minecraft Comes Alive)
+
+#c:lapis_ores
+- #minecraft:lapis_ores (from Porting Lib Tags)
+- minecraft:lapis_ore (from Incubus Core)
+
+#c:lapis_lazulis
+- minecraft:lapis_lazuli (from Incubus Core)
+
+#trinkets:offhand/glove
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- artifacts:digging_claws (from Artifacts)
+- artifacts:feral_claws (from Artifacts)
+- artifacts:fire_gauntlet (from Artifacts)
+- artifacts:pocket_piston (from Artifacts)
+- artifacts:power_glove (from Artifacts)
+- artifacts:vampiric_glove (from Artifacts)
+- artifacts:golden_hook (from Artifacts)
+- doodads:soggy_glove (from Doodads)
+- doodads:loggers_glove (from Doodads)
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log (from Default)
+- minecraft:dark_oak_wood (from Default)
+- minecraft:stripped_dark_oak_log (from Default)
+- minecraft:stripped_dark_oak_wood (from Default)
+
+#create:stone_types/limestone
+- create:cut_limestone (from Create)
+- create:cut_limestone_stairs (from Create)
+- create:cut_limestone_wall (from Create)
+- create:polished_cut_limestone (from Create)
+- create:polished_cut_limestone_stairs (from Create)
+- create:polished_cut_limestone_wall (from Create)
+- create:cut_limestone_bricks (from Create)
+- create:cut_limestone_brick_stairs (from Create)
+- create:cut_limestone_brick_wall (from Create)
+- create:small_limestone_bricks (from Create)
+- create:small_limestone_brick_stairs (from Create)
+- create:small_limestone_brick_wall (from Create)
+- create:layered_limestone (from Create)
+- create:limestone_pillar (from Create)
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem (from Default)
+- minecraft:stripped_warped_stem (from Default)
+- minecraft:warped_hyphae (from Default)
+- minecraft:stripped_warped_hyphae (from Default)
+- minecraft:crimson_stem (from Default)
+- minecraft:stripped_crimson_stem (from Default)
+- minecraft:crimson_hyphae (from Default)
+- minecraft:stripped_crimson_hyphae (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:crimson_pressure_plate (from Default)
+- minecraft:warped_pressure_plate (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:crimson_trapdoor (from Default)
+- minecraft:warped_trapdoor (from Default)
+- minecraft:crimson_fence_gate (from Default)
+- minecraft:warped_fence_gate (from Default)
+- minecraft:crimson_stairs (from Default)
+- minecraft:warped_stairs (from Default)
+- minecraft:crimson_button (from Default)
+- minecraft:warped_button (from Default)
+- minecraft:crimson_door (from Default)
+- minecraft:warped_door (from Default)
+- minecraft:crimson_sign (from Default)
+- minecraft:warped_sign (from Default)
+
+#c:cooked_fish
+- minecraft:cooked_cod (from Incubus Core)
+- minecraft:cooked_salmon (from Incubus Core)
+
+#c:red_sand
+- minecraft:red_sand (from Porting Lib Tags)
+
+#spectrum:mob_blocks
+- spectrum:axolotl_mob_block (from Spectrum)
+- spectrum:bat_mob_block (from Spectrum)
+- spectrum:bee_mob_block (from Spectrum)
+- spectrum:blaze_mob_block (from Spectrum)
+- spectrum:cat_mob_block (from Spectrum)
+- spectrum:chicken_mob_block (from Spectrum)
+- spectrum:cow_mob_block (from Spectrum)
+- spectrum:creeper_mob_block (from Spectrum)
+- spectrum:ender_dragon_mob_block (from Spectrum)
+- spectrum:enderman_mob_block (from Spectrum)
+- spectrum:endermite_mob_block (from Spectrum)
+- spectrum:evoker_mob_block (from Spectrum)
+- spectrum:fish_mob_block (from Spectrum)
+- spectrum:fox_mob_block (from Spectrum)
+- spectrum:ghast_mob_block (from Spectrum)
+- spectrum:glow_squid_mob_block (from Spectrum)
+- spectrum:goat_mob_block (from Spectrum)
+- spectrum:guardian_mob_block (from Spectrum)
+- spectrum:horse_mob_block (from Spectrum)
+- spectrum:illusioner_mob_block (from Spectrum)
+- spectrum:ocelot_mob_block (from Spectrum)
+- spectrum:parrot_mob_block (from Spectrum)
+- spectrum:phantom_mob_block (from Spectrum)
+- spectrum:piglin_mob_block (from Spectrum)
+- spectrum:piglin_mob_block (from Spectrum)
+- spectrum:polar_bear_mob_block (from Spectrum)
+- spectrum:pufferfish_mob_block (from Spectrum)
+- spectrum:rabbit_mob_block (from Spectrum)
+- spectrum:sheep_mob_block (from Spectrum)
+- spectrum:shulker_mob_block (from Spectrum)
+- spectrum:silverfish_mob_block (from Spectrum)
+- spectrum:skeleton_mob_block (from Spectrum)
+- spectrum:slime_mob_block (from Spectrum)
+- spectrum:snow_golem_mob_block (from Spectrum)
+- spectrum:spider_mob_block (from Spectrum)
+- spectrum:squid_mob_block (from Spectrum)
+- spectrum:stray_mob_block (from Spectrum)
+- spectrum:strider_mob_block (from Spectrum)
+- spectrum:turtle_mob_block (from Spectrum)
+- spectrum:witch_mob_block (from Spectrum)
+- spectrum:wither_mob_block (from Spectrum)
+- spectrum:wither_skeleton_mob_block (from Spectrum)
+- spectrum:zombie_mob_block (from Spectrum)
+
+#minecraft:lapis_ores
+- minecraft:lapis_ore (from Default)
+- minecraft:deepslate_lapis_ore (from Default)
+
+#c:emeralds
+- minecraft:emerald (from Fabric Convention Tags)
+- minecraft:emerald (from Porting Lib Tags)
+- minecraft:emerald (from Incubus Core)
+
+#c:dye
+- minecraft:white_dye (from Incubus Core)
+- minecraft:orange_dye (from Incubus Core)
+- minecraft:magenta_dye (from Incubus Core)
+- minecraft:light_blue_dye (from Incubus Core)
+- minecraft:yellow_dye (from Incubus Core)
+- minecraft:lime_dye (from Incubus Core)
+- minecraft:pink_dye (from Incubus Core)
+- minecraft:gray_dye (from Incubus Core)
+- minecraft:light_gray_dye (from Incubus Core)
+- minecraft:cyan_dye (from Incubus Core)
+- minecraft:purple_dye (from Incubus Core)
+- minecraft:blue_dye (from Incubus Core)
+- minecraft:brown_dye (from Incubus Core)
+- minecraft:green_dye (from Incubus Core)
+- minecraft:red_dye (from Incubus Core)
+- minecraft:black_dye (from Incubus Core)
+
+#trinkets:feet/shoes
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- artifacts:bunny_hoppers (from Artifacts)
+- artifacts:flippers (from Artifacts)
+- artifacts:kitty_slippers (from Artifacts)
+- artifacts:running_shoes (from Artifacts)
+- artifacts:steadfast_spikes (from Artifacts)
+- artifacts:aqua_dashers (from Artifacts)
+- doodads:speed_boots (from Doodads)
+- doodads:slimey_shoes (from Doodads)
+- spectrum:seven_league_boots (from Spectrum)
+
+#c:red_glass
+- minecraft:red_stained_glass (from Porting Lib Tags)
+
+#c:brown_dye
+- minecraft:brown_dye (from Applied Energistics 2)
+
+#c:fruit_small
+- minecraft:melon_slice (from Incubus Core)
+- minecraft:sweet_berries (from Incubus Core)
+- minecraft:glow_berries (from Incubus Core)
+
+#c:ore_rates/sparse
+- minecraft:nether_gold_ore (from Porting Lib Tags)
+
+#silky_spawners:allowed_tools
+- dragonloot:dragon_pickaxe (from DragonLoot)
+
+#minecraft:fences
+- #minecraft:wooden_fences (from Default)
+- minecraft:nether_brick_fence (from Default)
+
+#spectrum:colored_fences
+- spectrum:black_fence (from Spectrum)
+- spectrum:blue_fence (from Spectrum)
+- spectrum:brown_fence (from Spectrum)
+- spectrum:cyan_fence (from Spectrum)
+- spectrum:gray_fence (from Spectrum)
+- spectrum:green_fence (from Spectrum)
+- spectrum:light_blue_fence (from Spectrum)
+- spectrum:light_gray_fence (from Spectrum)
+- spectrum:lime_fence (from Spectrum)
+- spectrum:magenta_fence (from Spectrum)
+- spectrum:orange_fence (from Spectrum)
+- spectrum:pink_fence (from Spectrum)
+- spectrum:purple_fence (from Spectrum)
+- spectrum:red_fence (from Spectrum)
+- spectrum:white_fence (from Spectrum)
+- spectrum:yellow_fence (from Spectrum)
+
+#minecraft:saplings
+- minecraft:oak_sapling (from Default)
+- minecraft:spruce_sapling (from Default)
+- minecraft:birch_sapling (from Default)
+- minecraft:jungle_sapling (from Default)
+- minecraft:acacia_sapling (from Default)
+- minecraft:dark_oak_sapling (from Default)
+- minecraft:azalea (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+- #spectrum:colored_saplings (from Spectrum)
+
+#ae2:paint_balls
+- ae2:white_paint_ball (from Applied Energistics 2)
+- ae2:orange_paint_ball (from Applied Energistics 2)
+- ae2:magenta_paint_ball (from Applied Energistics 2)
+- ae2:light_blue_paint_ball (from Applied Energistics 2)
+- ae2:yellow_paint_ball (from Applied Energistics 2)
+- ae2:lime_paint_ball (from Applied Energistics 2)
+- ae2:pink_paint_ball (from Applied Energistics 2)
+- ae2:gray_paint_ball (from Applied Energistics 2)
+- ae2:light_gray_paint_ball (from Applied Energistics 2)
+- ae2:cyan_paint_ball (from Applied Energistics 2)
+- ae2:purple_paint_ball (from Applied Energistics 2)
+- ae2:blue_paint_ball (from Applied Energistics 2)
+- ae2:brown_paint_ball (from Applied Energistics 2)
+- ae2:green_paint_ball (from Applied Energistics 2)
+- ae2:red_paint_ball (from Applied Energistics 2)
+- ae2:black_paint_ball (from Applied Energistics 2)
+
+#minecraft:banners
+- minecraft:white_banner (from Default)
+- minecraft:orange_banner (from Default)
+- minecraft:magenta_banner (from Default)
+- minecraft:light_blue_banner (from Default)
+- minecraft:yellow_banner (from Default)
+- minecraft:lime_banner (from Default)
+- minecraft:pink_banner (from Default)
+- minecraft:gray_banner (from Default)
+- minecraft:light_gray_banner (from Default)
+- minecraft:cyan_banner (from Default)
+- minecraft:purple_banner (from Default)
+- minecraft:blue_banner (from Default)
+- minecraft:brown_banner (from Default)
+- minecraft:green_banner (from Default)
+- minecraft:red_banner (from Default)
+- minecraft:black_banner (from Default)
+
+#minecraft:wooden_fences
+- minecraft:oak_fence (from Default)
+- minecraft:acacia_fence (from Default)
+- minecraft:dark_oak_fence (from Default)
+- minecraft:spruce_fence (from Default)
+- minecraft:birch_fence (from Default)
+- minecraft:jungle_fence (from Default)
+- minecraft:crimson_fence (from Default)
+- minecraft:warped_fence (from Default)
+- minecraft:mangrove_fence (from Default)
+- #spectrum:colored_fences (from Spectrum)
+
+#spectrum:gemstone_buds
+- minecraft:small_amethyst_bud (from Spectrum)
+- minecraft:medium_amethyst_bud (from Spectrum)
+- minecraft:large_amethyst_bud (from Spectrum)
+- spectrum:small_citrine_bud (from Spectrum)
+- spectrum:medium_citrine_bud (from Spectrum)
+- spectrum:large_citrine_bud (from Spectrum)
+- spectrum:small_topaz_bud (from Spectrum)
+- spectrum:medium_topaz_bud (from Spectrum)
+- spectrum:large_topaz_bud (from Spectrum)
+- spectrum:small_onyx_bud (from Spectrum)
+- spectrum:medium_onyx_bud (from Spectrum)
+- spectrum:large_onyx_bud (from Spectrum)
+- spectrum:small_moonstone_bud (from Spectrum)
+- spectrum:medium_moonstone_bud (from Spectrum)
+- spectrum:large_moonstone_bud (from Spectrum)
+
+#c:certus_quartz
+- ae2:certus_quartz_crystal (from Applied Energistics 2)
+- ae2:charged_certus_quartz_crystal (from Applied Energistics 2)
+
+#c:ice
+- minecraft:ice (from Spectrum)
+- minecraft:packed_ice (from Spectrum)
+- minecraft:blue_ice (from Spectrum)
+
+#c:feathers
+- minecraft:feather (from Porting Lib Tags)
+
+#c:amethyst_blocks
+- minecraft:amethyst_block (from Porting Lib Tags)
+
+#c:ender_pearl_dusts
+- ae2:ender_dust (from Applied Energistics 2)
+
+#c:pink_dye
+- minecraft:pink_dye (from Applied Energistics 2)
+
+#minecraft:dampens_vibrations
+- #minecraft:wool (from Default)
+- #minecraft:wool_carpets (from Default)
+
+#c:uraninite_blocks
+- powah:uraninite_block (from Powah!)
+
+#c:ore_rates/dense
+- minecraft:copper_ore (from Porting Lib Tags)
+- minecraft:deepslate_copper_ore (from Porting Lib Tags)
+- minecraft:deepslate_lapis_ore (from Porting Lib Tags)
+- minecraft:deepslate_redstone_ore (from Porting Lib Tags)
+- minecraft:lapis_ore (from Porting Lib Tags)
+- minecraft:redstone_ore (from Porting Lib Tags)
+
+#c:seeds
+- #c:beetroot_seeds (from Porting Lib Tags)
+- #c:melon_seeds (from Porting Lib Tags)
+- #c:pumpkin_seeds (from Porting Lib Tags)
+- #c:wheat_seeds (from Porting Lib Tags)
+- minecraft:wheat_seeds (from Incubus Core)
+- minecraft:beetroot_seeds (from Incubus Core)
+- minecraft:pumpkin_seeds (from Incubus Core)
+- minecraft:melon_seeds (from Incubus Core)
+
+#c:raw_zinc_blocks
+- create:raw_zinc_block (from Create)
+
+#trinkets:offhand/ring
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- doodads:sun_ring (from Doodads)
+- doodads:moon_ring (from Doodads)
+- doodads:celestial_ring (from Doodads)
+- doodads:cactus_ring (from Doodads)
+- spectrum:jeopardant (from Spectrum)
+- spectrum:azure_dike_ring (from Spectrum)
+- spectrum:neat_ring (from Spectrum)
+- spectrum:heartsingers_reward (from Spectrum)
+
+#c:obsidian
+- minecraft:obsidian (from Porting Lib Tags)
+
+#c:chestplates
+- minecraft:leather_chestplate (from Porting Lib Tags)
+- minecraft:chainmail_chestplate (from Porting Lib Tags)
+- minecraft:iron_chestplate (from Porting Lib Tags)
+- minecraft:golden_chestplate (from Porting Lib Tags)
+- minecraft:diamond_chestplate (from Porting Lib Tags)
+- minecraft:netherite_chestplate (from Porting Lib Tags)
+
+#spectrum:spawn_eggs
+- minecraft:axolotl_spawn_egg (from Spectrum)
+- minecraft:bat_spawn_egg (from Spectrum)
+- minecraft:bee_spawn_egg (from Spectrum)
+- minecraft:blaze_spawn_egg (from Spectrum)
+- minecraft:cave_spider_spawn_egg (from Spectrum)
+- minecraft:cat_spawn_egg (from Spectrum)
+- minecraft:chicken_spawn_egg (from Spectrum)
+- minecraft:cod_spawn_egg (from Spectrum)
+- minecraft:cow_spawn_egg (from Spectrum)
+- minecraft:creeper_spawn_egg (from Spectrum)
+- minecraft:dolphin_spawn_egg (from Spectrum)
+- minecraft:donkey_spawn_egg (from Spectrum)
+- minecraft:drowned_spawn_egg (from Spectrum)
+- minecraft:elder_guardian_spawn_egg (from Spectrum)
+- minecraft:enderman_spawn_egg (from Spectrum)
+- minecraft:endermite_spawn_egg (from Spectrum)
+- minecraft:evoker_spawn_egg (from Spectrum)
+- minecraft:fox_spawn_egg (from Spectrum)
+- minecraft:ghast_spawn_egg (from Spectrum)
+- minecraft:glow_squid_spawn_egg (from Spectrum)
+- minecraft:guardian_spawn_egg (from Spectrum)
+- minecraft:hoglin_spawn_egg (from Spectrum)
+- minecraft:horse_spawn_egg (from Spectrum)
+- minecraft:husk_spawn_egg (from Spectrum)
+- minecraft:llama_spawn_egg (from Spectrum)
+- minecraft:magma_cube_spawn_egg (from Spectrum)
+- minecraft:mooshroom_spawn_egg (from Spectrum)
+- minecraft:mule_spawn_egg (from Spectrum)
+- minecraft:ocelot_spawn_egg (from Spectrum)
+- minecraft:panda_spawn_egg (from Spectrum)
+- minecraft:parrot_spawn_egg (from Spectrum)
+- minecraft:phantom_spawn_egg (from Spectrum)
+- minecraft:pig_spawn_egg (from Spectrum)
+- minecraft:piglin_spawn_egg (from Spectrum)
+- minecraft:piglin_brute_spawn_egg (from Spectrum)
+- minecraft:pillager_spawn_egg (from Spectrum)
+- minecraft:polar_bear_spawn_egg (from Spectrum)
+- minecraft:pufferfish_spawn_egg (from Spectrum)
+- minecraft:rabbit_spawn_egg (from Spectrum)
+- minecraft:ravager_spawn_egg (from Spectrum)
+- minecraft:salmon_spawn_egg (from Spectrum)
+- minecraft:sheep_spawn_egg (from Spectrum)
+- minecraft:shulker_spawn_egg (from Spectrum)
+- minecraft:silverfish_spawn_egg (from Spectrum)
+- minecraft:skeleton_spawn_egg (from Spectrum)
+- minecraft:skeleton_horse_spawn_egg (from Spectrum)
+- minecraft:slime_spawn_egg (from Spectrum)
+- minecraft:spider_spawn_egg (from Spectrum)
+- minecraft:squid_spawn_egg (from Spectrum)
+- minecraft:stray_spawn_egg (from Spectrum)
+- minecraft:strider_spawn_egg (from Spectrum)
+- minecraft:trader_llama_spawn_egg (from Spectrum)
+- minecraft:tropical_fish_spawn_egg (from Spectrum)
+- minecraft:turtle_spawn_egg (from Spectrum)
+- minecraft:vex_spawn_egg (from Spectrum)
+- minecraft:villager_spawn_egg (from Spectrum)
+- minecraft:vindicator_spawn_egg (from Spectrum)
+- minecraft:wandering_trader_spawn_egg (from Spectrum)
+- minecraft:witch_spawn_egg (from Spectrum)
+- minecraft:wither_skeleton_spawn_egg (from Spectrum)
+- minecraft:wolf_spawn_egg (from Spectrum)
+- minecraft:zombie_spawn_egg (from Spectrum)
+- minecraft:zombie_horse_spawn_egg (from Spectrum)
+- minecraft:zombie_villager_spawn_egg (from Spectrum)
+- minecraft:zombified_piglin_spawn_egg (from Spectrum)
+
+#spectrum:mob_heads/zombie_heads
+- minecraft:zombie_head (from Spectrum)
+- spectrum:husk_head (from Spectrum)
+- spectrum:drowned_head (from Spectrum)
+- spectrum:zombie_villager_head (from Spectrum)
+- spectrum:zombified_piglin_head (from Spectrum)
+
+#c:light_blue_dyes
+- minecraft:light_blue_dye (from Fabric Convention Tags)
+- minecraft:light_blue_dye (from Porting Lib Tags)
+
+#c:glass
+- minecraft:glass (from Applied Energistics 2)
+- minecraft:white_stained_glass (from Applied Energistics 2)
+- minecraft:orange_stained_glass (from Applied Energistics 2)
+- minecraft:magenta_stained_glass (from Applied Energistics 2)
+- minecraft:light_blue_stained_glass (from Applied Energistics 2)
+- minecraft:yellow_stained_glass (from Applied Energistics 2)
+- minecraft:lime_stained_glass (from Applied Energistics 2)
+- minecraft:pink_stained_glass (from Applied Energistics 2)
+- minecraft:gray_stained_glass (from Applied Energistics 2)
+- minecraft:light_gray_stained_glass (from Applied Energistics 2)
+- minecraft:cyan_stained_glass (from Applied Energistics 2)
+- minecraft:purple_stained_glass (from Applied Energistics 2)
+- minecraft:blue_stained_glass (from Applied Energistics 2)
+- minecraft:brown_stained_glass (from Applied Energistics 2)
+- minecraft:green_stained_glass (from Applied Energistics 2)
+- minecraft:red_stained_glass (from Applied Energistics 2)
+- minecraft:black_stained_glass (from Applied Energistics 2)
+- #c:stained_glass (from Incubus Core)
+- minecraft:glass (from Incubus Core)
+
+#trinkets:hand/ring
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- doodads:sun_ring (from Doodads)
+- doodads:moon_ring (from Doodads)
+- doodads:celestial_ring (from Doodads)
+- doodads:cactus_ring (from Doodads)
+- spectrum:jeopardant (from Spectrum)
+- spectrum:azure_dike_ring (from Spectrum)
+- spectrum:neat_ring (from Spectrum)
+- spectrum:heartsingers_reward (from Spectrum)
+
+#c:iron_ingots
+- minecraft:iron_ingot (from Applied Energistics 2)
+- minecraft:iron_ingot (from Fabric Convention Tags)
+- minecraft:iron_ingot (from Porting Lib Tags)
+- minecraft:iron_ingot (from Incubus Core)
+
+#c:volcanic_stone
+- minecraft:basalt (from Incubus Core)
+- minecraft:tuff (from Incubus Core)
+
+#c:ore_rates/singular
+- minecraft:ancient_debris (from Porting Lib Tags)
+- minecraft:coal_ore (from Porting Lib Tags)
+- minecraft:deepslate_coal_ore (from Porting Lib Tags)
+- minecraft:deepslate_diamond_ore (from Porting Lib Tags)
+- minecraft:deepslate_emerald_ore (from Porting Lib Tags)
+- minecraft:deepslate_gold_ore (from Porting Lib Tags)
+- minecraft:deepslate_iron_ore (from Porting Lib Tags)
+- minecraft:diamond_ore (from Porting Lib Tags)
+- minecraft:emerald_ore (from Porting Lib Tags)
+- minecraft:gold_ore (from Porting Lib Tags)
+- minecraft:iron_ore (from Porting Lib Tags)
+- minecraft:nether_quartz_ore (from Porting Lib Tags)
+
+#spectrum:mob_heads/fish_heads
+- spectrum:pufferfish_head (from Spectrum)
+- spectrum:clownfish_head (from Spectrum)
+- spectrum:salmon_head (from Spectrum)
+
+#spectrum:gemstone_powders
+- spectrum:amethyst_powder (from Spectrum)
+- spectrum:citrine_powder (from Spectrum)
+- spectrum:topaz_powder (from Spectrum)
+- spectrum:onyx_powder (from Spectrum)
+- spectrum:moonstone_powder (from Spectrum)
+
+#spectrum:gemstone_clusters
+- minecraft:amethyst_cluster (from Spectrum)
+- spectrum:citrine_cluster (from Spectrum)
+- spectrum:topaz_cluster (from Spectrum)
+- spectrum:onyx_cluster (from Spectrum)
+- spectrum:moonstone_cluster (from Spectrum)
+
+#c:raw_copper_blocks
+- minecraft:raw_copper_block (from Fabric Convention Tags)
+- minecraft:raw_copper_block (from Porting Lib Tags)
+
+#c:copper_ores
+- #minecraft:copper_ores (from Porting Lib Tags)
+- minecraft:copper_ore (from Incubus Core)
+
+#c:raw_gold_blocks
+- minecraft:raw_gold_block (from Fabric Convention Tags)
+- minecraft:raw_gold_block (from Porting Lib Tags)
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors (from Default)
+- minecraft:iron_trapdoor (from Default)
+- create:train_trapdoor (from Create)
+- create:framed_glass_trapdoor (from Create)
+
+#spectrum:moonstone_chiseled_base_blocks
+- spectrum:moonstone_chiseled_basalt (from Spectrum)
+- spectrum:moonstone_chiseled_calcite (from Spectrum)
+
+#spectrum:mob_heads/llama_heads
+- spectrum:llama_head (from Spectrum)
+- spectrum:trader_llama_head (from Spectrum)
+
+#forge:ingots/gold
+- mca:rose_gold_ingot (from Minecraft Comes Alive)
+
+#c:fishing_rods
+- minecraft:fishing_rod (from Porting Lib Tags)
+
+#c:stained_glass_panes
+- minecraft:white_stained_glass_pane (from Porting Lib Tags)
+- minecraft:orange_stained_glass_pane (from Porting Lib Tags)
+- minecraft:magenta_stained_glass_pane (from Porting Lib Tags)
+- minecraft:light_blue_stained_glass_pane (from Porting Lib Tags)
+- minecraft:yellow_stained_glass_pane (from Porting Lib Tags)
+- minecraft:lime_stained_glass_pane (from Porting Lib Tags)
+- minecraft:pink_stained_glass_pane (from Porting Lib Tags)
+- minecraft:gray_stained_glass_pane (from Porting Lib Tags)
+- minecraft:light_gray_stained_glass_pane (from Porting Lib Tags)
+- minecraft:cyan_stained_glass_pane (from Porting Lib Tags)
+- minecraft:purple_stained_glass_pane (from Porting Lib Tags)
+- minecraft:blue_stained_glass_pane (from Porting Lib Tags)
+- minecraft:brown_stained_glass_pane (from Porting Lib Tags)
+- minecraft:green_stained_glass_pane (from Porting Lib Tags)
+- minecraft:red_stained_glass_pane (from Porting Lib Tags)
+- minecraft:black_stained_glass_pane (from Porting Lib Tags)
+- minecraft:white_stained_glass_pane (from Incubus Core)
+- minecraft:orange_stained_glass_pane (from Incubus Core)
+- minecraft:magenta_stained_glass_pane (from Incubus Core)
+- minecraft:light_blue_stained_glass_pane (from Incubus Core)
+- minecraft:yellow_stained_glass_pane (from Incubus Core)
+- minecraft:lime_stained_glass_pane (from Incubus Core)
+- minecraft:pink_stained_glass_pane (from Incubus Core)
+- minecraft:gray_stained_glass_pane (from Incubus Core)
+- minecraft:light_gray_stained_glass_pane (from Incubus Core)
+- minecraft:cyan_stained_glass_pane (from Incubus Core)
+- minecraft:purple_stained_glass_pane (from Incubus Core)
+- minecraft:blue_stained_glass_pane (from Incubus Core)
+- minecraft:brown_stained_glass_pane (from Incubus Core)
+- minecraft:green_stained_glass_pane (from Incubus Core)
+- minecraft:red_stained_glass_pane (from Incubus Core)
+- minecraft:black_stained_glass_pane (from Incubus Core)
+
+#spectrum:gemstone_shards
+- minecraft:amethyst_shard (from Spectrum)
+- spectrum:citrine_shard (from Spectrum)
+- spectrum:topaz_shard (from Spectrum)
+- spectrum:moonstone_shard (from Spectrum)
+- spectrum:onyx_shard (from Spectrum)
+
+#minecraft:boats
+- minecraft:oak_boat (from Default)
+- minecraft:spruce_boat (from Default)
+- minecraft:birch_boat (from Default)
+- minecraft:jungle_boat (from Default)
+- minecraft:acacia_boat (from Default)
+- minecraft:dark_oak_boat (from Default)
+- minecraft:mangrove_boat (from Default)
+- #minecraft:chest_boats (from Default)
+
+#c:amethyst
+- minecraft:amethyst_shard (from Porting Lib Tags)
+- minecraft:amethyst_shard (from Incubus Core)
+
+#c:vegetables
+- minecraft:carrot (from Incubus Core)
+- minecraft:potato (from Incubus Core)
+- minecraft:beetroot (from Incubus Core)
+- minecraft:pumpkin (from Incubus Core)
+
+#c:clusters
+- ae2:quartz_cluster (from Applied Energistics 2)
+
+#c:water_buckets
+- minecraft:axolotl_bucket (from Fabric Convention Tags)
+- minecraft:cod_bucket (from Fabric Convention Tags)
+- minecraft:pufferfish_bucket (from Fabric Convention Tags)
+- minecraft:tropical_fish_bucket (from Fabric Convention Tags)
+- minecraft:salmon_bucket (from Fabric Convention Tags)
+- minecraft:tadpole_bucket (from Fabric Convention Tags)
+- minecraft:water_bucket (from Fabric Convention Tags)
+
+#spectrum:pigments
+- spectrum:black_pigment (from Spectrum)
+- spectrum:blue_pigment (from Spectrum)
+- spectrum:brown_pigment (from Spectrum)
+- spectrum:cyan_pigment (from Spectrum)
+- spectrum:gray_pigment (from Spectrum)
+- spectrum:green_pigment (from Spectrum)
+- spectrum:light_blue_pigment (from Spectrum)
+- spectrum:light_gray_pigment (from Spectrum)
+- spectrum:lime_pigment (from Spectrum)
+- spectrum:magenta_pigment (from Spectrum)
+- spectrum:orange_pigment (from Spectrum)
+- spectrum:pink_pigment (from Spectrum)
+- spectrum:purple_pigment (from Spectrum)
+- spectrum:red_pigment (from Spectrum)
+- spectrum:white_pigment (from Spectrum)
+- spectrum:yellow_pigment (from Spectrum)
+
+#c:empty_buckets
+- minecraft:bucket (from Fabric Convention Tags)
+
+#spectrum:shimmerstone_ores
+- spectrum:shimmerstone_ore (from Spectrum)
+- spectrum:deepslate_shimmerstone_ore (from Spectrum)
+
+#minecraft:leaves
+- minecraft:jungle_leaves (from Default)
+- minecraft:oak_leaves (from Default)
+- minecraft:spruce_leaves (from Default)
+- minecraft:dark_oak_leaves (from Default)
+- minecraft:acacia_leaves (from Default)
+- minecraft:birch_leaves (from Default)
+- minecraft:azalea_leaves (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:mangrove_leaves (from Default)
+- #spectrum:colored_leaves (from Spectrum)
+
+#c:string
+- minecraft:string (from Porting Lib Tags)
+
+#spectrum:colored_saplings
+- spectrum:black_sapling (from Spectrum)
+- spectrum:blue_sapling (from Spectrum)
+- spectrum:brown_sapling (from Spectrum)
+- spectrum:cyan_sapling (from Spectrum)
+- spectrum:gray_sapling (from Spectrum)
+- spectrum:green_sapling (from Spectrum)
+- spectrum:light_blue_sapling (from Spectrum)
+- spectrum:light_gray_sapling (from Spectrum)
+- spectrum:lime_sapling (from Spectrum)
+- spectrum:magenta_sapling (from Spectrum)
+- spectrum:orange_sapling (from Spectrum)
+- spectrum:pink_sapling (from Spectrum)
+- spectrum:purple_sapling (from Spectrum)
+- spectrum:red_sapling (from Spectrum)
+- spectrum:white_sapling (from Spectrum)
+- spectrum:yellow_sapling (from Spectrum)
+
+#c:chocolates
+- spectrum:fresh_chocolate (from Spectrum)
+
+#spectrum:amethyst_crystals
+- minecraft:small_amethyst_bud (from Spectrum)
+- minecraft:medium_amethyst_bud (from Spectrum)
+- minecraft:large_amethyst_bud (from Spectrum)
+- minecraft:amethyst_cluster (from Spectrum)
+- minecraft:amethyst_shard (from Spectrum)
+
+#ae2:p2p_attunements/item_p2p_tunnel
+- ae2:storage_bus (from Applied Energistics 2)
+- ae2:export_bus (from Applied Energistics 2)
+- ae2:import_bus (from Applied Energistics 2)
+- minecraft:hopper (from Applied Energistics 2)
+- minecraft:chest (from Applied Energistics 2)
+- minecraft:trapped_chest (from Applied Energistics 2)
+- #ae2:interface (from Applied Energistics 2)
+
+#create:blaze_burner_fuel/special
+- create:blaze_cake (from Create)
+
+#spectrum:memory_bonding_agents
+- #spectrum:memory_bonding_agents_concealable (from Spectrum)
+- spectrum:vegetal (from Spectrum)
+
+#spectrum:mob_heads/mooshroom_heads
+- spectrum:mooshroom_red_head (from Spectrum)
+- spectrum:mooshroom_brown_head (from Spectrum)
+
+#c:blue_glass
+- minecraft:blue_stained_glass (from Porting Lib Tags)
+
+#minecraft:acacia_logs
+- minecraft:acacia_log (from Default)
+- minecraft:acacia_wood (from Default)
+- minecraft:stripped_acacia_log (from Default)
+- minecraft:stripped_acacia_wood (from Default)
+
+#spectrum:clovers
+- spectrum:clover (from Spectrum)
+- spectrum:four_leaf_clover (from Spectrum)
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores (from Default)
+- minecraft:gold_block (from Default)
+- minecraft:gilded_blackstone (from Default)
+- minecraft:light_weighted_pressure_plate (from Default)
+- minecraft:gold_ingot (from Default)
+- minecraft:bell (from Default)
+- minecraft:clock (from Default)
+- minecraft:golden_carrot (from Default)
+- minecraft:glistering_melon_slice (from Default)
+- minecraft:golden_apple (from Default)
+- minecraft:enchanted_golden_apple (from Default)
+- minecraft:golden_helmet (from Default)
+- minecraft:golden_chestplate (from Default)
+- minecraft:golden_leggings (from Default)
+- minecraft:golden_boots (from Default)
+- minecraft:golden_horse_armor (from Default)
+- minecraft:golden_sword (from Default)
+- minecraft:golden_pickaxe (from Default)
+- minecraft:golden_shovel (from Default)
+- minecraft:golden_axe (from Default)
+- minecraft:golden_hoe (from Default)
+- minecraft:raw_gold (from Default)
+- minecraft:raw_gold_block (from Default)
+- artifacts:golden_hook (from Artifacts)
+- create:golden_sheet (from Create)
+- create:crushed_gold_ore (from Create)
+- spectrum:axolotl_gold_head (from Spectrum)
+- spectrum:gilded_book (from Spectrum)
+
+#spectrum:mob_heads/fox_heads
+- spectrum:fox_head (from Spectrum)
+- spectrum:fox_arctic_head (from Spectrum)
+
+#c:obsidian_plates
+- create:sturdy_sheet (from Create)
+
+#c:stone
+- minecraft:andesite (from Applied Energistics 2)
+- minecraft:diorite (from Applied Energistics 2)
+- minecraft:granite (from Applied Energistics 2)
+- minecraft:infested_stone (from Applied Energistics 2)
+- minecraft:stone (from Applied Energistics 2)
+- minecraft:polished_andesite (from Applied Energistics 2)
+- minecraft:polished_diorite (from Applied Energistics 2)
+- minecraft:polished_granite (from Applied Energistics 2)
+- minecraft:andesite (from Porting Lib Tags)
+- minecraft:diorite (from Porting Lib Tags)
+- minecraft:granite (from Porting Lib Tags)
+- minecraft:infested_stone (from Porting Lib Tags)
+- minecraft:stone (from Porting Lib Tags)
+- minecraft:polished_andesite (from Porting Lib Tags)
+- minecraft:polished_diorite (from Porting Lib Tags)
+- minecraft:polished_granite (from Porting Lib Tags)
+- minecraft:deepslate (from Porting Lib Tags)
+- minecraft:polished_deepslate (from Porting Lib Tags)
+- minecraft:infested_deepslate (from Porting Lib Tags)
+- minecraft:tuff (from Porting Lib Tags)
+- minecraft:stone (from Incubus Core)
+- minecraft:polished_blackstone (from Incubus Core)
+- minecraft:deepslate (from Incubus Core)
+
+#c:magenta_glass_panes
+- minecraft:magenta_stained_glass_pane (from Porting Lib Tags)
+
+#c:iron_plates
+- create:iron_sheet (from Create)
+
+#c:copper_ingots
+- minecraft:copper_ingot (from Applied Energistics 2)
+- minecraft:copper_ingot (from Fabric Convention Tags)
+- minecraft:copper_ingot (from Porting Lib Tags)
+- minecraft:copper_ingot (from Incubus Core)
+
+#c:white_glass
+- minecraft:white_stained_glass (from Porting Lib Tags)
+
+#c:silicon
+- ae2:silicon (from Applied Energistics 2)
+
+#c:packed_ices
+- minecraft:packed_ice (from Powah!)
+
+#minecraft:copper_ores
+- minecraft:copper_ore (from Default)
+- minecraft:deepslate_copper_ore (from Default)
+
+#forge:dusts/gold
+- #mca:rose_gold_dusts (from Minecraft Comes Alive)
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs (from Default)
+- #minecraft:oak_logs (from Default)
+- #minecraft:acacia_logs (from Default)
+- #minecraft:birch_logs (from Default)
+- #minecraft:jungle_logs (from Default)
+- #minecraft:spruce_logs (from Default)
+- #minecraft:mangrove_logs (from Default)
+- #spectrum:colored_logs (from Spectrum)
+
+#spectrum:colored_leaves
+- spectrum:black_leaves (from Spectrum)
+- spectrum:blue_leaves (from Spectrum)
+- spectrum:brown_leaves (from Spectrum)
+- spectrum:cyan_leaves (from Spectrum)
+- spectrum:gray_leaves (from Spectrum)
+- spectrum:green_leaves (from Spectrum)
+- spectrum:light_blue_leaves (from Spectrum)
+- spectrum:light_gray_leaves (from Spectrum)
+- spectrum:lime_leaves (from Spectrum)
+- spectrum:magenta_leaves (from Spectrum)
+- spectrum:orange_leaves (from Spectrum)
+- spectrum:pink_leaves (from Spectrum)
+- spectrum:purple_leaves (from Spectrum)
+- spectrum:red_leaves (from Spectrum)
+- spectrum:white_leaves (from Spectrum)
+- spectrum:yellow_leaves (from Spectrum)
+
+#c:melon_seeds
+- minecraft:melon_seeds (from Porting Lib Tags)
+
+#spectrum:mob_heads/guardian_heads
+- spectrum:elder_guardian_head (from Spectrum)
+- spectrum:guardian_head (from Spectrum)
+
+#create:sleepers
+- minecraft:stone_slab (from Create)
+- minecraft:smooth_stone_slab (from Create)
+- minecraft:andesite_slab (from Create)
+
+#c:purple_dye
+- minecraft:purple_dye (from Applied Energistics 2)
+
+#ae2:memory_cards
+- ae2:memory_card_white (from Applied Energistics 2)
+- ae2:memory_card_orange (from Applied Energistics 2)
+- ae2:memory_card_magenta (from Applied Energistics 2)
+- ae2:memory_card_light_blue (from Applied Energistics 2)
+- ae2:memory_card_yellow (from Applied Energistics 2)
+- ae2:memory_card_lime (from Applied Energistics 2)
+- ae2:memory_card_pink (from Applied Energistics 2)
+- ae2:memory_card_gray (from Applied Energistics 2)
+- ae2:memory_card_light_gray (from Applied Energistics 2)
+- ae2:memory_card_cyan (from Applied Energistics 2)
+- ae2:memory_card_purple (from Applied Energistics 2)
+- ae2:memory_card_blue (from Applied Energistics 2)
+- ae2:memory_card_brown (from Applied Energistics 2)
+- ae2:memory_card_green (from Applied Energistics 2)
+- ae2:memory_card_red (from Applied Energistics 2)
+- ae2:memory_card_black (from Applied Energistics 2)
+- ae2:memory_card (from Applied Energistics 2)
+
+#c:dough/wheat
+- create:dough (from Create)
+
+#things:hardening_catalyst_blacklist
+- spectrum:bedrock_helmet (from Spectrum)
+- spectrum:bedrock_chestplate (from Spectrum)
+- spectrum:bedrock_leggings (from Spectrum)
+- spectrum:bedrock_boots (from Spectrum)
+- spectrum:bedrock_pickaxe (from Spectrum)
+- spectrum:bedrock_axe (from Spectrum)
+- spectrum:bedrock_shovel (from Spectrum)
+- spectrum:bedrock_sword (from Spectrum)
+- spectrum:bedrock_hoe (from Spectrum)
+- spectrum:bedrock_bow (from Spectrum)
+- spectrum:bedrock_crossbow (from Spectrum)
+- spectrum:bedrock_shears (from Spectrum)
+- spectrum:bedrock_fishing_rod (from Spectrum)
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab (from Default)
+- minecraft:spruce_slab (from Default)
+- minecraft:birch_slab (from Default)
+- minecraft:jungle_slab (from Default)
+- minecraft:acacia_slab (from Default)
+- minecraft:dark_oak_slab (from Default)
+- minecraft:crimson_slab (from Default)
+- minecraft:warped_slab (from Default)
+- minecraft:mangrove_slab (from Default)
+
+#c:wooden_chests
+- minecraft:chest (from Applied Energistics 2)
+- minecraft:trapped_chest (from Applied Energistics 2)
+- minecraft:chest (from Porting Lib Tags)
+- minecraft:trapped_chest (from Porting Lib Tags)
+
+#c:light_blue_glass
+- minecraft:light_blue_stained_glass (from Porting Lib Tags)
+
+#spectrum:memory_bonding_agents_concealable
+- spectrum:neolith (from Spectrum)
+
+#create:toolboxes
+- create:white_toolbox (from Create)
+- create:orange_toolbox (from Create)
+- create:magenta_toolbox (from Create)
+- create:light_blue_toolbox (from Create)
+- create:yellow_toolbox (from Create)
+- create:lime_toolbox (from Create)
+- create:pink_toolbox (from Create)
+- create:gray_toolbox (from Create)
+- create:light_gray_toolbox (from Create)
+- create:cyan_toolbox (from Create)
+- create:purple_toolbox (from Create)
+- create:blue_toolbox (from Create)
+- create:brown_toolbox (from Create)
+- create:green_toolbox (from Create)
+- create:red_toolbox (from Create)
+- create:black_toolbox (from Create)
+
+#minecraft:small_flowers
+- minecraft:dandelion (from Default)
+- minecraft:poppy (from Default)
+- minecraft:blue_orchid (from Default)
+- minecraft:allium (from Default)
+- minecraft:azure_bluet (from Default)
+- minecraft:red_tulip (from Default)
+- minecraft:orange_tulip (from Default)
+- minecraft:white_tulip (from Default)
+- minecraft:pink_tulip (from Default)
+- minecraft:oxeye_daisy (from Default)
+- minecraft:cornflower (from Default)
+- minecraft:lily_of_the_valley (from Default)
+- minecraft:wither_rose (from Default)
+- spectrum:resonant_lily (from Spectrum)
+
+#spectrum:potion_pendants
+- spectrum:lesser_potion_pendant (from Spectrum)
+- spectrum:greater_potion_pendant (from Spectrum)
+
+#c:axes
+- dragonloot:dragon_axe (from DragonLoot)
+- #fabric:axes? (from Fabric Convention Tags)
+- minecraft:diamond_axe (from Fabric Convention Tags)
+- minecraft:golden_axe (from Fabric Convention Tags)
+- minecraft:wooden_axe (from Fabric Convention Tags)
+- minecraft:stone_axe (from Fabric Convention Tags)
+- minecraft:iron_axe (from Fabric Convention Tags)
+- minecraft:netherite_axe (from Fabric Convention Tags)
+- minecraft:wooden_axe (from Porting Lib Tags)
+- minecraft:stone_axe (from Porting Lib Tags)
+- minecraft:iron_axe (from Porting Lib Tags)
+- minecraft:golden_axe (from Porting Lib Tags)
+- minecraft:diamond_axe (from Porting Lib Tags)
+- minecraft:netherite_axe (from Porting Lib Tags)
+- spectrum:bedrock_axe (from Spectrum)
+- spectrum:multitool (from Spectrum)
+
+#c:raw_iron_blocks
+- minecraft:raw_iron_block (from Fabric Convention Tags)
+- minecraft:raw_iron_block (from Porting Lib Tags)
+
+#ae2:quartz_axe
+- ae2:certus_quartz_axe (from Applied Energistics 2)
+- ae2:nether_quartz_axe (from Applied Energistics 2)
+
+#c:leggings
+- minecraft:leather_leggings (from Porting Lib Tags)
+- minecraft:chainmail_leggings (from Porting Lib Tags)
+- minecraft:iron_leggings (from Porting Lib Tags)
+- minecraft:golden_leggings (from Porting Lib Tags)
+- minecraft:diamond_leggings (from Porting Lib Tags)
+- minecraft:netherite_leggings (from Porting Lib Tags)
+
+#c:shovels
+- dragonloot:dragon_shovel (from DragonLoot)
+- #fabric:shovels? (from Fabric Convention Tags)
+- minecraft:diamond_shovel (from Fabric Convention Tags)
+- minecraft:golden_shovel (from Fabric Convention Tags)
+- minecraft:wooden_shovel (from Fabric Convention Tags)
+- minecraft:stone_shovel (from Fabric Convention Tags)
+- minecraft:iron_shovel (from Fabric Convention Tags)
+- minecraft:netherite_shovel (from Fabric Convention Tags)
+- minecraft:wooden_shovel (from Porting Lib Tags)
+- minecraft:stone_shovel (from Porting Lib Tags)
+- minecraft:iron_shovel (from Porting Lib Tags)
+- minecraft:golden_shovel (from Porting Lib Tags)
+- minecraft:diamond_shovel (from Porting Lib Tags)
+- minecraft:netherite_shovel (from Porting Lib Tags)
+- spectrum:bedrock_shovel (from Spectrum)
+- spectrum:multitool (from Spectrum)
+
+#trinkets:chest/back
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+
+#trinkets:legs/pigment_palette
+- spectrum:pigment_palette (from Spectrum)
+- spectrum:artists_palette (from Spectrum)
+
+#c:fence_gates
+- #c:wooden_fence_gates (from Porting Lib Tags)
+
+#spectrum:topaz_chiseled_base_blocks
+- spectrum:topaz_chiseled_basalt (from Spectrum)
+- spectrum:topaz_chiseled_calcite (from Spectrum)
+
+#spectrum:lean_meats
+- minecraft:cooked_rabbit (from Spectrum)
+- minecraft:cooked_porkchop (from Spectrum)
+
+#spectrum:mob_heads/hoglin_heads
+- spectrum:hoglin_head (from Spectrum)
+- spectrum:zoglin_head (from Spectrum)
+
+#minecraft:axolotl_tempt_items
+- minecraft:tropical_fish_bucket (from Default)
+
+#c:magenta_dye
+- minecraft:magenta_dye (from Applied Energistics 2)
+
+#c:leather
+- minecraft:leather (from Porting Lib Tags)
+
+#c:certus_quartz_blocks
+- ae2:quartz_block (from Applied Energistics 2)
+
+#c:purple_dyes
+- minecraft:purple_dye (from Fabric Convention Tags)
+- minecraft:purple_dye (from Porting Lib Tags)
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13 (from Default)
+- minecraft:music_disc_cat (from Default)
+- minecraft:music_disc_blocks (from Default)
+- minecraft:music_disc_chirp (from Default)
+- minecraft:music_disc_far (from Default)
+- minecraft:music_disc_mall (from Default)
+- minecraft:music_disc_mellohi (from Default)
+- minecraft:music_disc_stal (from Default)
+- minecraft:music_disc_strad (from Default)
+- minecraft:music_disc_ward (from Default)
+- minecraft:music_disc_11 (from Default)
+- minecraft:music_disc_wait (from Default)
+
+#c:nuggets
+- create:copper_nugget (from Create)
+- create:zinc_nugget (from Create)
+- create:brass_nugget (from Create)
+- create:experience_nugget (from Create)
+- #c:iron_nuggets (from Porting Lib Tags)
+- #c:gold_nuggets (from Porting Lib Tags)
+
+#c:zinc_raw_materials
+- create:raw_zinc (from Create)
+
+#c:gems
+- ae2:certus_quartz_crystal (from Applied Energistics 2)
+- ae2:charged_certus_quartz_crystal (from Applied Energistics 2)
+- ae2:fluix_crystal (from Applied Energistics 2)
+- #c:amethyst (from Porting Lib Tags)
+- #c:diamonds (from Porting Lib Tags)
+- #c:emeralds (from Porting Lib Tags)
+- #c:lapis (from Porting Lib Tags)
+- #c:prismarine (from Porting Lib Tags)
+- #c:quartz (from Porting Lib Tags)
+
+#c:crops/nether_wart
+- minecraft:nether_wart (from Porting Lib Tags)
+
+#mca:babies
+- mca:baby_boy (from Minecraft Comes Alive)
+- mca:baby_girl (from Minecraft Comes Alive)
+
+#c:dry_ices
+- powah:dry_ice (from Powah!)
+
+#c:books
+- spectrum:gilded_book (from Spectrum)
+
+#c:cyan_glass_panes
+- minecraft:cyan_stained_glass_pane (from Porting Lib Tags)
+
+#c:gold_ingots
+- minecraft:gold_ingot (from Applied Energistics 2)
+- minecraft:gold_ingot (from Fabric Convention Tags)
+- minecraft:gold_ingot (from Porting Lib Tags)
+- minecraft:gold_ingot (from Incubus Core)
+
+#minecraft:wart_blocks
+- minecraft:nether_wart_block (from Default)
+- minecraft:warped_wart_block (from Default)
+
+#c:tools
+- #c:swords (from Porting Lib Tags)
+- #c:axes (from Porting Lib Tags)
+- #c:pickaxes (from Porting Lib Tags)
+- #c:shovels (from Porting Lib Tags)
+- #c:hoes (from Porting Lib Tags)
+- #c:shields (from Porting Lib Tags)
+- #c:bows (from Porting Lib Tags)
+- #c:crossbows (from Porting Lib Tags)
+- #c:fishing_rods (from Porting Lib Tags)
+- #c:tridents (from Porting Lib Tags)
+
+#c:light_gray_dyes
+- minecraft:light_gray_dye (from Fabric Convention Tags)
+- minecraft:light_gray_dye (from Porting Lib Tags)
+
+#c:emerald_blocks
+- minecraft:emerald_block (from Porting Lib Tags)
+
+#create:crushed_ores
+- create:crushed_iron_ore (from Create)
+- create:crushed_gold_ore (from Create)
+- create:crushed_copper_ore (from Create)
+- create:crushed_zinc_ore (from Create)
+- create:crushed_osmium_ore (from Create)
+- create:crushed_platinum_ore (from Create)
+- create:crushed_silver_ore (from Create)
+- create:crushed_tin_ore (from Create)
+- create:crushed_lead_ore (from Create)
+- create:crushed_quicksilver_ore (from Create)
+- create:crushed_aluminum_ore (from Create)
+- create:crushed_uranium_ore (from Create)
+- create:crushed_nickel_ore (from Create)
+
+#c:colorless_sand
+- minecraft:sand (from Porting Lib Tags)
+
+#c:chests
+- #c:ender_chests (from Porting Lib Tags)
+- #c:trapped_chests (from Porting Lib Tags)
+- #c:wooden_chests (from Porting Lib Tags)
+
+#create:stone_types/crimsite
+- create:cut_crimsite (from Create)
+- create:cut_crimsite_stairs (from Create)
+- create:cut_crimsite_wall (from Create)
+- create:polished_cut_crimsite (from Create)
+- create:polished_cut_crimsite_stairs (from Create)
+- create:polished_cut_crimsite_wall (from Create)
+- create:cut_crimsite_bricks (from Create)
+- create:cut_crimsite_brick_stairs (from Create)
+- create:cut_crimsite_brick_wall (from Create)
+- create:small_crimsite_bricks (from Create)
+- create:small_crimsite_brick_stairs (from Create)
+- create:small_crimsite_brick_wall (from Create)
+- create:layered_crimsite (from Create)
+- create:crimsite_pillar (from Create)
+
+#c:stained_glass
+- minecraft:white_stained_glass (from Porting Lib Tags)
+- minecraft:orange_stained_glass (from Porting Lib Tags)
+- minecraft:magenta_stained_glass (from Porting Lib Tags)
+- minecraft:light_blue_stained_glass (from Porting Lib Tags)
+- minecraft:yellow_stained_glass (from Porting Lib Tags)
+- minecraft:lime_stained_glass (from Porting Lib Tags)
+- minecraft:pink_stained_glass (from Porting Lib Tags)
+- minecraft:gray_stained_glass (from Porting Lib Tags)
+- minecraft:light_gray_stained_glass (from Porting Lib Tags)
+- minecraft:cyan_stained_glass (from Porting Lib Tags)
+- minecraft:purple_stained_glass (from Porting Lib Tags)
+- minecraft:blue_stained_glass (from Porting Lib Tags)
+- minecraft:brown_stained_glass (from Porting Lib Tags)
+- minecraft:green_stained_glass (from Porting Lib Tags)
+- minecraft:red_stained_glass (from Porting Lib Tags)
+- minecraft:black_stained_glass (from Porting Lib Tags)
+- minecraft:white_stained_glass (from Incubus Core)
+- minecraft:orange_stained_glass (from Incubus Core)
+- minecraft:magenta_stained_glass (from Incubus Core)
+- minecraft:light_blue_stained_glass (from Incubus Core)
+- minecraft:yellow_stained_glass (from Incubus Core)
+- minecraft:lime_stained_glass (from Incubus Core)
+- minecraft:pink_stained_glass (from Incubus Core)
+- minecraft:gray_stained_glass (from Incubus Core)
+- minecraft:light_gray_stained_glass (from Incubus Core)
+- minecraft:cyan_stained_glass (from Incubus Core)
+- minecraft:purple_stained_glass (from Incubus Core)
+- minecraft:blue_stained_glass (from Incubus Core)
+- minecraft:brown_stained_glass (from Incubus Core)
+- minecraft:green_stained_glass (from Incubus Core)
+- minecraft:red_stained_glass (from Incubus Core)
+- minecraft:black_stained_glass (from Incubus Core)
+
+#spectrum:azurite_ores
+- spectrum:azurite_ore (from Spectrum)
+- spectrum:deepslate_azurite_ore (from Spectrum)
+
+#c:silica_glass
+- minecraft:glass (from Porting Lib Tags)
+- minecraft:black_stained_glass (from Porting Lib Tags)
+- minecraft:blue_stained_glass (from Porting Lib Tags)
+- minecraft:brown_stained_glass (from Porting Lib Tags)
+- minecraft:cyan_stained_glass (from Porting Lib Tags)
+- minecraft:gray_stained_glass (from Porting Lib Tags)
+- minecraft:green_stained_glass (from Porting Lib Tags)
+- minecraft:light_blue_stained_glass (from Porting Lib Tags)
+- minecraft:light_gray_stained_glass (from Porting Lib Tags)
+- minecraft:lime_stained_glass (from Porting Lib Tags)
+- minecraft:magenta_stained_glass (from Porting Lib Tags)
+- minecraft:orange_stained_glass (from Porting Lib Tags)
+- minecraft:pink_stained_glass (from Porting Lib Tags)
+- minecraft:purple_stained_glass (from Porting Lib Tags)
+- minecraft:red_stained_glass (from Porting Lib Tags)
+- minecraft:white_stained_glass (from Porting Lib Tags)
+- minecraft:yellow_stained_glass (from Porting Lib Tags)
+
+#spectrum:piglin_safe_equipment
+- spectrum:bedrock_helmet (from Spectrum)
+- spectrum:bedrock_chestplate (from Spectrum)
+- spectrum:bedrock_leggings (from Spectrum)
+- spectrum:bedrock_boots (from Spectrum)
+
+#itemfilters:check_nbt
+- minecraft:potion (from Item Filters)
+- minecraft:splash_potion (from Item Filters)
+- minecraft:lingering_potion (from Item Filters)
+- minecraft:enchanted_book (from Item Filters)
+- minecraft:tipped_arrow (from Item Filters)
+
+#minecraft:birch_logs
+- minecraft:birch_log (from Default)
+- minecraft:birch_wood (from Default)
+- minecraft:stripped_birch_log (from Default)
+- minecraft:stripped_birch_wood (from Default)
+
+#c:netherite_scrap_ores
+- minecraft:ancient_debris (from Porting Lib Tags)
+
+#c:mushrooms_nether
+- minecraft:crimson_fungus (from Incubus Core)
+- minecraft:warped_fungus (from Incubus Core)
+
+#spectrum:bedrock_equipment
+- spectrum:bedrock_pickaxe (from Spectrum)
+- spectrum:bedrock_axe (from Spectrum)
+- spectrum:bedrock_shovel (from Spectrum)
+- spectrum:bedrock_sword (from Spectrum)
+- spectrum:bedrock_hoe (from Spectrum)
+- spectrum:bedrock_bow (from Spectrum)
+- spectrum:bedrock_crossbow (from Spectrum)
+- spectrum:bedrock_shears (from Spectrum)
+- spectrum:bedrock_fishing_rod (from Spectrum)
+
+#c:certus_quartz_ores
+
+#ae2:metal_ingots
+- #c:iron_ingots? (from Applied Energistics 2)
+- #c:gold_ingots? (from Applied Energistics 2)
+- #c:copper_ingots? (from Applied Energistics 2)
+- #c:tin_ingots? (from Applied Energistics 2)
+- #c:brass_ingots? (from Applied Energistics 2)
+- #c:nickel_ingots? (from Applied Energistics 2)
+- #c:aluminium_ingots? (from Applied Energistics 2)
+
+#forge:dusts
+- #mca:rose_gold_dusts (from Minecraft Comes Alive)
+
+#c:raw_gold_ores
+- minecraft:raw_gold (from Fabric Convention Tags)
+- minecraft:raw_gold (from Incubus Core)
+
+#c:beetroot_seeds
+- minecraft:beetroot_seeds (from Porting Lib Tags)
+
+#c:flour/wheat
+- create:wheat_flour (from Create)
+
+#c:ices
+- #c:regular_ices (from Powah!)
+- #c:packed_ices (from Powah!)
+- #c:blue_ices (from Powah!)
+- #c:dry_ices (from Powah!)
+
+#c:crossbows
+- minecraft:crossbow (from Porting Lib Tags)
+
+#c:heads
+- minecraft:creeper_head (from Porting Lib Tags)
+- minecraft:dragon_head (from Porting Lib Tags)
+- minecraft:player_head (from Porting Lib Tags)
+- minecraft:skeleton_skull (from Porting Lib Tags)
+- minecraft:wither_skeleton_skull (from Porting Lib Tags)
+- minecraft:zombie_head (from Porting Lib Tags)
+
+#c:blue_glass_panes
+- minecraft:blue_stained_glass_pane (from Porting Lib Tags)
+
+#create:stone_types/asurine
+- create:cut_asurine (from Create)
+- create:cut_asurine_stairs (from Create)
+- create:cut_asurine_wall (from Create)
+- create:polished_cut_asurine (from Create)
+- create:polished_cut_asurine_stairs (from Create)
+- create:polished_cut_asurine_wall (from Create)
+- create:cut_asurine_bricks (from Create)
+- create:cut_asurine_brick_stairs (from Create)
+- create:cut_asurine_brick_wall (from Create)
+- create:small_asurine_bricks (from Create)
+- create:small_asurine_brick_stairs (from Create)
+- create:small_asurine_brick_wall (from Create)
+- create:layered_asurine (from Create)
+- create:asurine_pillar (from Create)
+
+#minecraft:oak_logs
+- minecraft:oak_log (from Default)
+- minecraft:oak_wood (from Default)
+- minecraft:stripped_oak_log (from Default)
+- minecraft:stripped_oak_wood (from Default)
+
+#c:ender_chests
+- minecraft:ender_chest (from Porting Lib Tags)
+
+#c:raw_meat
+- #c:raw_fish (from Incubus Core)
+- minecraft:beef (from Incubus Core)
+- minecraft:porkchop (from Incubus Core)
+- minecraft:chicken (from Incubus Core)
+- minecraft:rabbit (from Incubus Core)
+- minecraft:mutton (from Incubus Core)
+
+#c:diamonds
+- minecraft:diamond (from Applied Energistics 2)
+- minecraft:diamond (from Fabric Convention Tags)
+- minecraft:diamond (from Porting Lib Tags)
+- minecraft:diamond (from Incubus Core)
+
+#ae2:all_nether_quartz
+- #c:quartz (from Applied Energistics 2)
+
+#c:prismarine
+- minecraft:prismarine_crystals (from Porting Lib Tags)
+
+#c:black_glass
+- minecraft:black_stained_glass (from Porting Lib Tags)
+
+#c:purple_glass
+- minecraft:purple_stained_glass (from Porting Lib Tags)
+
+#c:gold_plates
+- create:golden_sheet (from Create)
+
+#c:glazed_terracotta
+- minecraft:white_glazed_terracotta (from Incubus Core)
+- minecraft:orange_glazed_terracotta (from Incubus Core)
+- minecraft:magenta_glazed_terracotta (from Incubus Core)
+- minecraft:light_blue_glazed_terracotta (from Incubus Core)
+- minecraft:yellow_glazed_terracotta (from Incubus Core)
+- minecraft:lime_glazed_terracotta (from Incubus Core)
+- minecraft:pink_glazed_terracotta (from Incubus Core)
+- minecraft:gray_glazed_terracotta (from Incubus Core)
+- minecraft:light_gray_glazed_terracotta (from Incubus Core)
+- minecraft:cyan_glazed_terracotta (from Incubus Core)
+- minecraft:purple_glazed_terracotta (from Incubus Core)
+- minecraft:blue_glazed_terracotta (from Incubus Core)
+- minecraft:brown_glazed_terracotta (from Incubus Core)
+- minecraft:green_glazed_terracotta (from Incubus Core)
+- minecraft:red_glazed_terracotta (from Incubus Core)
+- minecraft:black_glazed_terracotta (from Incubus Core)
+
+#c:bookshelves
+- minecraft:bookshelf (from Porting Lib Tags)
+
+#mca:storage_blocks
+- mca:jeweler_workbench (from Minecraft Comes Alive)
+
+#c:netherite_blocks
+- minecraft:netherite_block (from Porting Lib Tags)
+
+#c:ores_in_ground/stone
+- create:zinc_ore (from Create)
+- minecraft:coal_ore (from Porting Lib Tags)
+- minecraft:copper_ore (from Porting Lib Tags)
+- minecraft:diamond_ore (from Porting Lib Tags)
+- minecraft:emerald_ore (from Porting Lib Tags)
+- minecraft:gold_ore (from Porting Lib Tags)
+- minecraft:iron_ore (from Porting Lib Tags)
+- minecraft:lapis_ore (from Porting Lib Tags)
+- minecraft:redstone_ore (from Porting Lib Tags)
+
+#c:gray_glass_panes
+- minecraft:gray_stained_glass_pane (from Porting Lib Tags)
+
+#c:zinc_blocks
+- create:zinc_block (from Create)
+
+#spectrum:raw_water_meats
+- minecraft:cod (from Spectrum)
+- minecraft:salmon (from Spectrum)
+
+#minecraft:jungle_logs
+- minecraft:jungle_log (from Default)
+- minecraft:jungle_wood (from Default)
+- minecraft:stripped_jungle_log (from Default)
+- minecraft:stripped_jungle_wood (from Default)
+
+#minecraft:lectern_books
+- minecraft:written_book (from Default)
+- minecraft:writable_book (from Default)
+- patchouli:guide_book (from Patchouli)
+
+#spectrum:gemstone_armor
+- spectrum:fetchling_helmet (from Spectrum)
+- spectrum:ferocious_chestplate (from Spectrum)
+- spectrum:sylph_leggings (from Spectrum)
+- spectrum:oread_boots (from Spectrum)
+
+#spectrum:colored_planks
+- spectrum:black_planks (from Spectrum)
+- spectrum:blue_planks (from Spectrum)
+- spectrum:brown_planks (from Spectrum)
+- spectrum:cyan_planks (from Spectrum)
+- spectrum:gray_planks (from Spectrum)
+- spectrum:green_planks (from Spectrum)
+- spectrum:light_blue_planks (from Spectrum)
+- spectrum:light_gray_planks (from Spectrum)
+- spectrum:lime_planks (from Spectrum)
+- spectrum:magenta_planks (from Spectrum)
+- spectrum:orange_planks (from Spectrum)
+- spectrum:pink_planks (from Spectrum)
+- spectrum:purple_planks (from Spectrum)
+- spectrum:red_planks (from Spectrum)
+- spectrum:white_planks (from Spectrum)
+- spectrum:yellow_planks (from Spectrum)
+
+#c:brown_glass_panes
+- minecraft:brown_stained_glass_pane (from Porting Lib Tags)
+
+#spectrum:no_cinderhearth_doubling
+- c:dusts? (from Spectrum)
+- spectrum:polished_calcite_wall (from Spectrum)
+- spectrum:polished_calcite_stairs (from Spectrum)
+- spectrum:polished_calcite_pillar (from Spectrum)
+- spectrum:polished_calcite_crest (from Spectrum)
+- spectrum:notched_polished_calcite (from Spectrum)
+- spectrum:chiseled_polished_calcite (from Spectrum)
+- spectrum:calcite_bricks (from Spectrum)
+- spectrum:calcite_brick_wall (from Spectrum)
+- spectrum:calcite_brick_stairs (from Spectrum)
+- spectrum:polished_basalt_wall (from Spectrum)
+- spectrum:polished_basalt_stairs (from Spectrum)
+- spectrum:polished_basalt_pillar (from Spectrum)
+- spectrum:polished_basalt_crest (from Spectrum)
+- spectrum:notched_polished_basalt (from Spectrum)
+- spectrum:chiseled_polished_basalt (from Spectrum)
+- spectrum:basalt_bricks (from Spectrum)
+- spectrum:basalt_brick_wall (from Spectrum)
+- spectrum:basalt_brick_stairs (from Spectrum)
+- minecraft:wet_sponge (from Spectrum)
+
+#trinkets:head/hat
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- artifacts:night_vision_goggles (from Artifacts)
+- artifacts:novelty_drinking_hat (from Artifacts)
+- artifacts:plastic_drinking_hat (from Artifacts)
+- artifacts:snorkel (from Artifacts)
+- artifacts:superstitious_hat (from Artifacts)
+- artifacts:villager_hat (from Artifacts)
+- doodads:glare_plushie (from Doodads)
+
+#minecraft:spruce_logs
+- minecraft:spruce_log (from Default)
+- minecraft:spruce_wood (from Default)
+- minecraft:stripped_spruce_log (from Default)
+- minecraft:stripped_spruce_wood (from Default)
+
+#create:blaze_burner_fuel/regular
+
+#mca:confectionaries
+- minecraft:cake (from Minecraft Comes Alive)
+- minecraft:cookie (from Minecraft Comes Alive)
+- minecraft:honeycomb (from Minecraft Comes Alive)
+- minecraft:honeycomb_block (from Minecraft Comes Alive)
+- minecraft:honey_bottle (from Minecraft Comes Alive)
+- minecraft:honey_block (from Minecraft Comes Alive)
+- minecraft:sugar (from Minecraft Comes Alive)
+- minecraft:sugar_cane (from Minecraft Comes Alive)
+- minecraft:fermented_spider_eye (from Minecraft Comes Alive)
+- minecraft:magma_cream (from Minecraft Comes Alive)
+- minecraft:sweet_berries (from Minecraft Comes Alive)
+
+#c:normal_cobblestone
+- minecraft:cobblestone (from Porting Lib Tags)
+
+#minecraft:chest_boats
+- minecraft:oak_chest_boat (from Default)
+- minecraft:spruce_chest_boat (from Default)
+- minecraft:birch_chest_boat (from Default)
+- minecraft:jungle_chest_boat (from Default)
+- minecraft:acacia_chest_boat (from Default)
+- minecraft:dark_oak_chest_boat (from Default)
+- minecraft:mangrove_chest_boat (from Default)
+
+#c:brick_ingots
+- minecraft:brick (from Porting Lib Tags)
+
+#mca:books
+- mca:book_rose_gold (from Minecraft Comes Alive)
+- mca:book_death (from Minecraft Comes Alive)
+- mca:book_romance (from Minecraft Comes Alive)
+- mca:book_family (from Minecraft Comes Alive)
+- mca:book_infection (from Minecraft Comes Alive)
+- mca:book_blueprint (from Minecraft Comes Alive)
+
+#c:mineral_stone
+- minecraft:diorite (from Incubus Core)
+- minecraft:granite (from Incubus Core)
+- minecraft:andesite (from Incubus Core)
+- minecraft:calcite (from Incubus Core)
+- minecraft:dripstone_block (from Incubus Core)
+
+#c:bones
+- minecraft:bone (from Porting Lib Tags)
+
+#c:gray_glass
+- minecraft:gray_stained_glass (from Porting Lib Tags)
+
+#c:iron_raw_materials
+- minecraft:raw_iron (from Porting Lib Tags)
+
+#c:rods
+- #c:blaze_rods (from Porting Lib Tags)
+- #c:wooden_rods (from Porting Lib Tags)
+
+#spectrum:common_meats
+- minecraft:cooked_beef (from Spectrum)
+- minecraft:cooked_mutton (from Spectrum)
+- minecraft:cooked_chicken (from Spectrum)
+
+#trinkets:feet/aglet
+- ae2:wireless_crafting_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_encoding_terminal (from AE2WTLib)
+- ae2wtlib:wireless_pattern_access_terminal (from AE2WTLib)
+- ae2wtlib:wireless_universal_terminal (from AE2WTLib)
+- doodads:shulker_aglet (from Doodads)
+
+#c:blue_dye
+- minecraft:blue_dye (from Applied Energistics 2)
+
+#tooltiprareness:epic_item
+- dragonloot:dragon_scale (from DragonLoot)
+- dragonloot:dragon_horse_armor (from DragonLoot)
+- dragonloot:dragon_helmet (from DragonLoot)
+- dragonloot:dragon_chestplate (from DragonLoot)
+- dragonloot:dragon_leggings (from DragonLoot)
+- dragonloot:dragon_boots (from DragonLoot)
+- dragonloot:upgraded_dragon_chestplate (from DragonLoot)
+- dragonloot:dragon_pickaxe (from DragonLoot)
+- dragonloot:dragon_shovel (from DragonLoot)
+- dragonloot:dragon_axe (from DragonLoot)
+- dragonloot:dragon_hoe (from DragonLoot)
+- dragonloot:dragon_sword (from DragonLoot)
+- dragonloot:dragon_bow (from DragonLoot)
+- dragonloot:dragon_crossbow (from DragonLoot)
+- dragonloot:dragon_trident (from DragonLoot)
+
+#c:hoes
+- dragonloot:dragon_hoe (from DragonLoot)
+- #fabric:hoes? (from Fabric Convention Tags)
+- minecraft:diamond_hoe (from Fabric Convention Tags)
+- minecraft:golden_hoe (from Fabric Convention Tags)
+- minecraft:wooden_hoe (from Fabric Convention Tags)
+- minecraft:stone_hoe (from Fabric Convention Tags)
+- minecraft:iron_hoe (from Fabric Convention Tags)
+- minecraft:netherite_hoe (from Fabric Convention Tags)
+- minecraft:wooden_hoe (from Porting Lib Tags)
+- minecraft:stone_hoe (from Porting Lib Tags)
+- minecraft:iron_hoe (from Porting Lib Tags)
+- minecraft:golden_hoe (from Porting Lib Tags)
+- minecraft:diamond_hoe (from Porting Lib Tags)
+- minecraft:netherite_hoe (from Porting Lib Tags)
+- spectrum:bedrock_hoe (from Spectrum)
+- spectrum:multitool (from Spectrum)
+
+#create:stone_types/ochrum
+- create:cut_ochrum (from Create)
+- create:cut_ochrum_stairs (from Create)
+- create:cut_ochrum_wall (from Create)
+- create:polished_cut_ochrum (from Create)
+- create:polished_cut_ochrum_stairs (from Create)
+- create:polished_cut_ochrum_wall (from Create)
+- create:cut_ochrum_bricks (from Create)
+- create:cut_ochrum_brick_stairs (from Create)
+- create:cut_ochrum_brick_wall (from Create)
+- create:small_ochrum_bricks (from Create)
+- create:small_ochrum_brick_stairs (from Create)
+- create:small_ochrum_brick_wall (from Create)
+- create:layered_ochrum (from Create)
+- create:ochrum_pillar (from Create)
+
+#c:red_dyes
+- minecraft:red_dye (from Fabric Convention Tags)
+- minecraft:red_dye (from Porting Lib Tags)
+
+#ae2:covered_cable
+- ae2:white_covered_cable (from Applied Energistics 2)
+- ae2:orange_covered_cable (from Applied Energistics 2)
+- ae2:magenta_covered_cable (from Applied Energistics 2)
+- ae2:light_blue_covered_cable (from Applied Energistics 2)
+- ae2:yellow_covered_cable (from Applied Energistics 2)
+- ae2:lime_covered_cable (from Applied Energistics 2)
+- ae2:pink_covered_cable (from Applied Energistics 2)
+- ae2:gray_covered_cable (from Applied Energistics 2)
+- ae2:light_gray_covered_cable (from Applied Energistics 2)
+- ae2:cyan_covered_cable (from Applied Energistics 2)
+- ae2:purple_covered_cable (from Applied Energistics 2)
+- ae2:blue_covered_cable (from Applied Energistics 2)
+- ae2:brown_covered_cable (from Applied Energistics 2)
+- ae2:green_covered_cable (from Applied Energistics 2)
+- ae2:red_covered_cable (from Applied Energistics 2)
+- ae2:black_covered_cable (from Applied Energistics 2)
+- ae2:fluix_covered_cable (from Applied Energistics 2)
+
+#ae2:quartz_pickaxe
+- ae2:certus_quartz_pickaxe (from Applied Energistics 2)
+- ae2:nether_quartz_pickaxe (from Applied Energistics 2)
+
+#minecraft:flowers
+- #minecraft:small_flowers (from Default)
+- #minecraft:tall_flowers (from Default)
+- minecraft:flowering_azalea_leaves (from Default)
+- minecraft:flowering_azalea (from Default)
+- minecraft:mangrove_propagule (from Default)
+
+#c:concrete
+- minecraft:white_concrete (from Incubus Core)
+- minecraft:orange_concrete (from Incubus Core)
+- minecraft:magenta_concrete (from Incubus Core)
+- minecraft:light_blue_concrete (from Incubus Core)
+- minecraft:yellow_concrete (from Incubus Core)
+- minecraft:lime_concrete (from Incubus Core)
+- minecraft:pink_concrete (from Incubus Core)
+- minecraft:gray_concrete (from Incubus Core)
+- minecraft:light_gray_concrete (from Incubus Core)
+- minecraft:cyan_concrete (from Incubus Core)
+- minecraft:purple_concrete (from Incubus Core)
+- minecraft:blue_concrete (from Incubus Core)
+- minecraft:brown_concrete (from Incubus Core)
+- minecraft:green_concrete (from Incubus Core)
+- minecraft:red_concrete (from Incubus Core)
+- minecraft:black_concrete (from Incubus Core)
+
+#c:bows
+- minecraft:crossbow (from Fabric Convention Tags)
+- minecraft:bow (from Fabric Convention Tags)
+- minecraft:bow (from Porting Lib Tags)
+- spectrum:bedrock_bow (from Spectrum)
+
+#c:uraninite_ores
+- powah:uraninite_ore (from Powah!)
+- powah:uraninite_ore_poor (from Powah!)
+- powah:uraninite_ore_dense (from Powah!)
+- powah:deepslate_uraninite_ore (from Powah!)
+- powah:deepslate_uraninite_ore_poor (from Powah!)
+- powah:deepslate_uraninite_ore_dense (from Powah!)
+
+#c:herbs
+- minecraft:allium (from Incubus Core)
+- minecraft:cornflower (from Incubus Core)
+- minecraft:blue_orchid (from Incubus Core)
+
+#ae2:covered_dense_cable
+- ae2:white_covered_dense_cable (from Applied Energistics 2)
+- ae2:orange_covered_dense_cable (from Applied Energistics 2)
+- ae2:magenta_covered_dense_cable (from Applied Energistics 2)
+- ae2:light_blue_covered_dense_cable (from Applied Energistics 2)
+- ae2:yellow_covered_dense_cable (from Applied Energistics 2)
+- ae2:lime_covered_dense_cable (from Applied Energistics 2)
+- ae2:pink_covered_dense_cable (from Applied Energistics 2)
+- ae2:gray_covered_dense_cable (from Applied Energistics 2)
+- ae2:light_gray_covered_dense_cable (from Applied Energistics 2)
+- ae2:cyan_covered_dense_cable (from Applied Energistics 2)
+- ae2:purple_covered_dense_cable (from Applied Energistics 2)
+- ae2:blue_covered_dense_cable (from Applied Energistics 2)
+- ae2:brown_covered_dense_cable (from Applied Energistics 2)
+- ae2:green_covered_dense_cable (from Applied Energistics 2)
+- ae2:red_covered_dense_cable (from Applied Energistics 2)
+- ae2:black_covered_dense_cable (from Applied Energistics 2)
+- ae2:fluix_covered_dense_cable (from Applied Energistics 2)
+
+#fabric:swords
+- dragonloot:dragon_sword (from DragonLoot)
+
+#minecraft:planks
+- minecraft:oak_planks (from Default)
+- minecraft:spruce_planks (from Default)
+- minecraft:birch_planks (from Default)
+- minecraft:jungle_planks (from Default)
+- minecraft:acacia_planks (from Default)
+- minecraft:dark_oak_planks (from Default)
+- minecraft:crimson_planks (from Default)
+- minecraft:warped_planks (from Default)
+- minecraft:mangrove_planks (from Default)
+- #spectrum:colored_planks (from Spectrum)
+
+#c:orange_dye
+- minecraft:orange_dye (from Applied Energistics 2)
+
+#minecraft:fox_food
+- minecraft:sweet_berries (from Default)
+- minecraft:glow_berries (from Default)
+
+#c:ancient_debris
+- minecraft:ancient_debris (from Incubus Core)
+
+#c:candles
+- minecraft:white_candle (from Incubus Core)
+- minecraft:orange_candle (from Incubus Core)
+- minecraft:magenta_candle (from Incubus Core)
+- minecraft:light_blue_candle (from Incubus Core)
+- minecraft:yellow_candle (from Incubus Core)
+- minecraft:lime_candle (from Incubus Core)
+- minecraft:pink_candle (from Incubus Core)
+- minecraft:gray_candle (from Incubus Core)
+- minecraft:light_gray_candle (from Incubus Core)
+- minecraft:cyan_candle (from Incubus Core)
+- minecraft:purple_candle (from Incubus Core)
+- minecraft:blue_candle (from Incubus Core)
+- minecraft:brown_candle (from Incubus Core)
+- minecraft:green_candle (from Incubus Core)
+- minecraft:red_candle (from Incubus Core)
+- minecraft:black_candle (from Incubus Core)
+
+#spectrum:trinkets
+- spectrum:glow_vision_goggles (from Spectrum)
+- spectrum:jeopardant (from Spectrum)
+- spectrum:seven_league_boots (from Spectrum)
+- spectrum:radiance_pin (from Spectrum)
+- spectrum:totem_pendant (from Spectrum)
+- spectrum:take_off_belt (from Spectrum)
+- spectrum:azure_dike_belt (from Spectrum)
+- spectrum:azure_dike_ring (from Spectrum)
+- spectrum:pigment_palette (from Spectrum)
+- spectrum:gleaming_pin (from Spectrum)
+- #spectrum:potion_pendants (from Spectrum)
+- spectrum:ashen_circlet (from Spectrum)
+- spectrum:weeping_circlet (from Spectrum)
+- spectrum:puff_circlet (from Spectrum)
+- spectrum:whispy_circlet (from Spectrum)
+- spectrum:neat_ring (from Spectrum)
+
+#spectrum:citrine_crystals
+- spectrum:small_citrine_bud (from Spectrum)
+- spectrum:medium_citrine_bud (from Spectrum)
+- spectrum:large_citrine_bud (from Spectrum)
+- spectrum:citrine_cluster (from Spectrum)
+- spectrum:citrine_shard (from Spectrum)
+
+#minecraft:diamond_ores
+- minecraft:diamond_ore (from Default)
+- minecraft:deepslate_diamond_ore (from Default)
+
+#c:shulker_boxes
+- minecraft:shulker_box (from Fabric Convention Tags)
+- minecraft:blue_shulker_box (from Fabric Convention Tags)
+- minecraft:brown_shulker_box (from Fabric Convention Tags)
+- minecraft:cyan_shulker_box (from Fabric Convention Tags)
+- minecraft:gray_shulker_box (from Fabric Convention Tags)
+- minecraft:green_shulker_box (from Fabric Convention Tags)
+- minecraft:light_blue_shulker_box (from Fabric Convention Tags)
+- minecraft:light_gray_shulker_box (from Fabric Convention Tags)
+- minecraft:lime_shulker_box (from Fabric Convention Tags)
+- minecraft:magenta_shulker_box (from Fabric Convention Tags)
+- minecraft:orange_shulker_box (from Fabric Convention Tags)
+- minecraft:pink_shulker_box (from Fabric Convention Tags)
+- minecraft:purple_shulker_box (from Fabric Convention Tags)
+- minecraft:red_shulker_box (from Fabric Convention Tags)
+- minecraft:white_shulker_box (from Fabric Convention Tags)
+- minecraft:yellow_shulker_box (from Fabric Convention Tags)
+- minecraft:black_shulker_box (from Fabric Convention Tags)
+- minecraft:white_shulker_box (from Incubus Core)
+- minecraft:orange_shulker_box (from Incubus Core)
+- minecraft:magenta_shulker_box (from Incubus Core)
+- minecraft:light_blue_shulker_box (from Incubus Core)
+- minecraft:yellow_shulker_box (from Incubus Core)
+- minecraft:lime_shulker_box (from Incubus Core)
+- minecraft:pink_shulker_box (from Incubus Core)
+- minecraft:gray_shulker_box (from Incubus Core)
+- minecraft:light_gray_shulker_box (from Incubus Core)
+- minecraft:cyan_shulker_box (from Incubus Core)
+- minecraft:purple_shulker_box (from Incubus Core)
+- minecraft:blue_shulker_box (from Incubus Core)
+- minecraft:brown_shulker_box (from Incubus Core)
+- minecraft:green_shulker_box (from Incubus Core)
+- minecraft:red_shulker_box (from Incubus Core)
+- minecraft:black_shulker_box (from Incubus Core)
+
+#c:netherrack
+- minecraft:netherrack (from Porting Lib Tags)
+
+#c:glass_blocks
+- minecraft:glass (from Fabric Convention Tags)
+- minecraft:gray_stained_glass (from Fabric Convention Tags)
+- minecraft:black_stained_glass (from Fabric Convention Tags)
+- minecraft:orange_stained_glass (from Fabric Convention Tags)
+- minecraft:blue_stained_glass (from Fabric Convention Tags)
+- minecraft:brown_stained_glass (from Fabric Convention Tags)
+- minecraft:cyan_stained_glass (from Fabric Convention Tags)
+- minecraft:green_stained_glass (from Fabric Convention Tags)
+- minecraft:light_blue_stained_glass (from Fabric Convention Tags)
+- minecraft:light_gray_stained_glass (from Fabric Convention Tags)
+- minecraft:lime_stained_glass (from Fabric Convention Tags)
+- minecraft:magenta_stained_glass (from Fabric Convention Tags)
+- minecraft:pink_stained_glass (from Fabric Convention Tags)
+- minecraft:purple_stained_glass (from Fabric Convention Tags)
+- minecraft:red_stained_glass (from Fabric Convention Tags)
+- minecraft:tinted_glass (from Fabric Convention Tags)
+- minecraft:white_stained_glass (from Fabric Convention Tags)
+- minecraft:yellow_stained_glass (from Fabric Convention Tags)
+- #c:colorless_glass (from Porting Lib Tags)
+- #c:stained_glass (from Porting Lib Tags)
+- #c:tinted_glass (from Porting Lib Tags)
+- #spectrum:gemstone_glass (from Spectrum)
+- #spectrum:player_only_glass (from Spectrum)
+
+#c:cyan_dyes
+- minecraft:cyan_dye (from Fabric Convention Tags)
+- minecraft:cyan_dye (from Porting Lib Tags)
+
+#mca:gluten
+- minecraft:cake (from Minecraft Comes Alive)
+- minecraft:cookie (from Minecraft Comes Alive)
+- minecraft:bread (from Minecraft Comes Alive)
+- minecraft:pumpkin_pie (from Minecraft Comes Alive)
+
+#c:magenta_glass
+- minecraft:magenta_stained_glass (from Porting Lib Tags)
+
+#minecraft:candles
+- minecraft:candle (from Default)
+- minecraft:white_candle (from Default)
+- minecraft:orange_candle (from Default)
+- minecraft:magenta_candle (from Default)
+- minecraft:light_blue_candle (from Default)
+- minecraft:yellow_candle (from Default)
+- minecraft:lime_candle (from Default)
+- minecraft:pink_candle (from Default)
+- minecraft:gray_candle (from Default)
+- minecraft:light_gray_candle (from Default)
+- minecraft:cyan_candle (from Default)
+- minecraft:purple_candle (from Default)
+- minecraft:blue_candle (from Default)
+- minecraft:brown_candle (from Default)
+- minecraft:green_candle (from Default)
+- minecraft:red_candle (from Default)
+- minecraft:black_candle (from Default)
+
+#spectrum:citrine_chiseled_base_blocks
+- spectrum:citrine_chiseled_basalt (from Spectrum)
+- spectrum:citrine_chiseled_calcite (from Spectrum)
+
+#c:brass_nuggets
+- create:brass_nugget (from Create)
+
+#create:stone_types/dripstone
+- create:cut_dripstone (from Create)
+- create:cut_dripstone_stairs (from Create)
+- create:cut_dripstone_wall (from Create)
+- create:polished_cut_dripstone (from Create)
+- create:polished_cut_dripstone_stairs (from Create)
+- create:polished_cut_dripstone_wall (from Create)
+- create:cut_dripstone_bricks (from Create)
+- create:cut_dripstone_brick_stairs (from Create)
+- create:cut_dripstone_brick_wall (from Create)
+- create:small_dripstone_bricks (from Create)
+- create:small_dripstone_brick_stairs (from Create)
+- create:small_dripstone_brick_wall (from Create)
+- create:layered_dripstone (from Create)
+- create:dripstone_pillar (from Create)
+
+#ae2:all_certus_quartz
+- #c:certus_quartz (from Applied Energistics 2)
+- ae2:charged_certus_quartz_crystal (from Applied Energistics 2)
+
+#spectrum:ores
+- #spectrum:gemstone_ores (from Spectrum)
+- #spectrum:azurite_ores (from Spectrum)
+- #spectrum:shimmerstone_ores (from Spectrum)
+- spectrum:stratine_ore (from Spectrum)
+- spectrum:paltaeria_ore (from Spectrum)
+
+#minecraft:freeze_immune_wearables
+- minecraft:leather_boots (from Default)
+- minecraft:leather_leggings (from Default)
+- minecraft:leather_chestplate (from Default)
+- minecraft:leather_helmet (from Default)
+- minecraft:leather_horse_armor (from Default)
+- spectrum:bedrock_helmet (from Spectrum)
+- spectrum:bedrock_chestplate (from Spectrum)
+- spectrum:bedrock_leggings (from Spectrum)
+- spectrum:bedrock_boots (from Spectrum)
+- spectrum:fetchling_helmet (from Spectrum)
+- spectrum:ferocious_chestplate (from Spectrum)
+- spectrum:sylph_leggings (from Spectrum)
+- spectrum:oread_boots (from Spectrum)
+- spectrum:glow_vision_goggles (from Spectrum)
+
+#c:cyan_dye
+- minecraft:cyan_dye (from Applied Energistics 2)
+
+#artifacts:artifacts
+- artifacts:umbrella (from Artifacts)
+- artifacts:everlasting_beef (from Artifacts)
+- artifacts:eternal_steak (from Artifacts)
+- artifacts:plastic_drinking_hat (from Artifacts)
+- artifacts:novelty_drinking_hat (from Artifacts)
+- artifacts:snorkel (from Artifacts)
+- artifacts:night_vision_goggles (from Artifacts)
+- artifacts:villager_hat (from Artifacts)
+- artifacts:superstitious_hat (from Artifacts)
+- artifacts:lucky_scarf (from Artifacts)
+- artifacts:scarf_of_invisibility (from Artifacts)
+- artifacts:cross_necklace (from Artifacts)
+- artifacts:panic_necklace (from Artifacts)
+- artifacts:shock_pendant (from Artifacts)
+- artifacts:flame_pendant (from Artifacts)
+- artifacts:thorn_pendant (from Artifacts)
+- artifacts:charm_of_sinking (from Artifacts)
+- artifacts:cloud_in_a_bottle (from Artifacts)
+- artifacts:obsidian_skull (from Artifacts)
+- artifacts:antidote_vessel (from Artifacts)
+- artifacts:universal_attractor (from Artifacts)
+- artifacts:crystal_heart (from Artifacts)
+- artifacts:helium_flamingo (from Artifacts)
+- artifacts:digging_claws (from Artifacts)
+- artifacts:feral_claws (from Artifacts)
+- artifacts:power_glove (from Artifacts)
+- artifacts:fire_gauntlet (from Artifacts)
+- artifacts:pocket_piston (from Artifacts)
+- artifacts:vampiric_glove (from Artifacts)
+- artifacts:golden_hook (from Artifacts)
+- artifacts:aqua_dashers (from Artifacts)
+- artifacts:bunny_hoppers (from Artifacts)
+- artifacts:kitty_slippers (from Artifacts)
+- artifacts:running_shoes (from Artifacts)
+- artifacts:steadfast_spikes (from Artifacts)
+- artifacts:flippers (from Artifacts)
+- artifacts:whoopee_cushion (from Artifacts)
+
+#ae2:pattern_provider
+- ae2:cable_pattern_provider (from Applied Energistics 2)
+- ae2:pattern_provider (from Applied Energistics 2)
+
+#c:milk_bottles
+- milk:milk_bottle? (from Milk Lib)
+- milk:splash_milk_bottle? (from Milk Lib)
+- milk:lingering_milk_bottle? (from Milk Lib)
+
+#c:copper_nuggets
+- create:copper_nugget (from Create)
+
+#c:dusts/glowstone
+- minecraft:glowstone_dust (from Porting Lib Tags)
+
+#c:infested_cobblestone
+- minecraft:infested_cobblestone (from Porting Lib Tags)
+
+#spectrum:bedrock_armor
+- spectrum:bedrock_helmet (from Spectrum)
+- spectrum:bedrock_chestplate (from Spectrum)
+- spectrum:bedrock_leggings (from Spectrum)
+- spectrum:bedrock_boots (from Spectrum)

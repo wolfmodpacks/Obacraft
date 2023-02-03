@@ -1,0 +1,10 @@
+{
+    "powers": [
+    "engineer:tech"
+    ],
+    "icon": "techreborn:manual",
+    "name": "Engineer",
+    "description": "Engineers are cool",
+    "order": 2,
+    "impact": 2
+  }

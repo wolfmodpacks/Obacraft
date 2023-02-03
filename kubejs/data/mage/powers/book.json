@@ -1,0 +1,27 @@
+{
+    "name": "§eKnowlegde of the Mages",
+    "description": "Start with a few knowlegde Books to start with your journey to become the greates Mage.",
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "bewitchment:book_of_shadows",
+            "amount": 1
+        },
+        {
+            "item": "haema:book_of_blood",
+            "amount": 1
+        },
+        {
+            "item": "spectrum:guidebook",
+            "amount": 1
+        },
+        {
+            "item": "patchouli:guide_book",
+            "amount": 1
+        },
+        {
+            "item": "simplehats:zigzawitchhat",
+            "amount": 1
+        }
+    ]
+}

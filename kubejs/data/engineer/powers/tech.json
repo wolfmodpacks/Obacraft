@@ -1,0 +1,11 @@
+{
+    "name": "§eTech Manual",
+    "description": "Start with a Tech Manual.",
+    "type": "origins:starting_equipment",
+    "stacks": [
+        {
+            "item": "techreborn:manual",
+            "amount": 1
+        }
+    ]
+}

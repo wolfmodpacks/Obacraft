@@ -1,0 +1,7 @@
+{
+    "icon": "minecraft:player_head",
+    "name": "Human",
+    "description": "Humans they are boring",
+    "order": 1,
+    "impact": 1
+  }
