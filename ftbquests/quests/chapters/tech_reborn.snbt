@@ -1,0 +1,12 @@
+{
+	id: "54F26B6980223EBD"
+	group: "07642BF4BD62116B"
+	order_index: 1
+	filename: "tech_reborn"
+	title: "Tech REBORN!!"
+	icon: "techreborn:manual"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [ ]
+	quest_links: [ ]
+}
