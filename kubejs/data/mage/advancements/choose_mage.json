@@ -5,13 +5,13 @@
             "item": "bewitchment:hedgewitch_hat"
         },
         "title": "I am a Mage!",
-        "description": "You chose the Human origin.",
+        "description": "You chose the Mage origin.",
         "announce_to_chat": true,
         "frame": "task",
         "show_toast": true
     },
     "criteria": {
-        "chose_laevis": {
+        "chose_mage": {
             "trigger": "origins:chose_origin",
             "conditions": {
                 "origin": "mage:mage"

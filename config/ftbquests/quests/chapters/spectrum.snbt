@@ -1,0 +1,21 @@
+{
+	id: "1DB3D66C2CF80741"
+	group: "19176439039DDA72"
+	order_index: 0
+	filename: "spectrum"
+	title: "Spectrum!"
+	icon: "spectrum:guidebook"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "781AF533DE9DABB6"
+		tasks: [{
+			id: "64F918EEF81DCD48"
+			type: "item"
+			item: "spectrum:guidebook"
+		}]
+	}]
+	quest_links: [ ]
+}
