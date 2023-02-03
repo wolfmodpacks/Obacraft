@@ -1,10 +1,10 @@
 {
-	id: "1DB3D66C2CF80741"
+	id: "41A2F9A53AF20B40"
 	group: "19176439039DDA72"
-	order_index: 0
-	filename: "spectrum"
-	title: "Spectrum!"
-	icon: "spectrum:guidebook"
+	order_index: 1
+	filename: "vampires"
+	title: "Vampires"
+	icon: "haema:book_of_blood"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [ ]
