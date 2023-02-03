@@ -50,9 +50,10 @@
 			invisible: true
 			id: "543472367485E525"
 			tasks: [{
-				id: "12FB6EE0A90DAB1D"
-				type: "checkmark"
-				title: "A Mage?"
+				id: "173E9F347F0C254C"
+				type: "advancement"
+				advancement: "mage:choose_mage"
+				criterion: ""
 			}]
 		}
 	]

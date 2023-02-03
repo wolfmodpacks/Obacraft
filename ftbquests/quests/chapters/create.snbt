@@ -1,0 +1,21 @@
+{
+	id: "7F58B7CED9BA8BBC"
+	group: "07642BF4BD62116B"
+	order_index: 2
+	filename: "create"
+	title: "Create"
+	icon: "create:wrench"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "7D6FD670642F1940"
+		tasks: [{
+			id: "096841EF89A97F65"
+			type: "item"
+			item: "create:wrench"
+		}]
+	}]
+	quest_links: [ ]
+}

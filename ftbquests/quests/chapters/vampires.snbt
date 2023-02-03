@@ -7,6 +7,15 @@
 	icon: "haema:book_of_blood"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "48A868BD6B165F2D"
+		tasks: [{
+			id: "236C6AB416C4689E"
+			type: "item"
+			item: "haema:book_of_blood"
+		}]
+	}]
 	quest_links: [ ]
 }
