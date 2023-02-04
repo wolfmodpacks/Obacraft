@@ -7,6 +7,15 @@
 	icon: "bewitchment:book_of_shadows"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "34E8B5ADE8249162"
+		tasks: [{
+			id: "62F6AC6A0C43EF16"
+			type: "item"
+			item: "bewitchment:book_of_shadows"
+		}]
+	}]
 	quest_links: [ ]
 }

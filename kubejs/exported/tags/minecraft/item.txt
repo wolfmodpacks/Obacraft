@@ -282,6 +282,7 @@ To refresh this file, delete it and run /reload command again! Last updated: Feb
 
 #c:zinc_nuggets
 - create:zinc_nugget (from Create)
+- techreborn:zinc_nugget (from Tech Reborn)
 
 #ae2:interface
 - ae2:cable_interface (from Applied Energistics 2)
