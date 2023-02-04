@@ -148,7 +148,10 @@
 			x: 5.5d
 			y: 4.0d
 			dependencies: ["6941B9792DB96097"]
+<<<<<<< HEAD
 			hide: true
+=======
+>>>>>>> 84fd8785f47a42fc91bf962e504aa2ec66cea30c
 			id: "32B7909D8F5A94BF"
 			tasks: [{
 				id: "22E327FAD862B34B"
@@ -161,7 +164,10 @@
 			x: 5.5d
 			y: 6.0d
 			dependencies: ["32B7909D8F5A94BF"]
+<<<<<<< HEAD
 			hide: true
+=======
+>>>>>>> 84fd8785f47a42fc91bf962e504aa2ec66cea30c
 			id: "2955CCE17256C3DD"
 			tasks: [{
 				id: "69FF4DABAF95F6B2"
@@ -182,6 +188,7 @@
 				advancement: "mca:merchant"
 				criterion: ""
 			}]
+<<<<<<< HEAD
 			rewards: [{
 				id: "799BCD634DB74C4F"
 				type: "command"
@@ -192,6 +199,8 @@
 				command: "/styledchat set @p display_name <dark_gray>[<red>Merchant</red>]</dark_gray> <c:#ffe8a3>${vanillaDisplayName}</c>"
 				player_command: false
 			}]
+=======
+>>>>>>> 84fd8785f47a42fc91bf962e504aa2ec66cea30c
 		}
 		{
 			x: 0.0d
