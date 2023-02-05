@@ -7,7 +7,6 @@
 	icon: "create:wrench"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-<<<<<<< HEAD
 	quests: [
 		{
 			icon: "create:wrench"
@@ -818,17 +817,5 @@
 			}]
 		}
 	]
-=======
-	quests: [{
-		x: 0.0d
-		y: 0.0d
-		id: "7D6FD670642F1940"
-		tasks: [{
-			id: "096841EF89A97F65"
-			type: "item"
-			item: "create:wrench"
-		}]
-	}]
->>>>>>> 84fd8785f47a42fc91bf962e504aa2ec66cea30c
 	quest_links: [ ]
 }

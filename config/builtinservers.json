@@ -1,0 +1,10 @@
+{
+  "badgeVisible": true,
+  "builtinServers": [
+    {
+      "name": "Obacraft Official Server",
+      "address": "obacraft.obamabot.me",
+      "forced": true
+    }
+  ]
+}

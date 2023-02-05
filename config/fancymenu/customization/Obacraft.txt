@@ -1,0 +1,188 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  vr:value:windowwidthbiggerthan = 1800
+  renderorder = foreground
+  randommode = false
+  vr:showif:windowwidthbiggerthan = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  input_string = video:kubejs/assets/obacraft/videos/video.mp4;islocal:true;loop:true;volume:100;
+  action = api:custombackground
+  type_identifier = fancymenu_extension:video_background
+}
+
+customization {
+  action = setscale
+  scale = 3
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-left
+  x = 69
+  action = movebutton
+  y = -63
+}
+
+customization {
+  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  orientation = mid-left
+  x = 69
+  action = movebutton
+  y = -42
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  orientation = mid-left
+  x = 203
+  action = movebutton
+  y = -8
+}
+
+customization {
+  identifier = %id=376310%
+  orientation = mid-left
+  x = 226
+  action = movebutton
+  y = -8
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-left
+  x = 69
+  action = movebutton
+  y = -84
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  orientation = bottom-left
+  x = 4
+  action = movebutton
+  y = -351
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  orientation = mid-left
+  x = 69
+  action = movebutton
+  y = -10
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
+  orientation = mid-left
+  x = 69
+  action = movebutton
+  y = 14
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  orientation = mid-left
+  x = 178
+  action = movebutton
+  y = -8
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = 21fb19dc-83ae-4366-a2cd-49e971970cd91675558284576
+  y = 403
+  height = 10
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 316
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 9923c98d-95b9-4f63-89de-11b5dbc88d311675558284586
+  y = 160
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 263
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = 034e3292-7520-4ebe-9266-b1125418adf01675558284586
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = original
+  splash_color = #ffff00
+  hidden = true
+  x = 0
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 64b9e76f-fd8b-48b2-a81a-69e8e159cc4c1675558284586
+  y = 0
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  x = -278
+  width = 264
+  action = addwebtexture
+  actionid = 0c1540c6-95c1-4e9c-ac58-32bea8666ee71675560740928
+  y = -162
+  url = https://i.imgur.com/1QP7gWS.png
+  height = 73
+}
+
+customization {
+  orientation = top-left
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  buttonaction = openlink
+  x = 176
+  width = 100
+  actionid = 849f73ae-b1e8-4aa6-9594-f8f60c867f521675562392121
+  action = addbutton
+  y = 195
+  label = Join our Discord
+  value = https://discord.gg/eTvYv95PCG
+  height = 20
+}
+
