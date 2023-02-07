@@ -173,6 +173,7 @@
 		{
 			x: 0.0d
 			y: 4.0d
+			shape: "diamond"
 			dependencies: ["0B990A95945CC7A4"]
 			hide: true
 			id: "0D881AFF837F81BE"
@@ -196,8 +197,10 @@
 		{
 			x: 0.0d
 			y: 6.0d
+			shape: "pentagon"
 			dependencies: ["0D881AFF837F81BE"]
 			hide: true
+			size: 1.1d
 			id: "4B53410BF63D3E8D"
 			tasks: [{
 				id: "090ED0DFFB58A7D1"
@@ -209,8 +212,10 @@
 		{
 			x: 0.0d
 			y: 8.0d
+			shape: "hexagon"
 			dependencies: ["4B53410BF63D3E8D"]
 			hide: true
+			size: 1.2d
 			id: "3C5C2667ECA7225F"
 			tasks: [{
 				id: "22FA0E2F9D13DA13"
@@ -222,8 +227,10 @@
 		{
 			x: 0.0d
 			y: 10.0d
+			shape: "octagon"
 			dependencies: ["3C5C2667ECA7225F"]
 			hide: true
+			size: 1.5d
 			id: "5E3BD41DC2E78A17"
 			tasks: [{
 				id: "6C2FFE7132E0A5E0"

@@ -1,0 +1,21 @@
+{
+	id: "740032738A75971B"
+	group: "4FB9660C08C751B9"
+	order_index: 2
+	filename: "arc_angels"
+	title: "Arc Angels"
+	icon: "arclight:arclight_core"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "3ACAB70F67CC3349"
+		tasks: [{
+			id: "0C0BF9D2DFFF7D52"
+			type: "checkmark"
+			title: "Placeholder"
+		}]
+	}]
+	quest_links: [ ]
+}

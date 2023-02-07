@@ -7,6 +7,16 @@
 	icon: "techreborn:manual"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		shape: "hexagon"
+		id: "62984CE5CE9E0906"
+		tasks: [{
+			id: "798C0C96D6679CB9"
+			type: "item"
+			item: "techreborn:manual"
+		}]
+	}]
 	quest_links: [ ]
 }

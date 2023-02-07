@@ -7,6 +7,15 @@
 	icon: "powah:reactor_nitro"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [ ]
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "490066BEC7EE97CF"
+		tasks: [{
+			id: "425D92BBA7F4DF81"
+			type: "item"
+			item: "powah:book"
+		}]
+	}]
 	quest_links: [ ]
 }

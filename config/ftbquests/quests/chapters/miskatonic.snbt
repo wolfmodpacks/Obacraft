@@ -1,0 +1,21 @@
+{
+	id: "57CA02CB1B728A1E"
+	group: "19176439039DDA72"
+	order_index: 5
+	filename: "miskatonic"
+	title: "Miskatonic"
+	icon: "miskatonicmysteries:re_agent_syringe"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "4952F52F611DC31E"
+		tasks: [{
+			id: "3714EED380623C40"
+			type: "checkmark"
+			title: "Placeholder"
+		}]
+	}]
+	quest_links: [ ]
+}

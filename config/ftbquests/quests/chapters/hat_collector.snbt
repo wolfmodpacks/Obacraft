@@ -1,0 +1,21 @@
+{
+	id: "198D70D6FB45093C"
+	group: "4FB9660C08C751B9"
+	order_index: 4
+	filename: "hat_collector"
+	title: "Hat Collector"
+	icon: "simplehats:hatbag_epic"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "14D8D47582ED7696"
+		tasks: [{
+			id: "0383EA220215D0C0"
+			type: "checkmark"
+			title: "Placeholder"
+		}]
+	}]
+	quest_links: [ ]
+}

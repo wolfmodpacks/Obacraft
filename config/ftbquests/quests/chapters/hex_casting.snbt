@@ -1,0 +1,21 @@
+{
+	id: "35E4B6EE472C5023"
+	group: "19176439039DDA72"
+	order_index: 4
+	filename: "hex_casting"
+	title: "Hex Casting"
+	icon: "hexcasting:pride_colorizer_gay"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "6BB70C04E861B82F"
+		tasks: [{
+			id: "280A5B4FFB7586CF"
+			type: "checkmark"
+			title: "Placeholder"
+		}]
+	}]
+	quest_links: [ ]
+}

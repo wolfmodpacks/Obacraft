@@ -1,0 +1,21 @@
+{
+	id: "505487937EB090FB"
+	group: "19176439039DDA72"
+	order_index: 3
+	filename: "botania"
+	title: "Botania"
+	icon: "botania:brewery"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "1BF6A5B8A1F0B844"
+		tasks: [{
+			id: "460B0370E81A10B3"
+			type: "checkmark"
+			title: "Placeholder"
+		}]
+	}]
+	quest_links: [ ]
+}

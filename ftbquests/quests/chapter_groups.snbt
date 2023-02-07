@@ -1,6 +1,7 @@
 {
 	chapter_groups: [
 		{ id: "7ECE65C9DD731CA5", title: "Main Chapter" }
+		{ id: "0AAF40E2BE811C2E", title: "Utilities" }
 		{ id: "4FB9660C08C751B9", title: "Side Quests" }
 		{ id: "07642BF4BD62116B", title: "Technology" }
 		{ id: "19176439039DDA72", title: "Magic OooOOoo" }

@@ -1,0 +1,21 @@
+{
+	id: "79EA1CAD2E1C56B4"
+	group: "4FB9660C08C751B9"
+	order_index: 3
+	filename: "artifact_hunter"
+	title: "Artifact Hunter"
+	icon: "artifacts:mimic_spawn_egg"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "2B35FF0970B692A6"
+		tasks: [{
+			id: "519D4E52DC4F6493"
+			type: "checkmark"
+			title: "Placeholder"
+		}]
+	}]
+	quest_links: [ ]
+}
