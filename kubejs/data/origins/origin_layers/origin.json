@@ -1,9 +1,5 @@
 {
-  "replace": true,
-  "origins": [
-  "human:human",
-  "engineer:engineer",
-  "mage:mage"
-  ],
+  "replace": false,
+  "origins": [],
   "name": "specialities"
 }
