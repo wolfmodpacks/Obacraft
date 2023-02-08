@@ -6,6 +6,7 @@ customization-meta {
   vr:showif:windowheightbiggerthan = false
   renderorder = foreground
   randommode = false
+  custom_menu_title = The Obama MENU?
   randomonlyfirsttime = false
   vr:value:windowheightbiggerthan = 1800
 }
@@ -110,16 +111,5 @@ customization {
   actionid = 9cd32ffc-34a8-4728-b456-ff6576ef606f1675565460311
   y = 10
   height = 100
-}
-
-customization {
-  orientation = top-left
-  x = 26
-  width = 764
-  action = addwebtexture
-  actionid = 845c0c7d-1775-4317-8433-8d9a283461651675565491098
-  y = 221
-  url = https://i.imgur.com/ts0VaGo.png
-  height = 178
 }
 

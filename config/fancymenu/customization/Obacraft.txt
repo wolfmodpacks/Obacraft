@@ -172,15 +172,15 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-left
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  x = 176
+  x = 175
   width = 100
   actionid = 849f73ae-b1e8-4aa6-9594-f8f60c867f521675562392121
   action = addbutton
-  y = 195
+  y = 15
   label = Join our Discord
   value = https://discord.gg/eTvYv95PCG
   height = 20

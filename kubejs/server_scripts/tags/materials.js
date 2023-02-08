@@ -1,4 +1,5 @@
 ServerEvents.tags('item', event => {
+    
     const create_ingots = [
         'zinc',
         'brass'
@@ -49,6 +50,25 @@ ServerEvents.tags('item', event => {
     event.add("c:nuggets/zinc", "techreborn:zinc_nugget")
     event.add('c:zinc_plates', 'techreborn:zinc_plate')
     event.add('c:brass_plates', 'techreborn:brass_plate')
+
+    // Modern Industrialization
+    event.add("c:copper_rods", "modern_industrialization:copper_rod")
+    event.add("c:rods/copper", "modern_industrialization:copper_rod")
+    event.add("c:gold_rods", "modern_industrialization:gold_rod")
+    event.add("c:rods/gold", "modern_industrialization:gold_rod")
+    event.add("c:rods/iron", "modern_industrialization:iron_rod")
+    event.add("c:dusts/diamond", "modern_industrialization:diamond_dust")
+
+    event.add("c:plates/gold", "modern_industrialization:gold_plate")
+    event.add("c:plates/iron", "modern_industrialization:iron_plate")
+    event.add("c:plates/copper", "modern_industrialization:copper_plate")
+    event.add("c:nuggets/copper", "modern_industrialization:copper_nugget")
+    event.add("c:plates/bronze", "modern_industrialization:bronze_plate")
+
+    // Create Filtering
+    event.add("c:plates", "modern_industrialization:iron_plate")
+    event.add("c:plates", "modern_industrialization:gold_plate")
+    event.add("c:plates", "modern_industrialization:copper_plate")
 
     // Netherrack
     event.add("c:netherrack_dusts", "create:cinder_flour")

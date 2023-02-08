@@ -1,4 +1,4 @@
-To refresh this file, delete it and run /reload command again! Last updated: Feb 1, 2023, 7:57:47 PM
+To refresh this file, delete it and run /reload command again! Last updated: Feb 8, 2023, 2:11:37 AM
 
 #minecraft:screaming_goat_horns
 - minecraft:admire_goat_horn (from Default)
