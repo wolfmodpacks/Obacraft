@@ -206,6 +206,17 @@
       }
     },
     {
+      "projectID": 318416,
+      "fileID": 4173588,
+      "required": true,
+      "__meta": {
+        "name": "Spice of Fabric (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 318449,
       "fileID": 3954769,
       "required": true,
@@ -448,6 +459,19 @@
       }
     },
     {
+      "projectID": 390991,
+      "fileID": 4061649,
+      "required": true,
+      "__meta": {
+        "name": "AdventureZ",
+        "explicit": false,
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 391257,
       "fileID": 4066643,
       "required": true,
@@ -588,6 +612,26 @@
       }
     },
     {
+      "projectID": 398614,
+      "fileID": 4359785,
+      "required": true,
+      "__meta": {
+        "name": "Deep Mob Learning: Refabricated",
+        "dependencies": [
+          308769,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 399798,
+      "fileID": 3854720,
+      "required": true,
+      "__meta": {
+        "name": "Item Model Fix (Fabric)"
+      }
+    },
+    {
       "projectID": 400322,
       "fileID": 3834055,
       "required": true,
@@ -700,14 +744,6 @@
           228525,
           353928
         ]
-      }
-    },
-    {
-      "projectID": 411557,
-      "fileID": 4087782,
-      "required": true,
-      "__meta": {
-        "name": "ToolTipFix"
       }
     },
     {
@@ -1057,6 +1093,14 @@
       }
     },
     {
+      "projectID": 460652,
+      "fileID": 4378252,
+      "required": true,
+      "__meta": {
+        "name": "So I heard you were talking crap about Minecraft's difficulty?"
+      }
+    },
+    {
       "projectID": 462672,
       "fileID": 3908334,
       "required": true,
@@ -1108,6 +1152,17 @@
       "required": true,
       "__meta": {
         "name": "More Villagers [Fabric]"
+      }
+    },
+    {
+      "projectID": 486971,
+      "fileID": 3951132,
+      "required": true,
+      "__meta": {
+        "name": "VoidZ",
+        "dependencies": [
+          390991
+        ]
       }
     },
     {
@@ -1325,6 +1380,20 @@
         "name": "Besmirchment 2",
         "dependencies": [
           394915
+        ]
+      }
+    },
+    {
+      "projectID": 542478,
+      "fileID": 3998293,
+      "required": true,
+      "__meta": {
+        "name": "Legendary Tooltips [Fabric]",
+        "dependencies": [
+          539382,
+          306612,
+          665526,
+          547434
         ]
       }
     },
@@ -1686,6 +1755,19 @@
       }
     },
     {
+      "projectID": 615948,
+      "fileID": 4132193,
+      "required": true,
+      "__meta": {
+        "name": "TieredZ",
+        "dependencies": [
+          618433,
+          348521,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 616330,
       "fileID": 4342561,
       "required": true,
@@ -1695,6 +1777,14 @@
           348521,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 618433,
+      "fileID": 3989400,
+      "required": true,
+      "__meta": {
+        "name": "AutoTag"
       }
     },
     {
@@ -1885,6 +1975,30 @@
       }
     },
     {
+      "projectID": 639842,
+      "fileID": 4357587,
+      "required": true,
+      "__meta": {
+        "name": "Better Combat [Fabric & Forge]",
+        "dependencies": [
+          348521,
+          658587,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 643780,
+      "fileID": 4147216,
+      "required": true,
+      "__meta": {
+        "name": "Projectile Damage Attribute [Fabric & Forge]",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 649882,
       "fileID": 3925553,
       "required": true,
@@ -1920,6 +2034,26 @@
       }
     },
     {
+      "projectID": 658587,
+      "fileID": 4357569,
+      "required": true,
+      "__meta": {
+        "name": "playerAnimator",
+        "explicit": false
+      }
+    },
+    {
+      "projectID": 659887,
+      "fileID": 4378003,
+      "required": true,
+      "__meta": {
+        "name": "Simply Swords [Fabric & Forge]",
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
       "projectID": 664356,
       "fileID": 3963321,
       "required": true,
@@ -1929,6 +2063,15 @@
           308769,
           310111
         ]
+      }
+    },
+    {
+      "projectID": 665526,
+      "fileID": 4030091,
+      "required": true,
+      "__meta": {
+        "name": "Prism [Fabric]",
+        "explicit": false
       }
     },
     {
@@ -1949,6 +2092,14 @@
       "required": true,
       "__meta": {
         "name": "Immersive Aircraft [Fabric/Forge]"
+      }
+    },
+    {
+      "projectID": 667464,
+      "fileID": 4378075,
+      "required": true,
+      "__meta": {
+        "name": "Better Statistics Screen (Fabric/Forge)"
       }
     },
     {
@@ -2031,6 +2182,25 @@
       }
     },
     {
+      "projectID": 699872,
+      "fileID": 4139408,
+      "required": true,
+      "__meta": {
+        "name": "Accelerated Decay",
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 701009,
+      "fileID": 4095071,
+      "required": true,
+      "__meta": {
+        "name": "Drink Beer Unofficial: Clockwerk Edition"
+      }
+    },
+    {
       "projectID": 702654,
       "fileID": 4351224,
       "required": true,
@@ -2054,6 +2224,17 @@
       }
     },
     {
+      "projectID": 704346,
+      "fileID": 4115793,
+      "required": true,
+      "__meta": {
+        "name": "Adaptive Tooltips",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 705362,
       "fileID": 4112528,
       "required": true,
@@ -2071,12 +2252,101 @@
       }
     },
     {
+      "projectID": 734325,
+      "fileID": 4381601,
+      "required": true,
+      "__meta": {
+        "name": "Wizards [Fabric]",
+        "dependencies": [
+          775518,
+          771265,
+          306612,
+          807653,
+          388172
+        ]
+      }
+    },
+    {
+      "projectID": 771265,
+      "fileID": 4381561,
+      "required": true,
+      "__meta": {
+        "name": "Spell Power Attributes [Fabric]",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 775518,
+      "fileID": 4379499,
+      "required": true,
+      "__meta": {
+        "name": "Runes [Fabric]",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 782697,
       "fileID": 4284652,
       "required": true,
       "__meta": {
         "name": "TARDIS Refined - Forge/Fabric",
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 807653,
+      "fileID": 4381585,
+      "required": true,
+      "__meta": {
+        "name": "Spell Engine",
+        "dependencies": [
+          306612,
+          639842,
+          658587,
+          348521,
+          771265
+        ]
+      }
+    },
+    {
+      "projectID": 811003,
+      "fileID": 4361926,
+      "required": true,
+      "__meta": {
+        "name": "Farmer's Respite (Fabric)",
+        "dependencies": [
+          482834,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 823331,
+      "fileID": 4386490,
+      "required": true,
+      "__meta": {
+        "name": "Calibrated Access",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 824498,
+      "fileID": 4387980,
+      "required": true,
+      "__meta": {
+        "name": "Spectrum Jetpacks",
+        "dependencies": [
+          556967,
           306612
         ]
       }
