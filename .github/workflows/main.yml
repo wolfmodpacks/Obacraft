@@ -62,12 +62,7 @@ jobs:
           repo: froehlichA/pax
           file: "pax"
           token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Download changelog
-        uses: actions/download-artifact@v2
-        with:
-          name: changelog
-      - name: Move changelog
-        run:  mv ./CHANGELOG.md ./CHANGELOG.md
+ 
       - name: Export modpack
         run: |
           sudo chmod +x ./pax
