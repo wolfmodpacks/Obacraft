@@ -15,7 +15,12 @@ ServerEvents.recipes((event) => {
         'mca:gold_dust',
         'mca:engagement_ring',
         'mca:wedding_ring',
-
+        // Arclight
+        'arclight:arclight_core',
+        'arclight:angel_helmet',
+        'arclight:angel_chestplate',
+        'arclight:angel_leggings',
+        'arclight:angel_boots',
     ]
 
     const id = [
@@ -24,6 +29,7 @@ ServerEvents.recipes((event) => {
         'mca:engagement_ring',
         'mca:wedding_ring',
         'mca:rose_gold_dust',
+        'mca:rose_gold_dust_from_ingot',
 
         // Kibe
         'kibe:slime_boots',

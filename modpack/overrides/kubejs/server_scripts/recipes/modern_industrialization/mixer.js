@@ -3,6 +3,12 @@ ServerEvents.recipes(event => {
         "type": "modern_industrialization:mixer",
         "duration": 100,
         "eu": 2,
+        "fluid_inputs": [
+            {
+                "amount": 1000,
+                "fluid": "minecraft:water"
+            }
+        ],
         "item_inputs": [
             {
                 "amount": 3,
