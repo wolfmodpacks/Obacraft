@@ -23,9 +23,9 @@ jobs:
         run: |
             manifestjson=`cat ./modpack/manifest.json`
             projectname=`echo $(jq -r '.name' <<< "$manifestjson")`
-            echo "{name}=$projectname" >> $GITHUB_OUTPUT
+            echo "::set-output name=projectname::$projectname"
             version=`echo $(jq -r '.minecraft.version' <<< "$manifestjson")`
-            echo "{name}=$version" >> $GITHUB_OUTPUT
+            echo "::set-output name=version::$version"
       - name: Get tag
         id: version
         uses: "WyriHaximus/github-action-get-previous-tag@v1"
@@ -128,5 +128,5 @@ jobs:
           file_path: ${{ needs.modpack-info.outputs.projectname }}-${{ needs.modpack-info.outputs.tag }}.zip
           changelog: "${{ needs.changelog.outputs.changelog }}"
           changelog_type: markdown
-          game_versions: "${{ needs.modpack-info.outputs.version }}" 
+          game_versions: "Minecraft ${{ needs.modpack-info.outputs.version }}" 
           release_type: ${{ steps.release-type.outputs.type }}
