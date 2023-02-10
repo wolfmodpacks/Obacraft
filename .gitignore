@@ -7,3 +7,5 @@ cacert.pem
 
 ### Modpack ###
 .out/
+modpack/overrides/mods/*.jar
+modpack/overrides/world/
