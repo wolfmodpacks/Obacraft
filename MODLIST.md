@@ -1,6 +1,6 @@
 # [Δ] ALL MODS (215)
  └─ •↑ Accelerated Decay - https://www.curseforge.com/minecraft/mc-mods/accelerated-decay/files/4139408
- └─ •↑ Ad Astra! - https://www.curseforge.com/minecraft/mc-mods/ad-astra/files/4331884
+ └─ •↑ Ad Astra - https://www.curseforge.com/minecraft/mc-mods/ad-astra/files/4331884
  └─ •↑ Adaptive Tooltips - https://www.curseforge.com/minecraft/mc-mods/adaptive-tooltips/files/4115793
  └─ •↑ Advancement Plaques [Fabric] - https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric/files/3949457
  └─ •↑ Advancements Debug - https://www.curseforge.com/minecraft/mc-mods/advancements-debug/files/3345570
@@ -50,8 +50,8 @@
  └─ •↑ Continuity - https://www.curseforge.com/minecraft/mc-mods/continuity/files/3927270
  └─ •↑ Coxinha Utilities - https://www.curseforge.com/minecraft/mc-mods/coxinha-utilities/files/4073508
  └─ •↑ Crawl (Fabric) - https://www.curseforge.com/minecraft/mc-mods/crawl/files/3972616
- └─ •↑ Create Crafts & Additions - https://www.curseforge.com/minecraft/mc-mods/createaddition/files/4195463
- └─ •↑ Create Fabric - https://www.curseforge.com/minecraft/mc-mods/create-fabric/files/4125637
+ └─ •↑ Create Crafts & Additions - https://www.curseforge.com/minecraft/mc-mods/createaddition/files/4388911
+ └─ •↑ Create Fabric - https://www.curseforge.com/minecraft/mc-mods/create-fabric/files/4388601
  └─ •↑ Dark Loading Screen - https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/files/3845449
  └─ •↑ Deep Mob Learning: Refabricated - https://www.curseforge.com/minecraft/mc-mods/deep-mob-learning-refabricated/files/4359785
  └─ •↑ Doodads [Fabric] - https://www.curseforge.com/minecraft/mc-mods/doodads-fabric/files/3925553
@@ -153,7 +153,6 @@
  └─ •↑ RightClickHarvest - https://www.curseforge.com/minecraft/mc-mods/rightclickharvest/files/4318748
  └─ •↑ Roughly Enough Items Fabric/Forge (REI) - https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items/files/4369090
  └─ •↑ Roughly Enough Loot Tables - https://www.curseforge.com/minecraft/mc-mods/roughly-enough-loot-tables/files/3963982
- └─ •↑ Roughly Enough Resources - https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources/files/3837336
  └─ •↑ Roughly Enough Trades - https://www.curseforge.com/minecraft/mc-mods/roughly-enough-trades/files/3963321
  └─ •↑ RpgZ - https://www.curseforge.com/minecraft/mc-mods/rpgz/files/3962051
  └─ •↑ Runes [Fabric] - https://www.curseforge.com/minecraft/mc-mods/rune-crafting/files/4379499
@@ -206,6 +205,7 @@
  └─ •↑ YUNG's Better Witch Huts (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric/files/4031228
  └─ •↑ YUNG's Bridges (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric/files/4031234
  └─ •↑ YUNG's Extras (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric/files/4031232
+ └─ •↑ YetAnotherConfigLib - https://www.curseforge.com/minecraft/mc-mods/yacl/files/4361292
  └─ •↑ You're in Grave Danger - https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger/files/4357427
  └─ •↑ Your Options Shall Be Respected (YOSBR) - https://www.curseforge.com/minecraft/mc-mods/yosbr/files/2934596
  └─ •↑ bad packets - https://www.curseforge.com/minecraft/mc-mods/badpackets/files/4073853

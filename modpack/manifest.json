@@ -257,18 +257,6 @@
       }
     },
     {
-      "projectID": 325625,
-      "fileID": 3837336,
-      "required": true,
-      "__meta": {
-        "name": "Roughly Enough Resources",
-        "dependencies": [
-          348521,
-          310111
-        ]
-      }
-    },
-    {
       "projectID": 335493,
       "fileID": 3829250,
       "required": true,
