@@ -969,7 +969,7 @@
     },
     {
       "projectID": 439890,
-      "fileID": 4195463,
+      "fileID": 4388911,
       "required": true,
       "__meta": {
         "name": "Create Crafts & Additions",
@@ -1829,11 +1829,10 @@
     },
     {
       "projectID": 624165,
-      "fileID": 4125637,
+      "fileID": 4388601,
       "required": true,
       "__meta": {
         "name": "Create Fabric",
-        "pinned": true,
         "dependencies": [
           306612
         ]
@@ -2092,6 +2091,17 @@
       "required": true,
       "__meta": {
         "name": "Immersive Aircraft [Fabric/Forge]"
+      }
+    },
+    {
+      "projectID": 667299,
+      "fileID": 4361292,
+      "required": true,
+      "__meta": {
+        "name": "YetAnotherConfigLib",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
