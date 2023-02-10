@@ -77,17 +77,6 @@
       }
     },
     {
-      "projectID": 250419,
-      "fileID": 4277355,
-      "required": true,
-      "__meta": {
-        "name": "Enchantment Descriptions",
-        "dependencies": [
-          228525
-        ]
-      }
-    },
-    {
       "projectID": 252848,
       "fileID": 4118387,
       "required": true,
@@ -2130,6 +2119,14 @@
       "required": true,
       "__meta": {
         "name": "Sria's Flowers"
+      }
+    },
+    {
+      "projectID": 687082,
+      "fileID": 4112029,
+      "required": true,
+      "__meta": {
+        "name": "Resourceful Lootbags"
       }
     },
     {
