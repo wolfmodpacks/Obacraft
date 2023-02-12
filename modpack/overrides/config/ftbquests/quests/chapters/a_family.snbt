@@ -61,6 +61,17 @@
 				advancement: "mca:marriage"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "28F0E9DD48C254F4"
+				type: "item"
+				item: {
+					id: "mca:needle_and_thread"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
 		}
 		{
 			x: 2.5d
@@ -74,6 +85,11 @@
 				type: "advancement"
 				advancement: "mca:baby"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "7818E10E79EC0E0A"
+				type: "item"
+				item: "mca:whistle"
 			}]
 		}
 		{
@@ -103,6 +119,12 @@
 				advancement: "mca:twins"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "7065A746C01409B7"
+				type: "item"
+				item: "mca:matchmakers_ring"
+				count: 2
+			}]
 		}
 		{
 			x: 4.0d
@@ -115,6 +137,11 @@
 				type: "advancement"
 				advancement: "mca:grow_child"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "70317931E009C0E9"
+				type: "xp_levels"
+				xp_levels: 5
 			}]
 		}
 		{
@@ -131,6 +158,11 @@
 				advancement: "mca:chores"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "7C808619A37437DB"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 		}
 		{
 			x: -1.5d
@@ -142,6 +174,17 @@
 				type: "advancement"
 				advancement: "mca:best_friend"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "596209C73E61E074"
+				type: "item"
+				item: {
+					id: "mca:comb"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
 			}]
 		}
 		{
@@ -156,6 +199,11 @@
 				advancement: "mca:grow_adult"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "34C12B8F3FB7C2AD"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
 		}
 		{
 			x: 5.5d
@@ -168,6 +216,11 @@
 				type: "advancement"
 				advancement: "mca:grandparent"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "0B185D6B4F5876A5"
+				type: "xp_levels"
+				xp_levels: 15
 			}]
 		}
 		{
@@ -208,6 +261,14 @@
 				advancement: "mca:noble"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "74F26915184762A2"
+				type: "command"
+				title: "New RANK!"
+				icon: "minecraft:name_tag"
+				command: "/styledchat set @p display_name <dark_gray>[<gold>Noble</gold>]</dark_gray> <c:#ffe8a3>${vanillaDisplayName}</c>"
+				player_command: false
+			}]
 		}
 		{
 			x: 0.0d
@@ -223,6 +284,14 @@
 				advancement: "mca:mayor"
 				criterion: ""
 			}]
+			rewards: [{
+				id: "0346BC685DA75440"
+				type: "command"
+				title: "You're POWER KEEPS GROWING"
+				icon: "minecraft:name_tag"
+				command: "/styledchat set @p display_name <dark_gray>[<dark_blue>Mayor</dark_blue>]</dark_gray> <c:#ffe8a3>${vanillaDisplayName}</c>"
+				player_command: false
+			}]
 		}
 		{
 			x: 0.0d
@@ -237,6 +306,14 @@
 				type: "advancement"
 				advancement: "mca:monarch"
 				criterion: ""
+			}]
+			rewards: [{
+				id: "77CC1CE66BEA4B5A"
+				type: "command"
+				title: "THE ULTIMATE RANK"
+				icon: "minecraft:name_tag"
+				command: "/styledchat set @p display_name <dark_gray>[<blue>King</blue>]</dark_gray> <c:#ffe8a3>${vanillaDisplayName}</c>"
+				player_command: false
 			}]
 		}
 	]

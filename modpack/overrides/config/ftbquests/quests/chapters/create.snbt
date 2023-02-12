@@ -1,7 +1,7 @@
 {
 	id: "7F58B7CED9BA8BBC"
 	group: "07642BF4BD62116B"
-	order_index: 2
+	order_index: 0
 	filename: "create"
 	title: "Create"
 	icon: "create:wrench"
@@ -9,27 +9,9 @@
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			icon: "create:wrench"
-			x: 0.0d
-			y: 0.0d
-			shape: "diamond"
-			size: 1.5d
-			id: "7D6FD670642F1940"
-			tasks: [{
-				id: "2680DD6E040B470C"
-				type: "checkmark"
-				title: "Create"
-			}]
-			rewards: [{
-				id: "6DF164DC45CCB5D1"
-				type: "item"
-				item: "create:wrench"
-			}]
-		}
-		{
 			x: -4.5d
 			y: 0.0d
-			dependencies: ["7D6FD670642F1940"]
+			dependencies: ["75E9F1723878C340"]
 			id: "1F52516843174649"
 			tasks: [{
 				id: "54EF1F9C3E46D4FD"
@@ -41,7 +23,7 @@
 		{
 			x: 0.0d
 			y: -3.0d
-			dependencies: ["7D6FD670642F1940"]
+			dependencies: ["75E9F1723878C340"]
 			id: "190C7B4AC780C23F"
 			tasks: [{
 				id: "07EF1D4F3AE2A50E"
@@ -128,7 +110,7 @@
 		{
 			x: -2.5d
 			y: -3.0d
-			dependencies: ["7D6FD670642F1940"]
+			dependencies: ["75E9F1723878C340"]
 			id: "2D8CEE62BF5D74E2"
 			tasks: [{
 				id: "6E4BDD58F586E669"
@@ -267,7 +249,7 @@
 		{
 			x: 2.0d
 			y: 0.0d
-			dependencies: ["7D6FD670642F1940"]
+			dependencies: ["75E9F1723878C340"]
 			id: "599C61C2B299D165"
 			tasks: [{
 				id: "3388AB677CAF6DE5"
@@ -639,7 +621,7 @@
 		}
 		{
 			x: -4.5d
-			y: 7.5d
+			y: 8.0d
 			dependencies: ["0790A8C7EFD1641A"]
 			id: "1E40699EAE6181D7"
 			tasks: [{
@@ -814,6 +796,66 @@
 				id: "2439E5DACC4218F4"
 				type: "item"
 				item: "create:belt_connector"
+			}]
+		}
+		{
+			icon: "indrev:enriched_nikolite_ingot"
+			x: 4.0d
+			y: 3.0d
+			dependencies: ["4BC0D70106BE3033"]
+			id: "56FBE2F7D35AF694"
+			tasks: [{
+				id: "38AB0C03CB6BA726"
+				type: "checkmark"
+				title: "To the REVOLUTION!"
+			}]
+			rewards: [{
+				id: "7DAE14CC282DC434"
+				type: "gamestage"
+				icon: "indrev:enriched_nikolite_ingot"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "The Revolution"
+			}]
+		}
+		{
+			icon: "toms_storage:ts.inventory_connector"
+			x: -9.5d
+			y: -5.0d
+			dependencies: ["51F4A762475AE5EB"]
+			id: "21D3EC82D3F3C4C8"
+			tasks: [{
+				id: "794D64829FB10AAC"
+				type: "checkmark"
+				title: "U  Did it!"
+			}]
+			rewards: [{
+				id: "796CF1BEA977A147"
+				type: "gamestage"
+				icon: "toms_storage:ts.inventory_connector"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "More Storage"
+			}]
+		}
+		{
+			icon: "create:wrench"
+			x: 0.0d
+			y: 0.0d
+			shape: "diamond"
+			size: 2.0d
+			invisible: true
+			id: "75E9F1723878C340"
+			tasks: [{
+				id: "020438F86D0B954B"
+				type: "gamestage"
+				icon: "create:cogwheel"
+				stage: "The beginning?"
+			}]
+			rewards: [{
+				id: "20F5E5AB03C85B6C"
+				type: "item"
+				item: "create:wrench"
 			}]
 		}
 	]

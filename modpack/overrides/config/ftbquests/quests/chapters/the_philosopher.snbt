@@ -1,6 +1,6 @@
 {
 	id: "18CCA53BF81CC493"
-	group: "7ECE65C9DD731CA5"
+	group: ""
 	order_index: 1
 	filename: "the_philosopher"
 	title: "The Philosopher"
@@ -17,6 +17,7 @@
 		x: 0.0d
 		y: 0.0d
 		size: 2.0d
+		invisible: true
 		id: "50207B1B6605D93C"
 		tasks: [{
 			id: "6B76B138523F1533"

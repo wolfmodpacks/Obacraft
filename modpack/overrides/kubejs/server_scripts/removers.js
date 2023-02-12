@@ -1,3 +1,4 @@
+
 ServerEvents.recipes((event) => {
     
     const output = [
@@ -21,6 +22,9 @@ ServerEvents.recipes((event) => {
         'arclight:angel_chestplate',
         'arclight:angel_leggings',
         'arclight:angel_boots',
+
+        // Twilight Forest
+        'twilightforest:uncrafting_table',
     ]
 
     const id = [
@@ -34,6 +38,9 @@ ServerEvents.recipes((event) => {
         // Kibe
         'kibe:slime_boots',
         'kibe:slime_sling',
+
+        // Twilight Forest
+        'twilightforest:uncrafting_table',
     ]
 
 

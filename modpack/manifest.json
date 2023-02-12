@@ -16,6 +16,14 @@
   "name": "Obacraft",
   "files": [
     {
+      "projectID": 60089,
+      "fileID": 3828448,
+      "required": true,
+      "__meta": {
+        "name": "Mouse Tweaks"
+      }
+    },
+    {
       "projectID": 223794,
       "fileID": 4293536,
       "required": true,
@@ -31,6 +39,17 @@
         "name": "MmmMmmMmmMmm (Target Dummy)",
         "dependencies": [
           499980
+        ]
+      }
+    },
+    {
+      "projectID": 227639,
+      "fileID": 4389094,
+      "required": true,
+      "__meta": {
+        "name": "The Twilight Forest",
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -77,6 +96,46 @@
       }
     },
     {
+      "projectID": 248787,
+      "fileID": 3927567,
+      "required": true,
+      "__meta": {
+        "name": "AppleSkin",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 250235,
+      "fileID": 4042913,
+      "required": true,
+      "__meta": {
+        "name": "Croparia v4 [FORGE/FABRIC]"
+      }
+    },
+    {
+      "projectID": 250398,
+      "fileID": 4050342,
+      "required": true,
+      "__meta": {
+        "name": "Controlling"
+      }
+    },
+    {
+      "projectID": 252042,
+      "fileID": 4084512,
+      "required": true,
+      "__meta": {
+        "name": "Paintings ++",
+        "dependencies": [
+          377582,
+          306612,
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 252848,
       "fileID": 4118387,
       "required": true,
@@ -109,6 +168,14 @@
       "required": true,
       "__meta": {
         "name": "Carry On"
+      }
+    },
+    {
+      "projectID": 284876,
+      "fileID": 4328511,
+      "required": true,
+      "__meta": {
+        "name": "DimensionalDoors"
       }
     },
     {
@@ -176,6 +243,38 @@
       }
     },
     {
+      "projectID": 311120,
+      "fileID": 3912405,
+      "required": true,
+      "__meta": {
+        "name": "Couplings"
+      }
+    },
+    {
+      "projectID": 311377,
+      "fileID": 4090927,
+      "required": true,
+      "__meta": {
+        "name": "BetterNether",
+        "dependencies": [
+          306612,
+          495191
+        ]
+      }
+    },
+    {
+      "projectID": 312289,
+      "fileID": 4132431,
+      "required": true,
+      "__meta": {
+        "name": "Blockus",
+        "dependencies": [
+          306612,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 314579,
       "fileID": 3972616,
       "required": true,
@@ -189,6 +288,17 @@
       "required": true,
       "__meta": {
         "name": "Xaero's World Map",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 317856,
+      "fileID": 4373688,
+      "required": true,
+      "__meta": {
+        "name": "Expanded Storage",
         "dependencies": [
           306612
         ]
@@ -238,11 +348,75 @@
       }
     },
     {
+      "projectID": 320215,
+      "fileID": 4262536,
+      "required": true,
+      "__meta": {
+        "name": "Adorn",
+        "dependencies": [
+          308769,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 323976,
+      "fileID": 4104793,
+      "required": true,
+      "__meta": {
+        "name": "Better Animations Collection",
+        "dependencies": [
+          547434,
+          306612,
+          495476
+        ]
+      }
+    },
+    {
+      "projectID": 324564,
+      "fileID": 3819822,
+      "required": true,
+      "__meta": {
+        "name": "Amecs (Fabric)"
+      }
+    },
+    {
       "projectID": 325471,
       "fileID": 3885990,
       "required": true,
       "__meta": {
         "name": "Inventory Sorting"
+      }
+    },
+    {
+      "projectID": 325492,
+      "fileID": 3832013,
+      "required": true,
+      "__meta": {
+        "name": "Light Overlay (Rift/Forge/Fabric)",
+        "dependencies": [
+          348521,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 325861,
+      "fileID": 3832027,
+      "required": true,
+      "__meta": {
+        "name": "Smooth Scrolling Everywhere (Fabric)",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 334259,
+      "fileID": 4239129,
+      "required": true,
+      "__meta": {
+        "name": "Presence Footsteps [Fabric]"
       }
     },
     {
@@ -254,6 +428,19 @@
         "dependencies": [
           306612,
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 336554,
+      "fileID": 4036547,
+      "required": true,
+      "__meta": {
+        "name": "MobZ",
+        "dependencies": [
+          380649,
+          306612,
+          348521
         ]
       }
     },
@@ -273,6 +460,25 @@
       "__meta": {
         "name": "Cloth Config API (Fabric/Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 349239,
+      "fileID": 4033215,
+      "required": true,
+      "__meta": {
+        "name": "Carpet"
+      }
+    },
+    {
+      "projectID": 349240,
+      "fileID": 4066596,
+      "required": true,
+      "__meta": {
+        "name": "Carpet Extra",
+        "dependencies": [
+          349239
+        ]
       }
     },
     {
@@ -321,6 +527,17 @@
       }
     },
     {
+      "projectID": 359522,
+      "fileID": 3800599,
+      "required": true,
+      "__meta": {
+        "name": "PlayerAbilityLib",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 361579,
       "fileID": 4159882,
       "required": true,
@@ -361,6 +578,26 @@
       }
     },
     {
+      "projectID": 369254,
+      "fileID": 4031400,
+      "required": true,
+      "__meta": {
+        "name": "Inmis",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 373261,
+      "fileID": 3668220,
+      "required": true,
+      "__meta": {
+        "name": "Auto Config Updated API",
+        "explicit": false
+      }
+    },
+    {
       "projectID": 373591,
       "fileID": 4031205,
       "required": true,
@@ -393,6 +630,28 @@
       }
     },
     {
+      "projectID": 377109,
+      "fileID": 3944167,
+      "required": true,
+      "__meta": {
+        "name": "Tool Stats",
+        "dependencies": [
+          228525
+        ]
+      }
+    },
+    {
+      "projectID": 377582,
+      "fileID": 4031059,
+      "required": true,
+      "__meta": {
+        "name": "Transparent",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 378646,
       "fileID": 3930984,
       "required": true,
@@ -401,6 +660,15 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 380649,
+      "fileID": 4153077,
+      "required": true,
+      "__meta": {
+        "name": "Fabric Shield Lib",
+        "explicit": false
       }
     },
     {
@@ -536,11 +804,33 @@
       }
     },
     {
+      "projectID": 393563,
+      "fileID": 3848824,
+      "required": true,
+      "__meta": {
+        "name": "Blur (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 394468,
       "fileID": 3957319,
       "required": true,
       "__meta": {
         "name": "Sodium"
+      }
+    },
+    {
+      "projectID": 394667,
+      "fileID": 3830809,
+      "required": true,
+      "__meta": {
+        "name": "On Soul Fire",
+        "dependencies": [
+          306612
+        ]
       }
     },
     {
@@ -577,6 +867,34 @@
       }
     },
     {
+      "projectID": 396826,
+      "fileID": 4329300,
+      "required": true,
+      "__meta": {
+        "name": "Tom's Simple Storage Mod (Fabric)"
+      }
+    },
+    {
+      "projectID": 397183,
+      "fileID": 4083775,
+      "required": true,
+      "__meta": {
+        "name": "Plant In A Jar"
+      }
+    },
+    {
+      "projectID": 397217,
+      "fileID": 4074148,
+      "required": true,
+      "__meta": {
+        "name": "Chest Tracker",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 397903,
       "fileID": 4375451,
       "required": true,
@@ -585,6 +903,17 @@
         "dependencies": [
           306612,
           341284
+        ]
+      }
+    },
+    {
+      "projectID": 398022,
+      "fileID": 3968924,
+      "required": true,
+      "__meta": {
+        "name": "Earth2Java",
+        "dependencies": [
+          419699
         ]
       }
     },
@@ -621,6 +950,14 @@
       }
     },
     {
+      "projectID": 400619,
+      "fileID": 4077255,
+      "required": true,
+      "__meta": {
+        "name": "Dank Storage Fabric"
+      }
+    },
+    {
       "projectID": 400929,
       "fileID": 3831994,
       "required": true,
@@ -653,6 +990,17 @@
       }
     },
     {
+      "projectID": 401648,
+      "fileID": 4030572,
+      "required": true,
+      "__meta": {
+        "name": "BetterF3",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 404828,
       "fileID": 3962051,
       "required": true,
@@ -665,6 +1013,14 @@
       }
     },
     {
+      "projectID": 405262,
+      "fileID": 3907241,
+      "required": true,
+      "__meta": {
+        "name": "ClickThrough"
+      }
+    },
+    {
       "projectID": 405388,
       "fileID": 4304214,
       "required": true,
@@ -673,6 +1029,18 @@
         "dependencies": [
           348521,
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 407311,
+      "fileID": 3971563,
+      "required": true,
+      "__meta": {
+        "name": "MC Dungeons Weapons",
+        "dependencies": [
+          306612,
+          348521
         ]
       }
     },
@@ -735,6 +1103,18 @@
       }
     },
     {
+      "projectID": 412915,
+      "fileID": 4362273,
+      "required": true,
+      "__meta": {
+        "name": "Too Many Binds",
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 413596,
       "fileID": 4369085,
       "required": true,
@@ -744,6 +1124,14 @@
           306612,
           495191
         ]
+      }
+    },
+    {
+      "projectID": 415438,
+      "fileID": 4344773,
+      "required": true,
+      "__meta": {
+        "name": "Croptopia"
       }
     },
     {
@@ -760,6 +1148,18 @@
       "required": true,
       "__meta": {
         "name": "Simple Voice Chat"
+      }
+    },
+    {
+      "projectID": 416283,
+      "fileID": 3837155,
+      "required": true,
+      "__meta": {
+        "name": "This Rocks!",
+        "dependencies": [
+          488090,
+          306612
+        ]
       }
     },
     {
@@ -789,6 +1189,18 @@
       "required": true,
       "__meta": {
         "name": "Konkrete [Fabric]",
+        "explicit": false,
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 419697,
+      "fileID": 3780724,
+      "required": true,
+      "__meta": {
+        "name": "Architectury API (UNUSED)",
         "explicit": false,
         "dependencies": [
           306612
@@ -866,6 +1278,34 @@
       }
     },
     {
+      "projectID": 426206,
+      "fileID": 4371939,
+      "required": true,
+      "__meta": {
+        "name": "MC Dungeons Armors",
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 428912,
+      "fileID": 3908028,
+      "required": true,
+      "__meta": {
+        "name": "Krypton"
+      }
+    },
+    {
+      "projectID": 429291,
+      "fileID": 3147277,
+      "required": true,
+      "__meta": {
+        "name": "Here be no Dragons!"
+      }
+    },
+    {
       "projectID": 430382,
       "fileID": 3983948,
       "required": true,
@@ -893,6 +1333,14 @@
       }
     },
     {
+      "projectID": 437552,
+      "fileID": 3823457,
+      "required": true,
+      "__meta": {
+        "name": "Croptosis"
+      }
+    },
+    {
       "projectID": 438116,
       "fileID": 3923001,
       "required": true,
@@ -900,6 +1348,21 @@
         "name": "Macaw's Paintings",
         "dependencies": [
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 438365,
+      "fileID": 4175430,
+      "required": true,
+      "__meta": {
+        "name": "Bosses of Mass Destruction",
+        "dependencies": [
+          388172,
+          308769,
+          306612,
+          318449,
+          348521
         ]
       }
     },
@@ -968,6 +1431,19 @@
       }
     },
     {
+      "projectID": 442332,
+      "fileID": 3990124,
+      "required": true,
+      "__meta": {
+        "name": "MC Story Mode Armors [Forge / Fabric]",
+        "dependencies": [
+          306612,
+          419699,
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 446253,
       "fileID": 3832880,
       "required": true,
@@ -998,6 +1474,25 @@
         "name": "Happiness (is a) Warm Gun",
         "dependencies": [
           388172,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 448233,
+      "fileID": 3823508,
+      "required": true,
+      "__meta": {
+        "name": "Entity Culling Fabric/Forge"
+      }
+    },
+    {
+      "projectID": 452046,
+      "fileID": 4046700,
+      "required": true,
+      "__meta": {
+        "name": "Enhanced Block Entities",
+        "dependencies": [
           306612
         ]
       }
@@ -1038,6 +1533,19 @@
       }
     },
     {
+      "projectID": 458048,
+      "fileID": 4026714,
+      "required": true,
+      "__meta": {
+        "name": "Diagonal Fences",
+        "dependencies": [
+          495476,
+          306612,
+          547434
+        ]
+      }
+    },
+    {
       "projectID": 459496,
       "fileID": 3957480,
       "required": true,
@@ -1070,11 +1578,31 @@
       }
     },
     {
+      "projectID": 460336,
+      "fileID": 3819692,
+      "required": true,
+      "__meta": {
+        "name": "Stoneholm, Underground Villages (Fabric)",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 460652,
       "fileID": 4378252,
       "required": true,
       "__meta": {
         "name": "So I heard you were talking crap about Minecraft's difficulty?"
+      }
+    },
+    {
+      "projectID": 461885,
+      "fileID": 3999665,
+      "required": true,
+      "__meta": {
+        "name": "Light Emitting Diode"
       }
     },
     {
@@ -1124,11 +1652,44 @@
       }
     },
     {
+      "projectID": 483166,
+      "fileID": 4018252,
+      "required": true,
+      "__meta": {
+        "name": "Incantationem",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 485532,
+      "fileID": 3877143,
+      "required": true,
+      "__meta": {
+        "name": "Reaping",
+        "dependencies": [
+          419699,
+          306612,
+          319596,
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 486080,
       "fileID": 3843501,
       "required": true,
       "__meta": {
         "name": "More Villagers [Fabric]"
+      }
+    },
+    {
+      "projectID": 486778,
+      "fileID": 4365624,
+      "required": true,
+      "__meta": {
+        "name": "Fix Experience Bug (now with FABRIC and FORGE versions)"
       }
     },
     {
@@ -1139,6 +1700,18 @@
         "name": "VoidZ",
         "dependencies": [
           390991
+        ]
+      }
+    },
+    {
+      "projectID": 487364,
+      "fileID": 3845046,
+      "required": true,
+      "__meta": {
+        "name": "Architect's Palette [FABRIC]",
+        "dependencies": [
+          348521,
+          306612
         ]
       }
     },
@@ -1178,6 +1751,32 @@
         "name": "BCLib",
         "explicit": false,
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 495267,
+      "fileID": 4370583,
+      "required": true,
+      "__meta": {
+        "name": "Inventory Profiles Next",
+        "dependencies": [
+          308769,
+          679177,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 495476,
+      "fileID": 4041205,
+      "required": true,
+      "__meta": {
+        "name": "Puzzles Lib",
+        "explicit": false,
+        "dependencies": [
+          547434,
           306612
         ]
       }
@@ -1277,6 +1876,14 @@
       }
     },
     {
+      "projectID": 515000,
+      "fileID": 3820969,
+      "required": true,
+      "__meta": {
+        "name": "More Banner Features"
+      }
+    },
+    {
       "projectID": 515698,
       "fileID": 4033195,
       "required": true,
@@ -1297,6 +1904,22 @@
       }
     },
     {
+      "projectID": 521480,
+      "fileID": 4001981,
+      "required": true,
+      "__meta": {
+        "name": "Skin Layers 3D (Fabric/Forge)"
+      }
+    },
+    {
+      "projectID": 521594,
+      "fileID": 4391904,
+      "required": true,
+      "__meta": {
+        "name": "Wavey Capes"
+      }
+    },
+    {
       "projectID": 525586,
       "fileID": 4031673,
       "required": true,
@@ -1307,6 +1930,14 @@
           421649,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 530816,
+      "fileID": 4368412,
+      "required": true,
+      "__meta": {
+        "name": "No Telemetry"
       }
     },
     {
@@ -1330,6 +1961,29 @@
       }
     },
     {
+      "projectID": 533661,
+      "fileID": 3965300,
+      "required": true,
+      "__meta": {
+        "name": "Lightest Lamps (Fabric/Quilt)",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 534029,
+      "fileID": 4057306,
+      "required": true,
+      "__meta": {
+        "name": "Magitek Mechs",
+        "dependencies": [
+          388172
+        ]
+      }
+    },
+    {
       "projectID": 535291,
       "fileID": 4380376,
       "required": true,
@@ -1341,12 +1995,81 @@
       }
     },
     {
+      "projectID": 535489,
+      "fileID": 4199799,
+      "required": true,
+      "__meta": {
+        "name": "Sound Physics Remastered"
+      }
+    },
+    {
+      "projectID": 536603,
+      "fileID": 4311851,
+      "required": true,
+      "__meta": {
+        "name": "ShetiPhianCore [Fabric]",
+        "explicit": false,
+        "dependencies": [
+          306612,
+          348521
+        ]
+      }
+    },
+    {
+      "projectID": 536610,
+      "fileID": 4311849,
+      "required": true,
+      "__meta": {
+        "name": "Platforms [Fabric]",
+        "dependencies": [
+          536603
+        ]
+      }
+    },
+    {
+      "projectID": 538214,
+      "fileID": 4282207,
+      "required": true,
+      "__meta": {
+        "name": "Handcrafted",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 539057,
+      "fileID": 3945830,
+      "required": true,
+      "__meta": {
+        "name": "Trading Post",
+        "dependencies": [
+          495476,
+          306612,
+          547434
+        ]
+      }
+    },
+    {
       "projectID": 539382,
       "fileID": 3922111,
       "required": true,
       "__meta": {
         "name": "Iceberg [Fabric]",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 541171,
+      "fileID": 4386248,
+      "required": true,
+      "__meta": {
+        "name": "Traveler's Backpack [Fabric]",
+        "dependencies": [
+          318449,
+          348521,
+          306612
+        ]
       }
     },
     {
@@ -1372,6 +2095,28 @@
           665526,
           547434
         ]
+      }
+    },
+    {
+      "projectID": 543089,
+      "fileID": 4390040,
+      "required": true,
+      "__meta": {
+        "name": "Advanced Reborn (Fabric)",
+        "dependencies": [
+          682213,
+          233564,
+          306612,
+          237903
+        ]
+      }
+    },
+    {
+      "projectID": 544197,
+      "fileID": 3827209,
+      "required": true,
+      "__meta": {
+        "name": "Plushie Mod"
       }
     },
     {
@@ -1407,6 +2152,28 @@
       }
     },
     {
+      "projectID": 547689,
+      "fileID": 3835114,
+      "required": true,
+      "__meta": {
+        "name": "TrashSlot (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 547695,
+      "fileID": 3927983,
+      "required": true,
+      "__meta": {
+        "name": "KleeSlabs (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
       "projectID": 547696,
       "fileID": 3832620,
       "required": true,
@@ -1414,6 +2181,37 @@
         "name": "NetherPortalFix (Fabric Edition)",
         "dependencies": [
           500525
+        ]
+      }
+    },
+    {
+      "projectID": 547700,
+      "fileID": 3833448,
+      "required": true,
+      "__meta": {
+        "name": "Pretty Beaches (Fabric Edition)",
+        "dependencies": [
+          500525
+        ]
+      }
+    },
+    {
+      "projectID": 548115,
+      "fileID": 3842540,
+      "required": true,
+      "__meta": {
+        "name": "Alternate Current"
+      }
+    },
+    {
+      "projectID": 549031,
+      "fileID": 4104265,
+      "required": true,
+      "__meta": {
+        "name": "Capybara [Fabric]",
+        "dependencies": [
+          348521,
+          306612
         ]
       }
     },
@@ -1443,6 +2241,18 @@
       "__meta": {
         "name": "Catwalks Inc.",
         "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 554844,
+      "fileID": 3834031,
+      "required": true,
+      "__meta": {
+        "name": "Lava Java",
+        "dependencies": [
+          348521,
           306612
         ]
       }
@@ -1528,6 +2338,25 @@
       }
     },
     {
+      "projectID": 570354,
+      "fileID": 3862219,
+      "required": true,
+      "__meta": {
+        "name": "Nullscape"
+      }
+    },
+    {
+      "projectID": 570368,
+      "fileID": 4084122,
+      "required": true,
+      "__meta": {
+        "name": "Raised",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 570630,
       "fileID": 4372742,
       "required": true,
@@ -1547,6 +2376,30 @@
         "dependencies": [
           388832,
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 576589,
+      "fileID": 4110279,
+      "required": true,
+      "__meta": {
+        "name": "PolyLib",
+        "explicit": false,
+        "dependencies": [
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 580136,
+      "fileID": 4269984,
+      "required": true,
+      "__meta": {
+        "name": "Quests Additions (Fabric)",
+        "dependencies": [
+          419697,
+          438496
         ]
       }
     },
@@ -1606,6 +2459,17 @@
       "__meta": {
         "name": "FancyVideo-API",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 592067,
+      "fileID": 3837296,
+      "required": true,
+      "__meta": {
+        "name": "'Dustrial Decor [Fabric]",
+        "dependencies": [
+          373261
+        ]
       }
     },
     {
@@ -1672,6 +2536,14 @@
           348521,
           388172
         ]
+      }
+    },
+    {
+      "projectID": 610492,
+      "fileID": 4034011,
+      "required": true,
+      "__meta": {
+        "name": "Another Furniture"
       }
     },
     {
@@ -1777,6 +2649,17 @@
       }
     },
     {
+      "projectID": 622010,
+      "fileID": 4327928,
+      "required": true,
+      "__meta": {
+        "name": "Show Me Your Skin!",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 622112,
       "fileID": 4364186,
       "required": true,
@@ -1784,6 +2667,29 @@
         "name": "MEGA Cells",
         "dependencies": [
           223794
+        ]
+      }
+    },
+    {
+      "projectID": 622737,
+      "fileID": 4105758,
+      "required": true,
+      "__meta": {
+        "name": "FTB Backups 2",
+        "dependencies": [
+          576589,
+          419699
+        ]
+      }
+    },
+    {
+      "projectID": 623560,
+      "fileID": 4182772,
+      "required": true,
+      "__meta": {
+        "name": "Log Begone",
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -1813,6 +2719,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 625437,
+      "fileID": 3912877,
+      "required": true,
+      "__meta": {
+        "name": "Packet Size Doubler"
       }
     },
     {
@@ -1861,6 +2775,14 @@
       }
     },
     {
+      "projectID": 631575,
+      "fileID": 4070580,
+      "required": true,
+      "__meta": {
+        "name": "Lotta Blocks"
+      }
+    },
+    {
       "projectID": 631990,
       "fileID": 4117828,
       "required": true,
@@ -1869,6 +2791,18 @@
         "dependencies": [
           341284,
           348521
+        ]
+      }
+    },
+    {
+      "projectID": 632066,
+      "fileID": 4385670,
+      "required": true,
+      "__meta": {
+        "name": "Marium's Soulslike Weaponry",
+        "dependencies": [
+          388172,
+          306612
         ]
       }
     },
@@ -1975,6 +2909,14 @@
       }
     },
     {
+      "projectID": 648781,
+      "fileID": 4367171,
+      "required": true,
+      "__meta": {
+        "name": "Reacharound"
+      }
+    },
+    {
       "projectID": 649882,
       "fileID": 3925553,
       "required": true,
@@ -1984,6 +2926,14 @@
           341284,
           348521
         ]
+      }
+    },
+    {
+      "projectID": 652113,
+      "fileID": 4291651,
+      "required": true,
+      "__meta": {
+        "name": "FastAnim"
       }
     },
     {
@@ -2010,12 +2960,32 @@
       }
     },
     {
+      "projectID": 658286,
+      "fileID": 4109700,
+      "required": true,
+      "__meta": {
+        "name": "Automobility"
+      }
+    },
+    {
       "projectID": 658587,
       "fileID": 4357569,
       "required": true,
       "__meta": {
         "name": "playerAnimator",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 659011,
+      "fileID": 4166675,
+      "required": true,
+      "__meta": {
+        "name": "Deeper and Darker",
+        "dependencies": [
+          388172,
+          306612
+        ]
       }
     },
     {
@@ -2030,6 +3000,26 @@
       }
     },
     {
+      "projectID": 663141,
+      "fileID": 3966060,
+      "required": true,
+      "__meta": {
+        "name": "Paladin's Furniture",
+        "dependencies": [
+          348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 663477,
+      "fileID": 3948177,
+      "required": true,
+      "__meta": {
+        "name": "Let Me Despawn"
+      }
+    },
+    {
       "projectID": 664356,
       "fileID": 3963321,
       "required": true,
@@ -2039,6 +3029,14 @@
           308769,
           310111
         ]
+      }
+    },
+    {
+      "projectID": 665384,
+      "fileID": 3955329,
+      "required": true,
+      "__meta": {
+        "name": "Log More Info"
       }
     },
     {
@@ -2071,6 +3069,17 @@
       }
     },
     {
+      "projectID": 666672,
+      "fileID": 4139885,
+      "required": true,
+      "__meta": {
+        "name": "InmisAddon",
+        "dependencies": [
+          369254
+        ]
+      }
+    },
+    {
       "projectID": 667299,
       "fileID": 4361292,
       "required": true,
@@ -2087,6 +3096,27 @@
       "required": true,
       "__meta": {
         "name": "Better Statistics Screen (Fabric/Forge)"
+      }
+    },
+    {
+      "projectID": 679177,
+      "fileID": 4370451,
+      "required": true,
+      "__meta": {
+        "name": "libIPN",
+        "explicit": false,
+        "dependencies": [
+          308769,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 681953,
+      "fileID": 4009906,
+      "required": true,
+      "__meta": {
+        "name": "Exordium"
       }
     },
     {
@@ -2111,6 +3141,27 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 686434,
+      "fileID": 4332085,
+      "required": true,
+      "__meta": {
+        "name": "Mob Plaques",
+        "dependencies": [
+          547434,
+          495476,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 686911,
+      "fileID": 4366452,
+      "required": true,
+      "__meta": {
+        "name": "ImmediatelyFast"
       }
     },
     {
@@ -2309,6 +3360,14 @@
           348521,
           771265
         ]
+      }
+    },
+    {
+      "projectID": 808006,
+      "fileID": 4333648,
+      "required": true,
+      "__meta": {
+        "name": "Tiny Item Animations"
       }
     },
     {

@@ -11,9 +11,16 @@
 		{
 			x: 0.0d
 			y: 0.0d
+			invisible: true
 			id: "48A868BD6B165F2D"
 			tasks: [{
-				id: "236C6AB416C4689E"
+				id: "177E2FAECFC21116"
+				type: "gamestage"
+				icon: "graveyard:vial_of_blood"
+				stage: "Is Blooding time"
+			}]
+			rewards: [{
+				id: "4946BF2E841E44D2"
 				type: "item"
 				item: "haema:book_of_blood"
 			}]

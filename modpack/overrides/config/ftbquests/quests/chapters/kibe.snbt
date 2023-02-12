@@ -10,6 +10,7 @@
 	quests: [{
 		x: 0.0d
 		y: 0.0d
+		invisible: true
 		id: "22651EB7AE04B5D6"
 		tasks: [{
 			id: "504DF52132250EAD"

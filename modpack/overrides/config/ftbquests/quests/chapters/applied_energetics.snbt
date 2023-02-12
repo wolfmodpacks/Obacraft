@@ -1,7 +1,7 @@
 {
 	id: "165204247B0B7FD7"
-	group: "07642BF4BD62116B"
-	order_index: 4
+	group: "75986D46F3A67E2C"
+	order_index: 0
 	filename: "applied_energetics"
 	title: "Applied Energetics 2"
 	icon: "ae2:controller"
@@ -13,17 +13,26 @@
 			y: 0.0d
 			shape: "diamond"
 			size: 1.5d
+			invisible: true
 			id: "106041630D354C31"
-			tasks: [
+			tasks: [{
+				id: "3B7FFEDB0D918FD9"
+				type: "gamestage"
+				icon: "ae2:controller"
+				stage: "More Advance Storage System?"
+			}]
+			rewards: [
 				{
-					id: "22301243956E8E5C"
-					type: "item"
-					item: "ae2:certus_quartz_dust"
-				}
-				{
-					id: "69CD579EC57B91B1"
+					id: "7653D495126EC604"
 					type: "item"
 					item: "ae2:certus_quartz_crystal"
+					count: 10
+				}
+				{
+					id: "5DA0B91F8B982B98"
+					type: "item"
+					item: "ae2:certus_quartz_dust"
+					count: 15
 				}
 			]
 		}
@@ -70,6 +79,14 @@
 				id: "35993BD3E484E67B"
 				type: "item"
 				item: "ae2:energy_acceptor"
+			}]
+			rewards: [{
+				id: "5DF6E39F742DF354"
+				type: "gamestage"
+				icon: "powah:energy_cell_creative"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "Power?"
 			}]
 		}
 		{

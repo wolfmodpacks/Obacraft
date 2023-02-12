@@ -11,16 +11,19 @@
 		{
 			x: 0.0d
 			y: 0.0d
+			subtitle: "Spectrum is a world of colors"
+			invisible: true
 			id: "781AF533DE9DABB6"
 			tasks: [{
-				id: "64F918EEF81DCD48"
-				type: "item"
-				item: "spectrum:guidebook"
+				id: "15AEFFED8636034A"
+				type: "gamestage"
+				icon: "spectrum:stardust"
+				stage: "Magic time"
 			}]
 		}
 		{
-			x: 3.0d
-			y: 0.0d
+			x: 0.0d
+			y: -2.0d
 			dependencies: ["781AF533DE9DABB6"]
 			hide: true
 			id: "6F01C11816DCCB67"

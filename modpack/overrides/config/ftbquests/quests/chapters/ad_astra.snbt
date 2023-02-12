@@ -1,0 +1,35 @@
+{
+	id: "1C7DDD0F9BFEB2BE"
+	group: "07642BF4BD62116B"
+	order_index: 4
+	filename: "ad_astra"
+	title: "Ad Astra!"
+	icon: {
+		id: "ad_astra:tier_4_rocket"
+		Count: 1b
+		tag: {
+			BotariumData: { }
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		invisible: true
+		id: "598EFB969B6EE8D7"
+		tasks: [{
+			id: "65A17B64D5DDBAFA"
+			type: "gamestage"
+			icon: {
+				id: "ad_astra:tier_1_rocket"
+				Count: 1b
+				tag: {
+					BotariumData: { }
+				}
+			}
+			stage: "Into SPACE"
+		}]
+	}]
+	quest_links: [ ]
+}

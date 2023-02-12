@@ -1,0 +1,205 @@
+{
+	id: "4F005CF7A40E1AD4"
+	group: "75986D46F3A67E2C"
+	order_index: 2
+	filename: "many_chests"
+	title: "Many Chests"
+	icon: "adventurez:shadow_chest_block"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			icon: "minecraft:trapped_chest"
+			x: 0.0d
+			y: 0.0d
+			id: "12B0C16F9BC8B0B5"
+			tasks: [{
+				id: "5E7D1C8CBE7DCC59"
+				type: "gamestage"
+				icon: "expandedstorage:netherite_chest"
+				stage: "MORE CHEST!!"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 2.0d
+			id: "29E5C45E21AA790A"
+			tasks: [{
+				id: "352657D3C6DF4E47"
+				type: "item"
+				item: "expandedstorage:copper_barrel"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 3.5d
+			id: "3B740B15E87240F4"
+			tasks: [{
+				id: "7E2E50719D9298F8"
+				type: "item"
+				item: "expandedstorage:iron_barrel"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 5.0d
+			id: "5FCACA5EAD500C1F"
+			tasks: [{
+				id: "1298859B11EC9BB6"
+				type: "item"
+				item: "expandedstorage:gold_barrel"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 6.5d
+			id: "4D9E90F38008FAF3"
+			tasks: [{
+				id: "4C563BE2F8E1BA32"
+				type: "item"
+				item: "expandedstorage:diamond_barrel"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 8.0d
+			id: "325419626C8D4E0B"
+			tasks: [{
+				id: "025BFC90ADE3B938"
+				type: "item"
+				item: "expandedstorage:obsidian_barrel"
+			}]
+		}
+		{
+			x: -4.0d
+			y: 9.5d
+			id: "1ED6FE647B629793"
+			tasks: [{
+				id: "476A7B69BF22EFBB"
+				type: "item"
+				item: "expandedstorage:netherite_barrel"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 2.0d
+			id: "4286C469CD27471F"
+			tasks: [{
+				id: "7AFE15C0A48A15BF"
+				type: "item"
+				item: "expandedstorage:iron_chest"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 3.5d
+			id: "17F496B7A54C82AB"
+			tasks: [{
+				id: "32CBD6DDD09B36F1"
+				type: "item"
+				item: "expandedstorage:gold_chest"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 5.0d
+			id: "67C97F156DFC4CBD"
+			tasks: [{
+				id: "436A857AE4AF6767"
+				type: "item"
+				item: "expandedstorage:diamond_chest"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 6.5d
+			id: "18CD449DBAA8DCA4"
+			tasks: [{
+				id: "18DC3FF9CDA12246"
+				type: "item"
+				item: "expandedstorage:obsidian_chest"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 8.0d
+			id: "657BE3D76D02B703"
+			tasks: [{
+				id: "19C76202D1CFD0EF"
+				type: "item"
+				item: "expandedstorage:netherite_chest"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			id: "2E0E0BFDF0E6B56F"
+			tasks: [{
+				id: "2AEE3EFFED027000"
+				type: "item"
+				item: "dankstorage:dank_1"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.5d
+			id: "4F56724D089DEAE7"
+			tasks: [{
+				id: "0626FEACEECA9547"
+				type: "item"
+				item: "dankstorage:dank_2"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 5.0d
+			id: "7A0686A38C9E94C8"
+			tasks: [{
+				id: "3639C00E64CBA53B"
+				type: "item"
+				item: "dankstorage:dank_3"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 6.5d
+			id: "7B4A16C5305989A7"
+			tasks: [{
+				id: "76FAE44263EAECFD"
+				type: "item"
+				item: "dankstorage:dank_4"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 8.0d
+			id: "758CC56914C7B49B"
+			tasks: [{
+				id: "2E5E7771532A8C56"
+				type: "item"
+				item: "dankstorage:dank_5"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 9.5d
+			id: "2F1266B9E6E5375A"
+			tasks: [{
+				id: "4085EAC15F7E4DE1"
+				type: "item"
+				item: "dankstorage:dank_6"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 11.0d
+			id: "6E939F3BB5DB8538"
+			tasks: [{
+				id: "4F7A2267A1350F96"
+				type: "item"
+				item: "dankstorage:dank_7"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

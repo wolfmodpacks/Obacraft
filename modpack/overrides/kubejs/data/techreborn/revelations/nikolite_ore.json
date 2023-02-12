@@ -1,0 +1,17 @@
+{
+    "advancement": "techreborn:refined_iron",
+    "block_states": {
+        "indrev:nikolite_ore": "minecraft:stone",
+        "indrev:deepslate_nikolite_ore": "minecraft:deepslate"
+    },
+    "items": {
+        "indrev:nikolite_dust": "minecraft:gunpowder"
+    },
+    "item_name_replacements": {
+        "indrev:nikolite_dust": "Weird Dust"
+    },
+    "block_name_replacements": {
+        "indrev:nikolite_ore": "Probably Stone?",
+        "indrev:deepslate_nikolite_ore": "Probably Deepslate?"
+    }
+}

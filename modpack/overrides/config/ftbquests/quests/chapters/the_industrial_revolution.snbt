@@ -1,21 +1,558 @@
 {
 	id: "6B55EEBB86C137E6"
 	group: "07642BF4BD62116B"
-	order_index: 3
+	order_index: 1
 	filename: "the_industrial_revolution"
 	title: "The Industrial Revolution"
 	icon: "indrev:energy_reader"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		x: 0.0d
-		y: 0.0d
-		id: "1ABA6898639F9038"
-		tasks: [{
-			id: "79420C37A85B9197"
-			type: "item"
-			item: "indrev:guide_book"
-		}]
-	}]
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			shape: "diamond"
+			size: 1.5d
+			invisible: true
+			id: "1ABA6898639F9038"
+			tasks: [{
+				id: "29183C3C0BA73060"
+				type: "gamestage"
+				icon: {
+					id: "indrev:gamer_axe"
+					Count: 1b
+					tag: {
+						Active: 1b
+						Progress: 1.0f
+						Damage: 0
+						selected: { }
+						energy: 10000L
+					}
+				}
+				stage: "The Revolution"
+			}]
+			rewards: [{
+				id: "2CB152E45F4F5CE3"
+				type: "item"
+				item: "indrev:guide_book"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.0d
+			dependencies: ["70B683E1B9768E87"]
+			hide: true
+			id: "7BC71F91147FF39A"
+			tasks: [{
+				id: "62181A1313F78937"
+				type: "item"
+				item: "indrev:nikolite_dust"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 4.0d
+			dependencies: ["7BC71F91147FF39A"]
+			hide: true
+			id: "775DA1334807D870"
+			tasks: [{
+				id: "526DA854938D494A"
+				type: "item"
+				item: "indrev:circuit_mk1"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 4.0d
+			dependencies: ["7BC71F91147FF39A"]
+			hide: true
+			id: "59C6292745A27A0B"
+			tasks: [{
+				id: "0E45A4006664E248"
+				type: "item"
+				item: "indrev:battery"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 6.0d
+			dependencies: ["59C6292745A27A0B"]
+			id: "712C12D6FBA60794"
+			tasks: [{
+				id: "0B35340CC0B8FDF8"
+				type: "item"
+				item: "indrev:coal_generator_mk1"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 4.0d
+			dependencies: ["59C6292745A27A0B"]
+			id: "745512AF1295B2EA"
+			tasks: [{
+				id: "22E1246AFCA8383C"
+				type: "item"
+				item: "indrev:heat_generator_mk4"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 5.0d
+			dependencies: [
+				"59C6292745A27A0B"
+				"775DA1334807D870"
+				"7BC71F91147FF39A"
+			]
+			hide: true
+			id: "6EBD3561E922EC2C"
+			tasks: [{
+				id: "1E80B1B5AE011689"
+				type: "item"
+				item: "indrev:lazuli_flux_container_mk1"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 6.5d
+			dependencies: ["6EBD3561E922EC2C"]
+			id: "2A857DF4E2BA4C8B"
+			tasks: [
+				{
+					id: "295C9DF047CBF309"
+					type: "item"
+					item: {
+						id: "indrev:servo_output"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "2639E9333CB018C3"
+					type: "item"
+					item: {
+						id: "indrev:servo_retriever"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: 8.0d
+			dependencies: ["2A857DF4E2BA4C8B"]
+			id: "390606593A3D9CDC"
+			tasks: [{
+				id: "76DDE584E03A4D65"
+				type: "item"
+				item: "indrev:cable_mk1"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 8.0d
+			dependencies: ["2A857DF4E2BA4C8B"]
+			id: "0D11E29D5A12C62A"
+			tasks: [{
+				id: "7DE262F5DA0ADCC6"
+				type: "item"
+				item: "indrev:item_pipe_mk1"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 6.5d
+			dependencies: ["2A857DF4E2BA4C8B"]
+			id: "104169CDFE18AB15"
+			tasks: [{
+				id: "6C2E92B70BFFA31D"
+				type: "item"
+				item: "indrev:fluid_pipe_mk1"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 6.0d
+			dependencies: [
+				"745512AF1295B2EA"
+				"712C12D6FBA60794"
+			]
+			hide: true
+			id: "296880B1E00049F8"
+			tasks: [{
+				id: "70F0D5F7F3F7D212"
+				type: "item"
+				item: "indrev:machine_block"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			dependencies: ["1ABA6898639F9038"]
+			id: "70B683E1B9768E87"
+			tasks: [{
+				id: "4C6423DBC01E0509"
+				type: "item"
+				item: "techreborn:refined_iron_ingot"
+			}]
+		}
+		{
+			x: -5.0d
+			y: 7.5d
+			dependencies: ["296880B1E00049F8"]
+			id: "6F2804DD82791438"
+			tasks: [{
+				id: "7D07B1B09883A94D"
+				type: "item"
+				item: "indrev:electric_furnace_mk1"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 6.0d
+			dependencies: ["296880B1E00049F8"]
+			id: "6C4A0479DE140A1A"
+			tasks: [{
+				id: "53E44A71E1A60575"
+				type: "item"
+				item: "indrev:compressor_mk1"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 8.0d
+			dependencies: ["296880B1E00049F8"]
+			id: "2AC790D37443F0BF"
+			tasks: [{
+				id: "44DCF13574B8039E"
+				type: "item"
+				item: "indrev:solid_infuser_mk1"
+			}]
+		}
+		{
+			x: -5.0d
+			y: 4.5d
+			dependencies: ["296880B1E00049F8"]
+			id: "00A9229DE3569C67"
+			tasks: [{
+				id: "66934E364C9F5242"
+				type: "item"
+				item: "indrev:fluid_infuser_mk1"
+			}]
+		}
+		{
+			x: -3.5d
+			y: 10.0d
+			dependencies: ["2AC790D37443F0BF"]
+			id: "534AD5DA37994300"
+			tasks: [{
+				id: "02D6DD680CCBEB09"
+				type: "item"
+				item: "indrev:pulverizer_mk1"
+			}]
+		}
+		{
+			x: 2.5d
+			y: 5.0d
+			dependencies: ["775DA1334807D870"]
+			id: "425979F96624D165"
+			tasks: [{
+				id: "6DFD039F789CDBCE"
+				type: "item"
+				item: "indrev:circuit_mk2"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 6.5d
+			dependencies: [
+				"425979F96624D165"
+				"495B2C42CAA27967"
+			]
+			hide: true
+			id: "43AECFAE033D6DA9"
+			tasks: [{
+				id: "208C03DB039CFFFA"
+				type: "item"
+				item: "indrev:circuit_mk3"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 10.0d
+			dependencies: [
+				"43AECFAE033D6DA9"
+				"4E0FB503D7BD73B0"
+			]
+			hide: true
+			id: "6227B4B77B676EC5"
+			tasks: [{
+				id: "59AC7D548E24739E"
+				type: "item"
+				item: "indrev:circuit_mk4"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 10.0d
+			dependencies: ["534AD5DA37994300"]
+			hide: true
+			id: "495B2C42CAA27967"
+			tasks: [{
+				id: "44893E49A2989C53"
+				type: "item"
+				item: "indrev:enriched_nikolite_dust"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 10.0d
+			dependencies: ["495B2C42CAA27967"]
+			id: "4E0FB503D7BD73B0"
+			tasks: [{
+				id: "11F5F78A13C663D2"
+				type: "item"
+				item: "indrev:enriched_nikolite_ingot"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 10.0d
+			dependencies: ["6227B4B77B676EC5"]
+			id: "1CA538C78440C066"
+			tasks: [
+				{
+					id: "79321CBE93700053"
+					type: "item"
+					item: "indrev:modular_core_activated"
+				}
+				{
+					id: "44E095DC041F9AA6"
+					type: "item"
+					item: "indrev:modular_core"
+				}
+				{
+					id: "3985F220205B4A99"
+					type: "item"
+					item: "indrev:laser_emitter_mk4"
+				}
+				{
+					id: "6ADBFA9239A19184"
+					type: "item"
+					item: "indrev:capsule"
+				}
+			]
+		}
+		{
+			icon: "techreborn:debug_tool"
+			x: -5.0d
+			y: 10.0d
+			dependencies: [
+				"6F2804DD82791438"
+				"534AD5DA37994300"
+			]
+			hide: true
+			id: "401BEAAB700C86C4"
+			tasks: [{
+				id: "7E6E93E7490A44C1"
+				type: "checkmark"
+				title: "More Machine Choices!"
+			}]
+			rewards: [{
+				id: "007DCA552C57C14F"
+				type: "gamestage"
+				icon: "techreborn:debug_tool"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "More Machines?!?!"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 8.5d
+			dependencies: ["1CA538C78440C066"]
+			id: "068CA1843AFC76A9"
+			tasks: [{
+				id: "70331CF17C0BBDEE"
+				type: "item"
+				item: "indrev:modular_workbench_mk4"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 6.5d
+			dependencies: ["068CA1843AFC76A9"]
+			id: "545752984CC993F3"
+			tasks: [
+				{
+					id: "7A5FBEFC711E0DF0"
+					type: "item"
+					item: {
+						id: "indrev:modular_armor_helmet"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "534AEEC9E55F6C11"
+					type: "item"
+					item: {
+						id: "indrev:modular_armor_chest"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "7B00B65BFCB0AD07"
+					type: "item"
+					item: {
+						id: "indrev:modular_armor_legs"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "60A80B365E4241F7"
+					type: "item"
+					item: {
+						id: "indrev:modular_armor_boots"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 11.5d
+			dependencies: ["6227B4B77B676EC5"]
+			id: "0B60569ECA4AB525"
+			tasks: [
+				{
+					id: "031EBB8156A84457"
+					type: "item"
+					item: "indrev:mining_rig_mk4"
+				}
+				{
+					id: "0742E8F684C784FD"
+					type: "item"
+					item: "indrev:drill_bottom"
+				}
+				{
+					id: "6138DFEC22258436"
+					type: "item"
+					item: {
+						id: "indrev:diamond_drill_head"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 6.0d
+			y: 11.5d
+			dependencies: ["0B60569ECA4AB525"]
+			id: "09E43A1D2B30B38D"
+			tasks: [
+				{
+					id: "1E06D1A51FD10F51"
+					type: "item"
+					item: "indrev:data_card_writer_mk4"
+				}
+				{
+					id: "679B12F294A7E78E"
+					type: "item"
+					item: "indrev:ore_data_card"
+				}
+			]
+		}
+		{
+			x: 4.0d
+			y: 13.0d
+			dependencies: ["0B60569ECA4AB525"]
+			id: "45E9DF923CF8F258"
+			tasks: [{
+				id: "6B89C85C31705F84"
+				type: "item"
+				item: "indrev:sulfuric_acid_bucket"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 13.0d
+			dependencies: ["45E9DF923CF8F258"]
+			id: "1CEEC763D1A45AF6"
+			tasks: [
+				{
+					id: "009B494854D4D08B"
+					type: "item"
+					item: "indrev:smelter_mk4"
+				}
+				{
+					id: "3FC6129614C33641"
+					type: "item"
+					item: "indrev:condenser_mk4"
+				}
+			]
+		}
+		{
+			x: 2.5d
+			y: 3.0d
+			dependencies: ["425979F96624D165"]
+			id: "35AE48ABAEA79805"
+			tasks: [{
+				id: "5AED805B4C1A5471"
+				type: "item"
+				item: "indrev:tier_upgrade_mk2"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 4.0d
+			dependencies: ["43AECFAE033D6DA9"]
+			id: "0F1F8FE01C003591"
+			tasks: [{
+				id: "24CAF3023E4208C3"
+				type: "item"
+				item: "indrev:tier_upgrade_mk3"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 11.5d
+			dependencies: ["6227B4B77B676EC5"]
+			id: "3FE6DF06CE64A5B1"
+			tasks: [{
+				id: "16CD1A4F99E58084"
+				type: "item"
+				item: "indrev:tier_upgrade_mk4"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 2.0d
+			dependencies: ["775DA1334807D870"]
+			id: "28E384A3E404E3D0"
+			tasks: [{
+				id: "309C279358897740"
+				type: "item"
+				item: "indrev:energy_reader"
+			}]
+		}
+		{
+			x: 3.0d
+			y: 9.0d
+			dependencies: ["6227B4B77B676EC5"]
+			id: "12A25A72CD9E0887"
+			tasks: [{
+				id: "5F953CDB1C03A02A"
+				type: "item"
+				item: "indrev:charge_pad_mk4"
+			}]
+		}
+	]
 	quest_links: [ ]
 }

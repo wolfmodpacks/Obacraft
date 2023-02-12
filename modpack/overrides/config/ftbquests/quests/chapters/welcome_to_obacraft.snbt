@@ -1,0 +1,75 @@
+{
+	id: "284E3CE56CE82328"
+	group: ""
+	order_index: 0
+	filename: "welcome_to_obacraft"
+	title: "Welcome to Obacraft"
+	icon: "srias_flowers:obama"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			icon: "srias_flowers:obama"
+			x: 0.0d
+			y: 0.0d
+			shape: "diamond"
+			size: 5.0d
+			id: "0DF94F50C20398C1"
+			tasks: [{
+				id: "56E2B2D3123718DC"
+				type: "checkmark"
+				title: "Are u ready to start your adventure?"
+			}]
+			rewards: [{
+				id: "325F3E7F572504EA"
+				type: "xp_levels"
+				auto: "enabled"
+				xp_levels: 5
+			}]
+		}
+		{
+			icon: "create:wrench"
+			x: -3.5d
+			y: 3.0d
+			dependencies: ["0DF94F50C20398C1"]
+			hide_text_until_complete: true
+			invisible: true
+			id: "50AA5D4310F9272A"
+			tasks: [{
+				id: "4AE0897F1798BF06"
+				type: "checkmark"
+				title: "Create your own machines"
+			}]
+			rewards: [{
+				id: "4DF0AF2740C83BAE"
+				type: "gamestage"
+				icon: "create:wrench"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "The beginning?"
+			}]
+		}
+		{
+			icon: "bewitchment:hellish_bauble"
+			x: 3.5d
+			y: 3.0d
+			dependencies: ["0DF94F50C20398C1"]
+			invisible: true
+			id: "38EAAB71A71B592A"
+			tasks: [{
+				id: "48BC67BE46C986E9"
+				type: "checkmark"
+				title: "Start with magic!"
+			}]
+			rewards: [{
+				id: "3CB8467404EEFA6E"
+				type: "gamestage"
+				icon: "spectrum:stardust"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "Magic time"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,21 +1,342 @@
 {
 	id: "5E78479EF99C8531"
 	group: "07642BF4BD62116B"
-	order_index: 0
+	order_index: 2
 	filename: "powah"
 	title: "PowAh!"
 	icon: "powah:reactor_nitro"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		x: 0.0d
-		y: 0.0d
-		id: "490066BEC7EE97CF"
-		tasks: [{
-			id: "425D92BBA7F4DF81"
-			type: "item"
-			item: "powah:book"
-		}]
-	}]
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			shape: "pentagon"
+			size: 1.5d
+			invisible: true
+			id: "490066BEC7EE97CF"
+			tasks: [{
+				id: "23EF1A6AD519983D"
+				type: "gamestage"
+				icon: "powah:energy_cell_creative"
+				stage: "Power?"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.5d
+			dependencies: ["490066BEC7EE97CF"]
+			id: "7CC63B762A7A881B"
+			tasks: [{
+				id: "40C6B8B369A6AAB6"
+				type: "item"
+				item: "powah:dielectric_paste"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -2.5d
+			dependencies: ["490066BEC7EE97CF"]
+			hide: false
+			invisible: true
+			id: "2910F22FFDC5A957"
+			tasks: [{
+				id: "5B217935CEA213BA"
+				type: "item"
+				item: "powah:uraninite"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -4.5d
+			dependencies: ["7CC63B762A7A881B"]
+			id: "49A884208EA3D3E8"
+			tasks: [{
+				id: "4D1F3A3B843875FF"
+				type: "item"
+				item: "powah:capacitor_basic"
+			}]
+		}
+		{
+			title: "Energy Cables"
+			x: 0.0d
+			y: -2.5d
+			dependencies: ["49A884208EA3D3E8"]
+			id: "16BD63076545E3D2"
+			tasks: [{
+				id: "7B25349A3FDF958A"
+				type: "item"
+				title: "Energy Cables"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "powah:energy_cable_starter"
+							}
+							{
+								Count: 1b
+								id: "powah:energy_cable_basic"
+							}
+							{
+								Count: 1b
+								id: "powah:energy_cable_hardened"
+							}
+							{
+								Count: 1b
+								id: "powah:energy_cable_blazing"
+							}
+							{
+								Count: 1b
+								id: "powah:energy_cable_niotic"
+							}
+							{
+								Count: 1b
+								id: "powah:energy_cable_spirited"
+							}
+							{
+								Count: 1b
+								id: "powah:energy_cable_nitro"
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: -2.0d
+			y: -4.5d
+			dependencies: [
+				"2910F22FFDC5A957"
+				"49A884208EA3D3E8"
+			]
+			hide: true
+			id: "3BB1B05CC8E77278"
+			tasks: [{
+				id: "1526AE91DAA67649"
+				type: "item"
+				item: "powah:reactor_starter"
+			}]
+		}
+		{
+			title: "Energizing"
+			x: 0.0d
+			y: -6.5d
+			dependencies: ["49A884208EA3D3E8"]
+			id: "0185A4B704A067A6"
+			tasks: [
+				{
+					id: "0109D3747687E298"
+					type: "item"
+					item: "powah:energizing_rod_starter"
+				}
+				{
+					id: "2FFE126D06601CBE"
+					type: "item"
+					item: "powah:energizing_orb"
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: -6.5d
+			dependencies: ["20BAA0B5E7247B8C"]
+			id: "540F55CB3D3CC06E"
+			tasks: [{
+				id: "78E9179E101DF419"
+				type: "item"
+				item: "createaddition:electric_motor"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -6.5d
+			dependencies: ["20BAA0B5E7247B8C"]
+			id: "45E6324C397565A8"
+			tasks: [{
+				id: "356EEEA200855DA5"
+				type: "item"
+				item: "createaddition:alternator"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -8.5d
+			dependencies: ["0185A4B704A067A6"]
+			id: "20BAA0B5E7247B8C"
+			tasks: [{
+				id: "5F756CA5EE7BB3E9"
+				type: "item"
+				item: "powah:steel_energized"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -4.5d
+			dependencies: ["0185A4B704A067A6"]
+			id: "51D380921DE4060D"
+			tasks: [{
+				id: "655BAA84FD479ABA"
+				type: "item"
+				item: "powah:ender_core"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -4.5d
+			dependencies: ["51D380921DE4060D"]
+			id: "23708BA66F6C631A"
+			tasks: [{
+				id: "5D3A98AA15DFED7F"
+				type: "item"
+				item: "powah:ender_cell_starter"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -6.5d
+			dependencies: ["23708BA66F6C631A"]
+			id: "61EB57A349256428"
+			tasks: [{
+				id: "6CAE34348E699C86"
+				type: "item"
+				item: "powah:ender_gate_starter"
+			}]
+		}
+		{
+			title: "Meth Crystals?"
+			x: -1.0d
+			y: -5.5d
+			dependencies: ["0185A4B704A067A6"]
+			id: "0BC16613520D7383"
+			tasks: [
+				{
+					id: "6CD189EA00F960B9"
+					type: "item"
+					item: "powah:crystal_blazing"
+				}
+				{
+					id: "32998C50B828E95A"
+					type: "item"
+					item: "powah:crystal_niotic"
+				}
+				{
+					id: "13EEFEC61658C39F"
+					type: "item"
+					item: "powah:crystal_spirited"
+				}
+				{
+					id: "070EDDE13AC0375C"
+					type: "item"
+					item: "powah:crystal_nitro"
+				}
+			]
+		}
+		{
+			x: -4.0d
+			y: -4.5d
+			dependencies: ["49A884208EA3D3E8"]
+			invisible: true
+			id: "641B9C93762903CC"
+			tasks: [{
+				id: "28F9FEB468C4329D"
+				type: "item"
+				item: "powah:thermo_generator_starter"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -4.5d
+			dependencies: ["49A884208EA3D3E8"]
+			hide: false
+			invisible: true
+			id: "079B293BB381B321"
+			tasks: [{
+				id: "2623C0507BEDF00B"
+				type: "item"
+				item: "powah:magmator_starter"
+			}]
+		}
+		{
+			x: -8.0d
+			y: -4.5d
+			dependencies: ["49A884208EA3D3E8"]
+			hide: false
+			invisible: true
+			id: "172A31C44B7BF83A"
+			tasks: [{
+				id: "4C98665B84C1E594"
+				type: "item"
+				item: "powah:furnator_starter"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -2.5d
+			dependencies: ["49A884208EA3D3E8"]
+			id: "6D594AC84D80C0E6"
+			tasks: [{
+				id: "11DFF3F5DEE44C44"
+				type: "item"
+				item: "powah:energy_discharger_starter"
+			}]
+		}
+		{
+			x: 6.5d
+			y: -2.5d
+			dependencies: ["6D594AC84D80C0E6"]
+			id: "19E46343AD51E4D3"
+			tasks: [{
+				id: "64CD6075798EC6B6"
+				type: "item"
+				item: "powah:energy_hopper_starter"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -2.5d
+			dependencies: ["19E46343AD51E4D3"]
+			id: "7D27CC45F4471102"
+			tasks: [{
+				id: "0826E90971B816AB"
+				type: "item"
+				item: "powah:player_transmitter_starter"
+			}]
+		}
+		{
+			icon: {
+				id: "ad_astra:tier_1_rocket"
+				Count: 1b
+				tag: {
+					BotariumData: { }
+				}
+			}
+			x: -3.0d
+			y: -5.5d
+			dependencies: ["0BC16613520D7383"]
+			id: "1388766365FD70C7"
+			tasks: [{
+				id: "50252E33A14D8363"
+				type: "checkmark"
+				title: "Into SPACE"
+			}]
+			rewards: [{
+				id: "48B155E0C61C9F71"
+				type: "gamestage"
+				icon: {
+					id: "ad_astra:tier_1_rocket"
+					Count: 1b
+					tag: {
+						BotariumData: { }
+					}
+				}
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "Into SPACE"
+			}]
+		}
+	]
 	quest_links: [ ]
 }

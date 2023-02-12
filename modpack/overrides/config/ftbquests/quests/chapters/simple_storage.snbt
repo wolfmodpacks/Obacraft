@@ -1,0 +1,199 @@
+{
+	id: "16F8E097A4FA25F9"
+	group: "75986D46F3A67E2C"
+	order_index: 1
+	filename: "simple_storage"
+	title: "Simple Storage"
+	icon: "toms_storage:ts.adv_wireless_terminal"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			shape: "diamond"
+			size: 2.0d
+			invisible: true
+			id: "5C06CF4591DC1C4E"
+			tasks: [{
+				id: "7F7F33B2A2436E53"
+				type: "gamestage"
+				icon: "toms_storage:ts.inventory_connector"
+				stage: "More Storage"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.0d
+			dependencies: ["5C06CF4591DC1C4E"]
+			id: "3F0146E2DB8A06B8"
+			tasks: [{
+				id: "4EB3272BBC6D0377"
+				type: "item"
+				item: "toms_storage:ts.inventory_connector"
+			}]
+			rewards: [{
+				id: "54EF5799FB2D4421"
+				type: "item"
+				item: "expandedstorage:iron_chest"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -2.0d
+			dependencies: ["3F0146E2DB8A06B8"]
+			id: "73DA4BA33344B4BE"
+			tasks: [{
+				id: "3AF914E7973BDA9C"
+				type: "item"
+				item: "toms_storage:ts.storage_terminal"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -4.0d
+			dependencies: ["3F0146E2DB8A06B8"]
+			id: "51AAC93A46934C9D"
+			tasks: [{
+				id: "3DE5AD9F58A501D3"
+				type: "item"
+				item: "toms_storage:ts.inventory_cable"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -4.0d
+			dependencies: ["3F0146E2DB8A06B8"]
+			id: "59ED8514735ECA43"
+			tasks: [{
+				id: "74E140E37C62303D"
+				type: "item"
+				item: "toms_storage:ts.trim"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -2.0d
+			dependencies: ["3F0146E2DB8A06B8"]
+			id: "0758FC1EB9ADD97A"
+			tasks: [{
+				id: "540DA28D72AA5337"
+				type: "item"
+				item: "toms_storage:ts.inventory_proxy"
+			}]
+		}
+		{
+			x: 6.5d
+			y: -3.0d
+			dependencies: ["73DA4BA33344B4BE"]
+			id: "73E8E1694266C827"
+			tasks: [{
+				id: "6782AC7206FEA740"
+				type: "item"
+				item: "toms_storage:ts.crafting_terminal"
+			}]
+		}
+		{
+			x: 6.5d
+			y: -5.0d
+			dependencies: ["51AAC93A46934C9D"]
+			id: "48814A2780F8F6B3"
+			tasks: [{
+				id: "1E7CE4073DFD8F25"
+				type: "item"
+				item: "toms_storage:ts.inventory_cable_connector"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -6.0d
+			dependencies: ["51AAC93A46934C9D"]
+			id: "1F4AF897F1CF41B0"
+			tasks: [{
+				id: "2088B2EB9260FD59"
+				type: "item"
+				item: "toms_storage:ts.inventory_hopper_basic"
+			}]
+		}
+		{
+			x: 6.5d
+			y: -7.0d
+			dependencies: ["1F4AF897F1CF41B0"]
+			id: "6891F31B039DB900"
+			tasks: [{
+				id: "29FCCC5879893CA6"
+				type: "item"
+				item: "toms_storage:ts.level_emitter"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -4.0d
+			dependencies: ["73E8E1694266C827"]
+			can_repeat: true
+			id: "0B2BAB15B01057D9"
+			tasks: [{
+				id: "2C01DEB46A158431"
+				type: "item"
+				item: "toms_storage:ts.wireless_terminal"
+			}]
+		}
+		{
+			x: 8.5d
+			y: -6.0d
+			dependencies: ["0B2BAB15B01057D9"]
+			id: "7EE38372C61F5DB6"
+			tasks: [{
+				id: "62EA8E856877D30B"
+				type: "item"
+				item: "toms_storage:ts.adv_wireless_terminal"
+			}]
+		}
+		{
+			icon: "ae2:controller"
+			x: 8.5d
+			y: -8.0d
+			dependencies: [
+				"7EE38372C61F5DB6"
+				"6891F31B039DB900"
+				"48814A2780F8F6B3"
+			]
+			invisible: true
+			id: "48332D5CF26DD919"
+			tasks: [{
+				id: "0016E412DE59B4A5"
+				type: "checkmark"
+				title: "More NETWORKING"
+			}]
+			rewards: [{
+				id: "370B5EF623F371FD"
+				type: "gamestage"
+				icon: "ae2:controller"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "More Advance Storage System?"
+			}]
+		}
+		{
+			icon: "expandedstorage:netherite_chest_minecart"
+			x: 2.0d
+			y: -4.0d
+			dependencies: ["3F0146E2DB8A06B8"]
+			id: "4093B8F5B2779F10"
+			tasks: [{
+				id: "0F27CDD452735EF3"
+				type: "checkmark"
+				title: "Good JOB"
+			}]
+			rewards: [{
+				id: "133C465563C4E285"
+				type: "gamestage"
+				icon: "expandedstorage:netherite_chest_minecart"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "MORE CHEST!!"
+			}]
+		}
+	]
+	quest_links: [ ]
+}

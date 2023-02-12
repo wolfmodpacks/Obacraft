@@ -1,21 +1,136 @@
 {
 	id: "3B99E9397530EF72"
 	group: "4FB9660C08C751B9"
-	order_index: 1
+	order_index: 3
 	filename: "bounties"
 	title: "Bounties"
 	icon: "minecraft:creeper_head"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		x: 0.0d
-		y: 0.0d
-		id: "0DBA0B0CF1585E55"
-		tasks: [{
-			id: "7EB488DDD5EA41CE"
-			type: "checkmark"
-			title: "Bounty Board"
-		}]
-	}]
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			invisible: true
+			id: "0DBA0B0CF1585E55"
+			tasks: [{
+				id: "68ECCFF9CE46120D"
+				type: "advancement"
+				icon: "spectrum:witch_head"
+				advancement: "minecraft:adventure/kill_a_mob"
+				criterion: ""
+			}]
+		}
+		{
+			x: -1.5d
+			y: 3.0d
+			dependencies: ["0DBA0B0CF1585E55"]
+			id: "4056111B24CD89B5"
+			tasks: [{
+				id: "59A6D93DC9084D5D"
+				type: "kill"
+				icon: "minecraft:zombie_head"
+				entity: "minecraft:zombie"
+				value: 10L
+			}]
+		}
+		{
+			x: 1.5d
+			y: 3.0d
+			dependencies: ["0DBA0B0CF1585E55"]
+			id: "3A3C51553068825B"
+			tasks: [{
+				id: "546D29FAB92783CF"
+				type: "kill"
+				icon: "minecraft:skeleton_skull"
+				entity: "minecraft:skeleton"
+				value: 10L
+			}]
+		}
+		{
+			x: 0.0d
+			y: 3.0d
+			dependencies: ["0DBA0B0CF1585E55"]
+			id: "646F8DFFBA5B534C"
+			tasks: [{
+				id: "0A8D4B68E83F0187"
+				type: "kill"
+				icon: "spectrum:enderman_head"
+				entity: "minecraft:enderman"
+				value: 10L
+			}]
+		}
+		{
+			x: -3.0d
+			y: 3.0d
+			dependencies: ["0DBA0B0CF1585E55"]
+			id: "2B9A54D708E652BB"
+			tasks: [{
+				id: "6D97178569618A81"
+				type: "kill"
+				icon: "minecraft:creeper_head"
+				entity: "minecraft:creeper"
+				value: 10L
+			}]
+		}
+		{
+			x: 3.0d
+			y: 3.0d
+			dependencies: ["0DBA0B0CF1585E55"]
+			id: "4B2784ECD8EB079A"
+			tasks: [{
+				id: "5E4517AD160B6F8F"
+				type: "kill"
+				icon: "spectrum:spider_head"
+				entity: "minecraft:spider"
+				value: 10L
+			}]
+		}
+		{
+			x: 0.0d
+			y: -3.0d
+			dependencies: ["0DBA0B0CF1585E55"]
+			id: "03186C2CD6219064"
+			tasks: [{
+				id: "7BCB659FF9D0F0A6"
+				type: "kill"
+				icon: {
+					id: "arclight:angel_sword"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+				entity: "arclight:angel"
+				value: 1L
+			}]
+		}
+		{
+			x: 1.5d
+			y: -3.0d
+			dependencies: ["0DBA0B0CF1585E55"]
+			id: "626C62AAD62806D2"
+			tasks: [{
+				id: "4B091578AAF5AD98"
+				type: "kill"
+				icon: "minecraft:dragon_head"
+				entity: "minecraft:ender_dragon"
+				value: 1L
+			}]
+		}
+		{
+			x: -1.5d
+			y: -3.0d
+			dependencies: ["0DBA0B0CF1585E55"]
+			id: "437166D7D531F829"
+			tasks: [{
+				id: "5AAA25305B6D50A9"
+				type: "kill"
+				icon: "spectrum:wither_head"
+				entity: "minecraft:wither"
+				value: 1L
+			}]
+		}
+	]
 	quest_links: [ ]
 }

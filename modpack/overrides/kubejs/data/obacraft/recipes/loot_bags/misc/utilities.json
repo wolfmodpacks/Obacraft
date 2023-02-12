@@ -1,0 +1,9 @@
+{
+    "type": "lootbags:loot",
+    "name": "Utilities LootBag",
+    "color": "#b380ed",
+    "rarity": "COMMON",
+    "output": {
+        "table": "obacraft:loot_bags/utilities_loot" 
+    }
+}
