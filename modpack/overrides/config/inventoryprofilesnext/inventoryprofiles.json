@@ -1,5 +1,20 @@
 {
     "ModSettings": {
+        "highlight_foused_items": {
+            "value": false
+        },
+        "highlight_foused_items_foreground": false,
+        "enable_profiles": {
+            "value": false
+        },
+        "enable_lock_slots": {
+            "value": false
+        },
+        "enable_lock_slots_per_server": false,
+        "enable_auto_refill": {
+            "value": false
+        },
+        "enable_updates_check": false,
         "first_run": false
     },
     "GuiSettings": {
@@ -12,11 +27,26 @@
         "enable_profiles_ui": {
             "value": false
         },
+        "enable_profiles_announcement": false,
         "enable_inventory_buttons": {
             "value": false
         },
         "show_continuous_crafting_checkbox": {
             "value": false
-        }
+        },
+        "continuous_crafting_saved_value": false,
+        "show_regular_sort_button": {
+            "value": false
+        },
+        "show_sort_in_columns_button": {
+            "value": false
+        },
+        "show_sort_in_rows_button": {
+            "value": false
+        },
+        "show_move_all_button": {
+            "value": false
+        },
+        "show_button_tooltips": false
     }
 }
