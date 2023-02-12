@@ -7,15 +7,435 @@
 	icon: "bewitchment:book_of_shadows"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		x: 0.0d
-		y: 0.0d
-		id: "34E8B5ADE8249162"
-		tasks: [{
-			id: "62F6AC6A0C43EF16"
-			type: "item"
-			item: "bewitchment:book_of_shadows"
-		}]
-	}]
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			shape: "hexagon"
+			size: 1.4d
+			id: "34E8B5ADE8249162"
+			tasks: [{
+				id: "54C9AE3D42CF627A"
+				type: "gamestage"
+				title: "Magic Time"
+				icon: "bewitchment:hellish_bauble"
+				stage: "Magic time"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -3.0d
+			shape: "diamond"
+			dependencies: ["34E8B5ADE8249162"]
+			id: "6DC99BCB20DEC3DA"
+			tasks: [{
+				id: "0ECFA6F1AA7195AA"
+				type: "item"
+				item: {
+					id: "bewitchment:athame"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -5.0d
+			shape: "rsquare"
+			dependencies: ["6DC99BCB20DEC3DA"]
+			id: "6FD07398B9A77215"
+			tasks: [{
+				id: "235639C473F1238B"
+				type: "item"
+				item: "bewitchment:oak_bark"
+			}]
+		}
+		{
+			title: "Witch Altar"
+			x: 1.5d
+			y: -3.5d
+			dependencies: ["6FD07398B9A77215"]
+			id: "19CFA96ECB47C6F9"
+			tasks: [{
+				id: "14EFA6E448E0CB14"
+				type: "item"
+				item: {
+					id: "itemfilters:or"
+					Count: 1b
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "bewitchment:stone_witch_altar"
+							}
+							{
+								Count: 1b
+								id: "bewitchment:mossy_cobblestone_witch_altar"
+							}
+							{
+								Count: 1b
+								id: "bewitchment:prismarine_witch_altar"
+							}
+							{
+								Count: 1b
+								id: "bewitchment:nether_brick_witch_altar"
+							}
+							{
+								Count: 1b
+								id: "bewitchment:blackstone_witch_altar"
+							}
+							{
+								Count: 1b
+								id: "bewitchment:golden_witch_altar"
+							}
+							{
+								Count: 1b
+								id: "bewitchment:end_stone_witch_altar"
+							}
+							{
+								Count: 1b
+								id: "bewitchment:obsidian_witch_altar"
+							}
+							{
+								Count: 1b
+								id: "bewitchment:purpur_witch_altar"
+							}
+						]
+					}
+				}
+			}]
+		}
+		{
+			x: 1.5d
+			y: -6.5d
+			dependencies: ["6FD07398B9A77215"]
+			id: "4294A7A85B805C86"
+			tasks: [{
+				id: "4C8D79BFB07D4A1A"
+				type: "item"
+				item: "bewitchment:wood_ash"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -6.5d
+			dependencies: ["6FD07398B9A77215"]
+			id: "1EECA4A52F423FC3"
+			tasks: [{
+				id: "44FCDF0F9FF3CCF2"
+				type: "item"
+				item: "bewitchment:witch_cauldron"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -6.5d
+			dependencies: [
+				"4294A7A85B805C86"
+				"06CF65C8C2C946F8"
+			]
+			id: "09116E445301389A"
+			tasks: [{
+				id: "33143C2419634247"
+				type: "item"
+				item: {
+					id: "bewitchment:chalk"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 3.5d
+			y: -3.5d
+			dependencies: ["19CFA96ECB47C6F9"]
+			id: "06CF65C8C2C946F8"
+			tasks: [{
+				id: "6C570F10CAB53DD1"
+				type: "item"
+				item: "bewitchment:crystal_ball"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -8.5d
+			dependencies: ["09116E445301389A"]
+			id: "2C8F297653611172"
+			tasks: [{
+				id: "129E1393B88BDE9C"
+				type: "item"
+				item: {
+					id: "bewitchment:demonic_contract"
+					Count: 1b
+					tag: {
+						Contract: "bewitchment:pestilence"
+						Duration: 168000
+					}
+				}
+			}]
+		}
+		{
+			x: 5.5d
+			y: -6.5d
+			dependencies: ["09116E445301389A"]
+			id: "01B55A12E5382BEA"
+			tasks: [{
+				id: "56A07F0BE6C31B64"
+				type: "item"
+				item: "bewitchment:demon_heart"
+			}]
+		}
+		{
+			x: 5.5d
+			y: -8.5d
+			dependencies: ["01B55A12E5382BEA"]
+			id: "7492369EE2D571C2"
+			tasks: [
+				{
+					id: "4FFD401230331877"
+					type: "item"
+					item: "bewitchment:juniper_broom"
+				}
+				{
+					id: "4FC1C833FB04099E"
+					type: "item"
+					item: "bewitchment:cypress_broom"
+				}
+				{
+					id: "2679D4D2AD776383"
+					type: "item"
+					item: "bewitchment:elder_broom"
+				}
+				{
+					id: "04EC23ACD5C804A5"
+					type: "item"
+					item: "bewitchment:dragons_blood_broom"
+				}
+				{
+					id: "5CF1F31A2851B6BC"
+					type: "item"
+					item: "bwplus:yew_broom"
+				}
+			]
+		}
+		{
+			x: 5.0d
+			y: -5.0d
+			dependencies: ["09116E445301389A"]
+			id: "6420A4E8C895DE45"
+			tasks: [{
+				id: "575A8595AF957AA1"
+				type: "item"
+				item: "bewitchment:demon_horn"
+			}]
+		}
+		{
+			x: 5.0d
+			y: -3.5d
+			dependencies: ["6420A4E8C895DE45"]
+			id: "1F54D38A2EC3DCA2"
+			tasks: [{
+				id: "7F6E6B78807E03DF"
+				type: "item"
+				item: {
+					id: "bewitchment:scepter"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 6.0d
+			y: -4.0d
+			dependencies: ["6420A4E8C895DE45"]
+			id: "61F15FB11D8006EB"
+			tasks: [{
+				id: "6FC2AD07FD681DBB"
+				type: "item"
+				item: {
+					id: "bewitchment:caduceus"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 6.5d
+			y: -5.0d
+			dependencies: ["6420A4E8C895DE45"]
+			id: "334BB02131FB4F11"
+			tasks: [{
+				id: "33D162E33C883BC9"
+				type: "item"
+				item: {
+					id: "bewitchment:horned_spear"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -8.5d
+			dependencies: ["1EECA4A52F423FC3"]
+			id: "3A3FF70E0281101D"
+			tasks: [{
+				id: "783D3ED2F94791DA"
+				type: "item"
+				item: "bewitchment:earth_ichor"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -8.0d
+			dependencies: ["1EECA4A52F423FC3"]
+			id: "0447D957604E65B6"
+			tasks: [{
+				id: "6B28C7454C493176"
+				type: "item"
+				item: "bewitchment:grim_elixir"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -6.5d
+			dependencies: ["1EECA4A52F423FC3"]
+			id: "1A6FBC218EA1D86D"
+			tasks: [{
+				id: "089B5FC4B9D36040"
+				type: "item"
+				item: "bewitchment:fiery_serum"
+			}]
+		}
+		{
+			x: -3.0d
+			y: -5.0d
+			dependencies: ["1EECA4A52F423FC3"]
+			id: "1ACB1250475D2BB3"
+			tasks: [{
+				id: "468789210D3D956F"
+				type: "item"
+				item: "bewitchment:aqua_cerate"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -4.5d
+			dependencies: ["1EECA4A52F423FC3"]
+			id: "76C468DB332D95B1"
+			tasks: [{
+				id: "3D9C09CF28D490F7"
+				type: "item"
+				item: "bewitchment:cleansing_balm"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -8.0d
+			dependencies: ["1EECA4A52F423FC3"]
+			id: "4BDB92950DEF12BC"
+			tasks: [{
+				id: "70266C2953F74C36"
+				type: "item"
+				item: "bewitchment:heaven_extract"
+			}]
+		}
+		{
+			x: 7.0d
+			y: -6.5d
+			dependencies: ["6420A4E8C895DE45"]
+			id: "4791B219D8E6E708"
+			tasks: [{
+				id: "0F3230FF5199B4C1"
+				type: "item"
+				item: {
+					id: "bewitchment:harbinger"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			icon: "haema:empty_vampire_blood_injector"
+			x: 9.0d
+			y: -6.5d
+			dependencies: ["4791B219D8E6E708"]
+			id: "7C50AE91D0F9B19C"
+			tasks: [{
+				id: "065DBB6C509EABD2"
+				type: "checkmark"
+				title: "Deeper"
+			}]
+			rewards: [{
+				id: "17E1E48ECF3EC5D4"
+				type: "gamestage"
+				icon: "haema:vampire_blood"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "Become King Vamp"
+			}]
+		}
+		{
+			title: "Some plants"
+			x: -1.5d
+			y: -3.0d
+			dependencies: ["6DC99BCB20DEC3DA"]
+			id: "190816ACC6934262"
+			tasks: [
+				{
+					id: "44DC1016DA50D2B0"
+					type: "item"
+					item: "bewitchment:mandrake_root"
+				}
+				{
+					id: "60C5C177B76AA316"
+					type: "item"
+					item: "bewitchment:aconite"
+				}
+				{
+					id: "78C10279966B7C83"
+					type: "item"
+					item: "bewitchment:belladonna"
+				}
+				{
+					id: "4DB3B78C602DA05D"
+					type: "item"
+					item: "bewitchment:garlic"
+				}
+			]
+		}
+		{
+			icon: "botania:light_blue_mystical_flower"
+			x: -3.0d
+			y: -3.0d
+			dependencies: ["190816ACC6934262"]
+			id: "7BD17ED79ED9D26A"
+			tasks: [{
+				id: "2AD89DD6CD88ADE8"
+				type: "checkmark"
+				title: "Nature pls"
+			}]
+			rewards: [{
+				id: "5135F2AE96947898"
+				type: "gamestage"
+				icon: "botania:black_shiny_flower"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "Welcome to nature"
+			}]
+		}
+	]
 	quest_links: [ ]
 }

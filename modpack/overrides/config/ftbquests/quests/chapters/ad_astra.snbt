@@ -13,23 +13,578 @@
 	}
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		x: 0.0d
-		y: 0.0d
-		invisible: true
-		id: "598EFB969B6EE8D7"
-		tasks: [{
-			id: "65A17B64D5DDBAFA"
-			type: "gamestage"
-			icon: {
-				id: "ad_astra:tier_1_rocket"
-				Count: 1b
-				tag: {
-					BotariumData: { }
+	quests: [
+		{
+			icon: "ad_astra:white_flag"
+			x: 0.0d
+			y: 0.0d
+			invisible: true
+			id: "598EFB969B6EE8D7"
+			tasks: [{
+				id: "65A17B64D5DDBAFA"
+				type: "gamestage"
+				icon: {
+					id: "ad_astra:tier_1_rocket"
+					Count: 1b
+					tag: {
+						BotariumData: { }
+					}
 				}
-			}
-			stage: "Into SPACE"
-		}]
-	}]
+				stage: "Into SPACE"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -2.0d
+			dependencies: ["598EFB969B6EE8D7"]
+			id: "7B894F836051E9E4"
+			tasks: [{
+				id: "7A7DDB8DE5F17F68"
+				type: "item"
+				item: "ad_astra:fuel_refinery"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.0d
+			dependencies: ["598EFB969B6EE8D7"]
+			id: "6B70DC5DBDE19A70"
+			tasks: [{
+				id: "123CA34892049A3B"
+				type: "item"
+				item: "ad_astra:oxygen_loader"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -2.0d
+			dependencies: ["598EFB969B6EE8D7"]
+			id: "5631EB76CBE623AB"
+			tasks: [{
+				id: "595E063940A3D561"
+				type: "item"
+				item: "ad_astra:nasa_workbench"
+			}]
+		}
+		{
+			title: "The damn Space Suit"
+			x: 0.0d
+			y: -4.5d
+			dependencies: [
+				"6B70DC5DBDE19A70"
+				"7B894F836051E9E4"
+				"5631EB76CBE623AB"
+			]
+			id: "1EF339B396DFD769"
+			tasks: [
+				{
+					id: "2FBBCD820F3BA1B1"
+					type: "item"
+					item: {
+						id: "ad_astra:space_helmet"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7C220A33215388DA"
+					type: "item"
+					item: {
+						id: "ad_astra:space_suit"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5B83966321CA4C83"
+					type: "item"
+					item: {
+						id: "ad_astra:space_pants"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "5790ECB7049F10C6"
+					type: "item"
+					item: {
+						id: "ad_astra:space_boots"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 2.0d
+			y: -4.5d
+			dependencies: [
+				"1EF339B396DFD769"
+				"5631EB76CBE623AB"
+			]
+			id: "65B3B1F8545DB361"
+			tasks: [{
+				id: "5DCEAA1FC6284BD7"
+				type: "item"
+				item: {
+					id: "ad_astra:tier_1_rocket"
+					Count: 1b
+					tag: {
+						BotariumData: { }
+					}
+				}
+			}]
+		}
+		{
+			icon: "ad_astra:moon_globe"
+			x: 0.0d
+			y: -7.5d
+			dependencies: [
+				"1EF339B396DFD769"
+				"65B3B1F8545DB361"
+			]
+			size: 1.4d
+			id: "4B121B2F049D48F2"
+			tasks: [{
+				id: "20F89FD7DAC0C9D5"
+				type: "dimension"
+				title: "To the Moon"
+				icon: "ad_astra:moon_globe"
+				dimension: "ad_astra:moon"
+			}]
+			rewards: [{
+				id: "47760B0496C5DDA8"
+				type: "gamestage"
+				title: "Access to more Energy?"
+				icon: "powah:thermo_generator_starter"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "Thermo Energy"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -6.0d
+			dependencies: ["4B121B2F049D48F2"]
+			invisible: true
+			id: "7B39AEE31C4B4D43"
+			tasks: [{
+				id: "399BC6D912B9F2C3"
+				type: "item"
+				item: "ad_astra:ice_shard"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -9.5d
+			dependencies: ["4B121B2F049D48F2"]
+			id: "79D362EC6BAFD3B2"
+			tasks: [{
+				id: "09589259890A6745"
+				type: "item"
+				item: "ad_astra:desh_ingot"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -9.5d
+			dependencies: ["79D362EC6BAFD3B2"]
+			id: "2A089216799A944A"
+			tasks: [{
+				id: "345652A1563D92FB"
+				type: "item"
+				item: "ad_astra:oxygen_distributor"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -7.5d
+			dependencies: ["2A089216799A944A"]
+			id: "1EE29C2F88ED7715"
+			tasks: [
+				{
+					id: "04CCCE11A1F186CD"
+					type: "item"
+					item: "ad_astra:solar_panel"
+				}
+				{
+					id: "71F8D5C33EE21A90"
+					type: "item"
+					item: "ad_astra:water_pump"
+				}
+			]
+		}
+		{
+			x: -2.0d
+			y: -9.5d
+			dependencies: ["79D362EC6BAFD3B2"]
+			id: "2D9C20177BA40368"
+			tasks: [{
+				id: "4DEAAA01179315A9"
+				type: "item"
+				item: {
+					id: "ad_astra:tier_1_rover"
+					Count: 1b
+					tag: {
+						BotariumData: { }
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: -12.0d
+			dependencies: ["79D362EC6BAFD3B2"]
+			id: "0F4E65E95DA09BA5"
+			tasks: [{
+				id: "336701C9BA9F3CC1"
+				type: "item"
+				item: {
+					id: "ad_astra:tier_2_rocket"
+					Count: 1b
+					tag: {
+						BotariumData: { }
+					}
+				}
+			}]
+		}
+		{
+			x: -1.5d
+			y: -11.0d
+			dependencies: ["79D362EC6BAFD3B2"]
+			id: "30ADFACD65CFD5EE"
+			tasks: [{
+				id: "46D3A21CA0CFF05B"
+				type: "item"
+				item: "ad_astra:cheese"
+			}]
+		}
+		{
+			x: 1.5d
+			y: -11.0d
+			dependencies: ["79D362EC6BAFD3B2"]
+			id: "2CDC045E79429B0A"
+			tasks: [{
+				id: "13A1E135C2B587A8"
+				type: "item"
+				item: "ad_astra:desh_cable"
+			}]
+		}
+		{
+			x: -1.5d
+			y: -8.0d
+			dependencies: ["79D362EC6BAFD3B2"]
+			id: "08F0CD6B76A458F2"
+			tasks: [{
+				id: "35094C4AF8255EA9"
+				type: "item"
+				item: "ad_astra:desh_fluid_pipe"
+			}]
+		}
+		{
+			title: "We beat SpaceX"
+			icon: "ad_astra:mars_globe"
+			x: 0.0d
+			y: -15.0d
+			dependencies: ["0F4E65E95DA09BA5"]
+			size: 1.3d
+			id: "484A35FE91984741"
+			tasks: [{
+				id: "30C7D3374E25D546"
+				type: "dimension"
+				icon: "ad_astra:mars_globe"
+				dimension: "ad_astra:mars"
+			}]
+			rewards: [{
+				id: "266DD1227AF2888C"
+				type: "gamestage"
+				title: "The Furnator?"
+				icon: "powah:furnator_nitro"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "Unlock Furnator Quests"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -17.5d
+			dependencies: ["484A35FE91984741"]
+			id: "6AD92BCDBBAA9B54"
+			tasks: [{
+				id: "4DC67BF8E6953387"
+				type: "item"
+				item: "ad_astra:ostrum_ingot"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -19.5d
+			dependencies: [
+				"6C7508A2551D5C12"
+				"698658B11F41A483"
+				"6AD92BCDBBAA9B54"
+			]
+			id: "1C954F7A15AC2627"
+			tasks: [{
+				id: "02404ED134488E9D"
+				type: "item"
+				item: {
+					id: "ad_astra:tier_3_rocket"
+					Count: 1b
+					tag: {
+						BotariumData: { }
+					}
+				}
+			}]
+		}
+		{
+			title: "Netherite Space Suit?"
+			x: -2.0d
+			y: -17.5d
+			dependencies: ["6AD92BCDBBAA9B54"]
+			id: "6C7508A2551D5C12"
+			tasks: [
+				{
+					id: "086BFD8100ADCE54"
+					type: "item"
+					item: {
+						id: "ad_astra:netherite_space_helmet"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "79CB50B00A51FE6C"
+					type: "item"
+					item: {
+						id: "ad_astra:netherite_space_suit"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "69E0A8CED3DC5AA6"
+					type: "item"
+					item: {
+						id: "ad_astra:netherite_space_pants"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1C68D22AC75533DB"
+					type: "item"
+					item: {
+						id: "ad_astra:netherite_space_boots"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: -1.5d
+			y: -16.0d
+			dependencies: ["6AD92BCDBBAA9B54"]
+			id: "545137616B43AD7B"
+			tasks: [{
+				id: "2E9A07D4D6DA6C6D"
+				type: "item"
+				item: "ad_astra:oxygen_sensor"
+			}]
+		}
+		{
+			title: "The Cryos Brothers"
+			x: 2.0d
+			y: -17.5d
+			dependencies: ["6AD92BCDBBAA9B54"]
+			id: "698658B11F41A483"
+			tasks: [
+				{
+					id: "088B6B9098A0F8DE"
+					type: "item"
+					item: "ad_astra:cryo_freezer"
+				}
+				{
+					id: "5014FB8042D68E3A"
+					type: "item"
+					item: "ad_astra:cryo_fuel_bucket"
+				}
+			]
+		}
+		{
+			x: 1.5d
+			y: -16.0d
+			dependencies: ["6AD92BCDBBAA9B54"]
+			id: "2BCFE92C7F4C3E4A"
+			tasks: [{
+				id: "19A17CCFF5471E42"
+				type: "item"
+				item: "ad_astra:energizer"
+			}]
+		}
+		{
+			title: "Venus feels hot"
+			icon: "ad_astra:venus_globe"
+			x: 0.0d
+			y: -22.5d
+			dependencies: ["1C954F7A15AC2627"]
+			size: 1.4d
+			id: "0CE00397B7DE04A0"
+			tasks: [{
+				id: "16D52DADCE31D9A0"
+				type: "dimension"
+				title: "Venus time"
+				icon: "ad_astra:venus_globe"
+				dimension: "ad_astra:venus"
+			}]
+			rewards: [{
+				id: "6756368AF29F95AA"
+				type: "gamestage"
+				title: "Consume the Magma"
+				icon: "powah:magmator_nitro"
+				auto: "invisible"
+				ignore_reward_blocking: true
+				stage: "Access the Magmator"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -26.0d
+			dependencies: ["0CE00397B7DE04A0"]
+			id: "69BCB33568ACD4E5"
+			tasks: [{
+				id: "14DBC182E17F31A3"
+				type: "item"
+				item: "ad_astra:calorite_ingot"
+			}]
+		}
+		{
+			title: "Jet Suit Baby"
+			x: 0.0d
+			y: -28.5d
+			dependencies: ["69BCB33568ACD4E5"]
+			id: "274AD623216D39D9"
+			tasks: [
+				{
+					id: "08B7B99EE1C3935C"
+					type: "item"
+					item: {
+						id: "ad_astra:jet_suit_helmet"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "20C610926DB1AE97"
+					type: "item"
+					item: {
+						id: "ad_astra:jet_suit"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2A00E4E484A04BD5"
+					type: "item"
+					item: {
+						id: "ad_astra:jet_suit_pants"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "73389D032C9B1829"
+					type: "item"
+					item: {
+						id: "ad_astra:jet_suit_boots"
+						Count: 1b
+						tag: {
+							BotariumData: { }
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 0.0d
+			y: -31.0d
+			dependencies: ["274AD623216D39D9"]
+			id: "507BAE374034F411"
+			tasks: [{
+				id: "1041F3DDC48D62EE"
+				type: "item"
+				item: {
+					id: "ad_astra:tier_4_rocket"
+					Count: 1b
+					tag: {
+						BotariumData: { }
+					}
+				}
+			}]
+		}
+		{
+			icon: "ad_astra:mercury_globe"
+			x: -2.0d
+			y: -32.5d
+			dependencies: ["507BAE374034F411"]
+			size: 1.4d
+			id: "00309A6155F5DF39"
+			tasks: [{
+				id: "6BDD1C285EECCECF"
+				type: "dimension"
+				title: "Mercury"
+				dimension: "ad_astra:mercury"
+			}]
+		}
+		{
+			icon: "ad_astra:glacio_globe"
+			x: 2.0d
+			y: -32.5d
+			dependencies: ["507BAE374034F411"]
+			size: 1.4d
+			id: "24A78FBD8BD22E22"
+			tasks: [{
+				id: "69433A83247806AE"
+				type: "dimension"
+				title: "Glacio"
+				dimension: "ad_astra:glacio"
+			}]
+		}
+	]
 	quest_links: [ ]
 }

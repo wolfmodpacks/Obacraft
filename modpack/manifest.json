@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Wolfie",
   "name": "Obacraft",
   "files": [
@@ -919,7 +919,7 @@
     },
     {
       "projectID": 398614,
-      "fileID": 4359785,
+      "fileID": 4393333,
       "required": true,
       "__meta": {
         "name": "Deep Mob Learning: Refabricated",
@@ -1428,6 +1428,14 @@
           306612,
           615134
         ]
+      }
+    },
+    {
+      "projectID": 442282,
+      "fileID": 3902725,
+      "required": true,
+      "__meta": {
+        "name": "Styled Player List"
       }
     },
     {
@@ -2224,6 +2232,22 @@
       }
     },
     {
+      "projectID": 552176,
+      "fileID": 3862141,
+      "required": true,
+      "__meta": {
+        "name": "Amplified Nether"
+      }
+    },
+    {
+      "projectID": 552542,
+      "fileID": 4379513,
+      "required": true,
+      "__meta": {
+        "name": "Very Many Players (Fabric)"
+      }
+    },
+    {
       "projectID": 552758,
       "fileID": 4263715,
       "required": true,
@@ -2605,7 +2629,7 @@
     },
     {
       "projectID": 615948,
-      "fileID": 4132193,
+      "fileID": 4392900,
       "required": true,
       "__meta": {
         "name": "TieredZ",

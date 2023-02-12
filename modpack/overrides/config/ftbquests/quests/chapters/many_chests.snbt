@@ -12,6 +12,7 @@
 			icon: "minecraft:trapped_chest"
 			x: 0.0d
 			y: 0.0d
+			invisible: true
 			id: "12B0C16F9BC8B0B5"
 			tasks: [{
 				id: "5E7D1C8CBE7DCC59"
@@ -23,6 +24,7 @@
 		{
 			x: -4.0d
 			y: 2.0d
+			dependencies: ["12B0C16F9BC8B0B5"]
 			id: "29E5C45E21AA790A"
 			tasks: [{
 				id: "352657D3C6DF4E47"
@@ -33,6 +35,7 @@
 		{
 			x: -4.0d
 			y: 3.5d
+			dependencies: ["29E5C45E21AA790A"]
 			id: "3B740B15E87240F4"
 			tasks: [{
 				id: "7E2E50719D9298F8"
@@ -43,6 +46,7 @@
 		{
 			x: -4.0d
 			y: 5.0d
+			dependencies: ["3B740B15E87240F4"]
 			id: "5FCACA5EAD500C1F"
 			tasks: [{
 				id: "1298859B11EC9BB6"
@@ -53,6 +57,7 @@
 		{
 			x: -4.0d
 			y: 6.5d
+			dependencies: ["5FCACA5EAD500C1F"]
 			id: "4D9E90F38008FAF3"
 			tasks: [{
 				id: "4C563BE2F8E1BA32"
@@ -63,6 +68,7 @@
 		{
 			x: -4.0d
 			y: 8.0d
+			dependencies: ["4D9E90F38008FAF3"]
 			id: "325419626C8D4E0B"
 			tasks: [{
 				id: "025BFC90ADE3B938"
@@ -73,6 +79,7 @@
 		{
 			x: -4.0d
 			y: 9.5d
+			dependencies: ["325419626C8D4E0B"]
 			id: "1ED6FE647B629793"
 			tasks: [{
 				id: "476A7B69BF22EFBB"
@@ -83,6 +90,7 @@
 		{
 			x: -2.0d
 			y: 2.0d
+			dependencies: ["12B0C16F9BC8B0B5"]
 			id: "4286C469CD27471F"
 			tasks: [{
 				id: "7AFE15C0A48A15BF"
@@ -93,6 +101,7 @@
 		{
 			x: -2.0d
 			y: 3.5d
+			dependencies: ["4286C469CD27471F"]
 			id: "17F496B7A54C82AB"
 			tasks: [{
 				id: "32CBD6DDD09B36F1"
@@ -103,6 +112,7 @@
 		{
 			x: -2.0d
 			y: 5.0d
+			dependencies: ["17F496B7A54C82AB"]
 			id: "67C97F156DFC4CBD"
 			tasks: [{
 				id: "436A857AE4AF6767"
@@ -113,6 +123,7 @@
 		{
 			x: -2.0d
 			y: 6.5d
+			dependencies: ["67C97F156DFC4CBD"]
 			id: "18CD449DBAA8DCA4"
 			tasks: [{
 				id: "18DC3FF9CDA12246"
@@ -123,6 +134,7 @@
 		{
 			x: -2.0d
 			y: 8.0d
+			dependencies: ["18CD449DBAA8DCA4"]
 			id: "657BE3D76D02B703"
 			tasks: [{
 				id: "19C76202D1CFD0EF"
@@ -133,6 +145,7 @@
 		{
 			x: 0.0d
 			y: 2.0d
+			dependencies: ["12B0C16F9BC8B0B5"]
 			id: "2E0E0BFDF0E6B56F"
 			tasks: [{
 				id: "2AEE3EFFED027000"
@@ -143,6 +156,7 @@
 		{
 			x: 0.0d
 			y: 3.5d
+			dependencies: ["2E0E0BFDF0E6B56F"]
 			id: "4F56724D089DEAE7"
 			tasks: [{
 				id: "0626FEACEECA9547"
@@ -153,6 +167,7 @@
 		{
 			x: 0.0d
 			y: 5.0d
+			dependencies: ["4F56724D089DEAE7"]
 			id: "7A0686A38C9E94C8"
 			tasks: [{
 				id: "3639C00E64CBA53B"
@@ -163,6 +178,7 @@
 		{
 			x: 0.0d
 			y: 6.5d
+			dependencies: ["7A0686A38C9E94C8"]
 			id: "7B4A16C5305989A7"
 			tasks: [{
 				id: "76FAE44263EAECFD"
@@ -173,6 +189,7 @@
 		{
 			x: 0.0d
 			y: 8.0d
+			dependencies: ["7B4A16C5305989A7"]
 			id: "758CC56914C7B49B"
 			tasks: [{
 				id: "2E5E7771532A8C56"
@@ -183,6 +200,7 @@
 		{
 			x: 0.0d
 			y: 9.5d
+			dependencies: ["758CC56914C7B49B"]
 			id: "2F1266B9E6E5375A"
 			tasks: [{
 				id: "4085EAC15F7E4DE1"
@@ -193,11 +211,93 @@
 		{
 			x: 0.0d
 			y: 11.0d
+			dependencies: ["2F1266B9E6E5375A"]
 			id: "6E939F3BB5DB8538"
 			tasks: [{
 				id: "4F7A2267A1350F96"
 				type: "item"
 				item: "dankstorage:dank_7"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 2.0d
+			dependencies: ["12B0C16F9BC8B0B5"]
+			id: "696657F1D92E1FD8"
+			tasks: [{
+				id: "71BD4E76B21A34AC"
+				type: "item"
+				item: "inmis:frayed_backpack"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 3.5d
+			dependencies: ["696657F1D92E1FD8"]
+			id: "1C713A2177258F9C"
+			tasks: [{
+				id: "1304B70992BB4AE8"
+				type: "item"
+				item: "inmis:plated_backpack"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 5.0d
+			dependencies: ["1C713A2177258F9C"]
+			id: "16CEC3F75B86E095"
+			tasks: [{
+				id: "19C96C81D985EB5C"
+				type: "item"
+				item: "inmis:gilded_backpack"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 6.5d
+			dependencies: ["16CEC3F75B86E095"]
+			id: "796E70E9827D0354"
+			tasks: [{
+				id: "368DA7257BB2160D"
+				type: "item"
+				item: "inmis:bejeweled_backpack"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 8.0d
+			dependencies: ["796E70E9827D0354"]
+			id: "2FCCD900CB5484B7"
+			tasks: [{
+				id: "6A702B9196AFED0D"
+				type: "item"
+				item: "inmis:withered_backpack"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 9.5d
+			dependencies: ["2FCCD900CB5484B7"]
+			id: "3597EB92E365B15F"
+			tasks: [{
+				id: "592A979EEAD1D19E"
+				type: "item"
+				item: "inmis:endless_backpack"
+			}]
+		}
+		{
+			x: 4.0d
+			y: 2.0d
+			dependencies: ["12B0C16F9BC8B0B5"]
+			id: "36987B182D95CCEE"
+			tasks: [{
+				id: "49373B9EE0E2AA5C"
+				type: "item"
+				item: {
+					id: "travelersbackpack:standard"
+					Count: 1b
+					tag: { }
+				}
 			}]
 		}
 	]

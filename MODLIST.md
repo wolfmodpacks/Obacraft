@@ -1,4 +1,4 @@
-# [Δ] ALL MODS (317)
+# [Δ] ALL MODS (320)
  └─ •↑ 'Dustrial Decor [Fabric] - https://www.curseforge.com/minecraft/mc-mods/dustrial-decor-fabric/files/3837296
  └─ •↑ Accelerated Decay - https://www.curseforge.com/minecraft/mc-mods/accelerated-decay/files/4139408
  └─ •↑ Ad Astra - https://www.curseforge.com/minecraft/mc-mods/ad-astra/files/4331884
@@ -11,11 +11,12 @@
  └─ •↑ Almost Unified - https://www.curseforge.com/minecraft/mc-mods/almost-unified/files/4375635
  └─ •↑ Alternate Current - https://www.curseforge.com/minecraft/mc-mods/alternate-current/files/3842540
  └─ •↑ Amecs (Fabric) - https://www.curseforge.com/minecraft/mc-mods/amecs/files/3819822
+ └─ •↑ Amplified Nether - https://www.curseforge.com/minecraft/mc-mods/amplified-nether/files/3862141
  └─ •↑ Another Furniture - https://www.curseforge.com/minecraft/mc-mods/another-furniture/files/4034011
  └─ •↑ AppleSkin - https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3927567
  └─ •↑ Applied Botanics Addon - https://www.curseforge.com/minecraft/mc-mods/applied-botanics-addon/files/4203088
  └─ •↑ Applied Energistics 2 - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/4293536
- └─ •↑ Applied Energistics 2 Wireless Terminals - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals/files/4333616        
+ └─ •↑ Applied Energistics 2 Wireless Terminals - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals/files/4333616
  └─ •↑ Architect's Palette [FABRIC] - https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric/files/3845046
  └─ •↑ Architectury API (Fabric/Forge) - https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/4147351
  └─ •↑ Architectury API (UNUSED) - https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/3780724
@@ -81,7 +82,7 @@
  └─ •↑ Croptosis - https://www.curseforge.com/minecraft/mc-mods/croptosis/files/3823457
  └─ •↑ Dank Storage Fabric - https://www.curseforge.com/minecraft/mc-mods/dank-storage-fabric/files/4077255
  └─ •↑ Dark Loading Screen - https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/files/3845449
- └─ •↑ Deep Mob Learning: Refabricated - https://www.curseforge.com/minecraft/mc-mods/deep-mob-learning-refabricated/files/4359785
+ └─ •↑ Deep Mob Learning: Refabricated - https://www.curseforge.com/minecraft/mc-mods/deep-mob-learning-refabricated/files/4393333
  └─ •↑ Deeper and Darker - https://www.curseforge.com/minecraft/mc-mods/deeperdarker/files/4166675
  └─ •↑ Diagonal Fences - https://www.curseforge.com/minecraft/mc-mods/diagonal-fences/files/4026714
  └─ •↑ DimensionalDoors - https://www.curseforge.com/minecraft/mc-mods/dimensionaldoors/files/4328511
@@ -113,7 +114,7 @@
  └─ •↑ FastAnim - https://www.curseforge.com/minecraft/mc-mods/fastanim/files/4291651
  └─ •↑ FerriteCore (Fabric) - https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/files/4117902
  └─ •↑ Fix Experience Bug (now with FABRIC and FORGE versions) - https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug/files/4365624
- └─ •↑ Forge Config API Port - https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric/files/4322560
+ └─ •↑ Forge Config API Port [Fabric] - https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric/files/4322560
  └─ •↑ GeckoLib - https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4181375
  └─ •↑ Haema - https://www.curseforge.com/minecraft/mc-mods/haema/files/4066643
  └─ •↑ Handcrafted - https://www.curseforge.com/minecraft/mc-mods/handcrafted/files/4282207
@@ -218,7 +219,7 @@
  └─ •↑ Prism [Fabric] - https://www.curseforge.com/minecraft/mc-mods/prism-fabric/files/4030091
  └─ •↑ Probably Chests - https://www.curseforge.com/minecraft/mc-mods/probably-chests/files/4020528
  └─ •↑ Projectile Damage Attribute [Fabric & Forge] - https://www.curseforge.com/minecraft/mc-mods/projectile-damage-attribute/files/4147216
- └─ •↑ Puzzles Lib - https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/4041205
+ └─ •↑ Puzzles Lib [Forge & Fabric] - https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/4041205
  └─ •↑ Quests Additions (Fabric) - https://www.curseforge.com/minecraft/mc-mods/quests-additions-fabric/files/4269984
  └─ •↑ Raised - https://www.curseforge.com/minecraft/mc-mods/raised/files/4084122
  └─ •↑ Reacharound - https://www.curseforge.com/minecraft/mc-mods/reacharound/files/4367171
@@ -264,6 +265,7 @@
  └─ •↑ Sria's Flowers - https://www.curseforge.com/minecraft/mc-mods/srias-flowers/files/4240559
  └─ •↑ Stoneholm, Underground Villages (Fabric) - https://www.curseforge.com/minecraft/mc-mods/stoneholm/files/3819692
  └─ •↑ Styled Chat - https://www.curseforge.com/minecraft/mc-mods/styled-chat/files/4062934
+ └─ •↑ Styled Player List - https://www.curseforge.com/minecraft/mc-mods/styled-player-list/files/3902725
  └─ •↑ TARDIS Refined - Forge/Fabric - https://www.curseforge.com/minecraft/mc-mods/tardis-refined/files/4284652
  └─ •↑ Tech Reborn - https://www.curseforge.com/minecraft/mc-mods/techreborn/files/4102770
  └─ •↑ Tempad - https://www.curseforge.com/minecraft/mc-mods/tempad/files/4373373
@@ -273,18 +275,19 @@
  └─ •↑ The Graveyard Biomes (FABRIC) - https://www.curseforge.com/minecraft/mc-mods/the-graveyard-biomes-fabric/files/4090409
  └─ •↑ The Twilight Forest - https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/4389094
  └─ •↑ This Rocks! - https://www.curseforge.com/minecraft/mc-mods/this-rocks/files/3837155
- └─ •↑ TieredZ - https://www.curseforge.com/minecraft/mc-mods/tieredz/files/4132193
+ └─ •↑ TieredZ - https://www.curseforge.com/minecraft/mc-mods/tieredz/files/4392900
  └─ •↑ Tiny Item Animations - https://www.curseforge.com/minecraft/mc-mods/tiny-item-animations/files/4333648
  └─ •↑ Tips - https://www.curseforge.com/minecraft/mc-mods/tips/files/4277193
  └─ •↑ Tom's Simple Storage Mod (Fabric) - https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric/files/4329300
  └─ •↑ Too Many Binds - https://www.curseforge.com/minecraft/mc-mods/too-many-binds/files/4362273
  └─ •↑ Tool Stats - https://www.curseforge.com/minecraft/mc-mods/tool-stats/files/3944167
- └─ •↑ Trading Post - https://www.curseforge.com/minecraft/mc-mods/trading-post/files/3945830
+ └─ •↑ Trading Post [Forge & Fabric] - https://www.curseforge.com/minecraft/mc-mods/trading-post/files/3945830
  └─ •↑ Transparent - https://www.curseforge.com/minecraft/mc-mods/transparent/files/4031059
  └─ •↑ TrashSlot (Fabric Edition) - https://www.curseforge.com/minecraft/mc-mods/trashslot-fabric-edition/files/3835114
  └─ •↑ Traveler's Backpack [Fabric] - https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric/files/4386248
  └─ •↑ Trinkets (Fabric) - https://www.curseforge.com/minecraft/mc-mods/trinkets/files/4343755
  └─ •↑ Universal Shops - https://www.curseforge.com/minecraft/mc-mods/universal-shops/files/4112528
+ └─ •↑ Very Many Players (Fabric) - https://www.curseforge.com/minecraft/mc-mods/vmp-fabric/files/4379513
  └─ •↑ Video Extension for FancyMenu [Fabric] - https://www.curseforge.com/minecraft/mc-mods/video-extension-for-fancymenu-fabric/files/3928273
  └─ •↑ VoidZ - https://www.curseforge.com/minecraft/mc-mods/voidz/files/3951132
  └─ •↑ WMITAF - https://www.curseforge.com/minecraft/mc-mods/wmitaf/files/4049590

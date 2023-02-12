@@ -7,18 +7,798 @@
 	icon: "techreborn:manual"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		x: 0.0d
-		y: 0.0d
-		shape: "hexagon"
-		invisible: true
-		id: "62984CE5CE9E0906"
-		tasks: [{
-			id: "2F11A4E30BB62711"
-			type: "gamestage"
-			icon: "techreborn:debug_tool"
-			stage: "More Machines?!?!"
-		}]
-	}]
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			shape: "hexagon"
+			size: 1.5d
+			invisible: true
+			id: "62984CE5CE9E0906"
+			tasks: [{
+				id: "2F11A4E30BB62711"
+				type: "gamestage"
+				icon: "techreborn:debug_tool"
+				stage: "More Machines?!?!"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 0.0d
+			dependencies: ["62984CE5CE9E0906"]
+			id: "5569D4CC89AF1C7F"
+			tasks: [{
+				id: "5BBF89D881BD7285"
+				type: "item"
+				item: {
+					id: "techreborn:treetap"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 5.0d
+			y: 0.0d
+			dependencies: ["5569D4CC89AF1C7F"]
+			id: "05C7C9AD44E13DCF"
+			tasks: [{
+				id: "72AB6DDAD6F57EFA"
+				type: "item"
+				item: "techreborn:sap"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 0.0d
+			dependencies: ["05C7C9AD44E13DCF"]
+			id: "3559B1B1CFAF97AE"
+			tasks: [{
+				id: "391E394EC7600DD8"
+				type: "item"
+				item: "techreborn:rubber"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 3.0d
+			dependencies: ["3559B1B1CFAF97AE"]
+			id: "20D9FB1CBCCED740"
+			tasks: [{
+				id: "18C9C035C6C2821A"
+				type: "item"
+				item: "techreborn:red_cell_battery"
+			}]
+		}
+		{
+			x: 1.5d
+			y: 2.5d
+			dependencies: ["62984CE5CE9E0906"]
+			id: "56C2D2FEE7CAB16D"
+			tasks: [{
+				id: "1D7D499E7D562D49"
+				type: "item"
+				item: "techreborn:iron_furnace"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 2.0d
+			dependencies: ["20D9FB1CBCCED740"]
+			id: "132A6E20D554863B"
+			tasks: [{
+				id: "4AC54DBDA9076130"
+				type: "item"
+				item: "techreborn:low_voltage_su"
+			}]
+		}
+		{
+			x: 8.0d
+			y: 2.0d
+			dependencies: ["20D9FB1CBCCED740"]
+			id: "60E7F6E201C2E783"
+			tasks: [{
+				id: "29ED5986232F8481"
+				type: "item"
+				item: "techreborn:electronic_circuit"
+			}]
+		}
+		{
+			x: 8.0d
+			y: 4.0d
+			dependencies: ["20D9FB1CBCCED740"]
+			id: "70A638D06F2BAAC0"
+			tasks: [{
+				id: "565719FBAEB29F57"
+				type: "item"
+				item: "techreborn:basic_drill"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 4.0d
+			dependencies: ["20D9FB1CBCCED740"]
+			id: "38188C0D6D7071FC"
+			tasks: [{
+				id: "0772F7D232366F2C"
+				type: "item"
+				item: "techreborn:basic_chainsaw"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 5.0d
+			dependencies: [
+				"20D9FB1CBCCED740"
+				"38188C0D6D7071FC"
+				"70A638D06F2BAAC0"
+			]
+			id: "17FAB4A6DBAD6DFE"
+			tasks: [{
+				id: "102F555F88E3DB9F"
+				type: "item"
+				item: "piercingpaxels:tr_basic_drack"
+			}]
+		}
+		{
+			x: 9.5d
+			y: 2.0d
+			dependencies: ["60E7F6E201C2E783"]
+			id: "023E244991CD68D0"
+			tasks: [{
+				id: "66BEB5550BC0BE83"
+				type: "item"
+				item: "techreborn:basic_machine_frame"
+			}]
+		}
+		{
+			x: 11.0d
+			y: 3.0d
+			dependencies: ["023E244991CD68D0"]
+			id: "219E7E384CC00952"
+			tasks: [{
+				id: "715086683B99F4B3"
+				type: "item"
+				item: "techreborn:solid_fuel_generator"
+			}]
+		}
+		{
+			title: "Basic Machinese"
+			x: 11.0d
+			y: 1.0d
+			dependencies: ["023E244991CD68D0"]
+			id: "51EF12544FE3121F"
+			tasks: [
+				{
+					id: "2C480DF850C4A015"
+					type: "item"
+					item: "techreborn:grinder"
+				}
+				{
+					id: "0B706EA4886785FD"
+					type: "item"
+					item: "techreborn:compressor"
+				}
+				{
+					id: "57F41459A35D23C1"
+					type: "item"
+					item: "techreborn:extractor"
+				}
+				{
+					id: "4389B7DF8705BBB5"
+					type: "item"
+					item: "techreborn:alloy_smelter"
+				}
+			]
+		}
+		{
+			title: "More power"
+			x: 11.0d
+			y: 5.0d
+			dependencies: ["219E7E384CC00952"]
+			id: "64B041902754DEBB"
+			tasks: [
+				{
+					id: "78588D6CEFE37B96"
+					type: "item"
+					item: "techreborn:wind_mill"
+				}
+				{
+					id: "0026C024EFEF8143"
+					type: "item"
+					item: "techreborn:water_mill"
+				}
+				{
+					id: "0874CA68A2B229BC"
+					type: "item"
+					item: "techreborn:semi_fluid_generator"
+				}
+				{
+					id: "0E7EDA1A59317F0A"
+					type: "item"
+					item: "techreborn:thermal_generator"
+				}
+				{
+					id: "5A7B5C05265AFD7D"
+					type: "item"
+					item: "techreborn:diesel_generator"
+				}
+			]
+		}
+		{
+			x: 13.0d
+			y: 3.0d
+			shape: "diamond"
+			dependencies: ["219E7E384CC00952"]
+			id: "6D351234A5B86A22"
+			tasks: [{
+				id: "743A6D47EEE9DD80"
+				type: "item"
+				item: "techreborn:basic_solar_panel"
+			}]
+		}
+		{
+			x: 13.0d
+			y: 1.0d
+			dependencies: ["51EF12544FE3121F"]
+			id: "4954549BB36FB696"
+			tasks: [{
+				id: "334E8F3493A3113C"
+				type: "item"
+				item: "techreborn:recycler"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 3.5d
+			shape: "diamond"
+			dependencies: ["6D351234A5B86A22"]
+			id: "417B15108A20F723"
+			tasks: [{
+				id: "69A523E7247E6E89"
+				type: "item"
+				item: "techreborn:advanced_solar_panel"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 3.0d
+			shape: "diamond"
+			dependencies: ["417B15108A20F723"]
+			id: "25F411A7B389C559"
+			tasks: [{
+				id: "69B96905AE46B4EC"
+				type: "item"
+				item: "techreborn:industrial_solar_panel"
+			}]
+		}
+		{
+			x: 13.5d
+			y: 2.5d
+			shape: "diamond"
+			dependencies: ["25F411A7B389C559"]
+			id: "7B5A6B9FBE5E4876"
+			tasks: [{
+				id: "470014ECBAE0A341"
+				type: "item"
+				item: "techreborn:ultimate_solar_panel"
+			}]
+		}
+		{
+			x: 14.5d
+			y: 1.0d
+			dependencies: ["4954549BB36FB696"]
+			id: "1A5C9FE9819FB728"
+			tasks: [{
+				id: "7AF70E07939FBFF9"
+				type: "item"
+				item: "techreborn:scrap"
+			}]
+		}
+		{
+			x: 16.0d
+			y: 1.0d
+			dependencies: ["1A5C9FE9819FB728"]
+			id: "38F7F3C34631985F"
+			tasks: [{
+				id: "51D45204B150EEEF"
+				type: "item"
+				item: "techreborn:scrap_box"
+			}]
+		}
+		{
+			x: 16.0d
+			y: -0.5d
+			dependencies: ["38F7F3C34631985F"]
+			id: "27D4B9BEF58AEEDA"
+			tasks: [{
+				id: "631EA6D12A6BA172"
+				type: "item"
+				item: "techreborn:scrapboxinator"
+			}]
+		}
+		{
+			x: 16.0d
+			y: 2.5d
+			dependencies: ["1A5C9FE9819FB728"]
+			id: "453BB373CB7DCB1C"
+			tasks: [{
+				id: "04AC1EFD6DADC445"
+				type: "item"
+				item: "techreborn:uu_matter"
+			}]
+		}
+		{
+			x: 14.0d
+			y: 2.0d
+			shape: "diamond"
+			dependencies: [
+				"7B5A6B9FBE5E4876"
+				"453BB373CB7DCB1C"
+			]
+			id: "36515ABC7A37F74C"
+			tasks: [{
+				id: "08D51B2CEDF149EB"
+				type: "item"
+				item: "techreborn:quantum_solar_panel"
+			}]
+		}
+		{
+			x: 12.5d
+			y: 4.5d
+			dependencies: ["219E7E384CC00952"]
+			id: "6B660DE85773B4C2"
+			tasks: [{
+				id: "0F4FDD42A2C82CB8"
+				type: "item"
+				item: "techreborn:lv_transformer"
+			}]
+		}
+		{
+			x: 14.5d
+			y: 4.5d
+			dependencies: ["6B660DE85773B4C2"]
+			id: "280343C41B1B4655"
+			tasks: [{
+				id: "40C83E256D142E37"
+				type: "item"
+				item: "techreborn:mv_transformer"
+			}]
+		}
+		{
+			x: 15.0d
+			y: 3.0d
+			dependencies: ["280343C41B1B4655"]
+			id: "0566834F51875362"
+			tasks: [{
+				id: "20056C00E23A7C5D"
+				type: "item"
+				item: "techreborn:hv_transformer"
+			}]
+		}
+		{
+			x: 16.0d
+			y: 4.5d
+			dependencies: ["280343C41B1B4655"]
+			id: "36EA9B36B274EF9C"
+			tasks: [
+				{
+					id: "6017506CA86C86DD"
+					type: "item"
+					item: "techreborn:lapotronic_su"
+				}
+				{
+					id: "4DEB55165F50D397"
+					type: "item"
+					item: "techreborn:lsu_storage"
+				}
+			]
+		}
+		{
+			x: 9.5d
+			y: 5.0d
+			dependencies: ["023E244991CD68D0"]
+			id: "4071B4CF551855BA"
+			tasks: [{
+				id: "6DB7A06DBC421213"
+				type: "item"
+				item: "techreborn:basic_machine_casing"
+			}]
+		}
+		{
+			x: 10.5d
+			y: 7.0d
+			dependencies: ["4071B4CF551855BA"]
+			id: "7A6AC8FD8FEF351D"
+			tasks: [{
+				id: "23E9F16650375608"
+				type: "item"
+				item: "techreborn:advanced_machine_frame"
+			}]
+		}
+		{
+			x: 12.5d
+			y: 7.0d
+			dependencies: ["7A6AC8FD8FEF351D"]
+			id: "5AC8F028F48ACA68"
+			tasks: [{
+				id: "3DBE4F41CDDE7575"
+				type: "item"
+				item: "techreborn:industrial_machine_casing"
+			}]
+		}
+		{
+			x: 11.0d
+			y: -1.0d
+			dependencies: ["51EF12544FE3121F"]
+			id: "4665F7F73CA5E68A"
+			tasks: [{
+				id: "03794EA39A9EE4E9"
+				type: "item"
+				item: "techreborn:chemical_reactor"
+			}]
+		}
+		{
+			x: 13.0d
+			y: -1.0d
+			dependencies: [
+				"4665F7F73CA5E68A"
+				"08138719B254CB8C"
+			]
+			id: "50AC1DF0565FA994"
+			tasks: [{
+				id: "476AF384A62C57CE"
+				type: "item"
+				item: "techreborn:energy_crystal"
+			}]
+		}
+		{
+			x: 12.0d
+			y: -2.5d
+			dependencies: ["4665F7F73CA5E68A"]
+			id: "08138719B254CB8C"
+			tasks: [{
+				id: "724C36F205CF9978"
+				type: "item"
+				item: "techreborn:assembly_machine"
+			}]
+		}
+		{
+			x: 11.0d
+			y: -4.0d
+			dependencies: ["4665F7F73CA5E68A"]
+			id: "660D0DE6E5C41E81"
+			tasks: [{
+				id: "6A65AC862ED86AF1"
+				type: "item"
+				item: "techreborn:auto_crafting_table"
+			}]
+		}
+		{
+			x: 12.5d
+			y: 6.0d
+			dependencies: ["5AC8F028F48ACA68"]
+			id: "3F318A4DA2B09DDF"
+			tasks: [
+				{
+					id: "59D983AA0C8BF182"
+					type: "item"
+					item: "techreborn:industrial_blast_furnace"
+				}
+				{
+					id: "645AF83684449F04"
+					type: "item"
+					item: "techreborn:implosion_compressor"
+				}
+				{
+					id: "6A52E08F04100201"
+					type: "item"
+					item: "techreborn:industrial_grinder"
+				}
+				{
+					id: "3FBF201A95DEF712"
+					type: "item"
+					item: "techreborn:industrial_centrifuge"
+				}
+				{
+					id: "42FFB71832F3AB22"
+					type: "item"
+					item: "techreborn:industrial_electrolyzer"
+				}
+			]
+		}
+		{
+			x: 15.0d
+			y: -1.0d
+			dependencies: [
+				"50AC1DF0565FA994"
+				"779E0CA2637E2176"
+			]
+			id: "6079A5EB386C2A07"
+			tasks: [{
+				id: "1B215F97D3409115"
+				type: "item"
+				item: "techreborn:lapotron_crystal"
+			}]
+		}
+		{
+			x: 15.0d
+			y: -2.5d
+			dependencies: ["6079A5EB386C2A07"]
+			id: "7A925DCF26C508F6"
+			tasks: [{
+				id: "1D4A0F01042A3512"
+				type: "item"
+				item: {
+					id: "techreborn:nanosaber"
+					Count: 1b
+					tag: {
+						isActive: 0b
+					}
+				}
+			}]
+		}
+		{
+			x: 16.5d
+			y: -2.5d
+			dependencies: ["6079A5EB386C2A07"]
+			id: "1C452975209CD606"
+			tasks: [{
+				id: "027F052D65D17018"
+				type: "item"
+				item: "techreborn:lapotronic_orb"
+			}]
+		}
+		{
+			x: 16.5d
+			y: -4.5d
+			dependencies: ["1C452975209CD606"]
+			id: "44D765E0FA983A7C"
+			tasks: [{
+				id: "730C480047A1E023"
+				type: "item"
+				item: "techreborn:lapotronic_orbpack"
+			}]
+		}
+		{
+			x: 15.0d
+			y: -4.5d
+			dependencies: ["1C452975209CD606"]
+			id: "6D5BD8D8A604506B"
+			tasks: [{
+				id: "0329400FCA918CFE"
+				type: "item"
+				item: "techreborn:matter_fabricator"
+			}]
+		}
+		{
+			x: 13.0d
+			y: -4.0d
+			dependencies: ["08138719B254CB8C"]
+			id: "779E0CA2637E2176"
+			tasks: [{
+				id: "1F9D7738ED4DBB78"
+				type: "item"
+				item: "techreborn:industrial_circuit"
+			}]
+		}
+		{
+			x: 18.0d
+			y: -3.5d
+			dependencies: [
+				"1C452975209CD606"
+				"44D765E0FA983A7C"
+			]
+			id: "5B6AADBAEC89E7D7"
+			tasks: [{
+				id: "6BBE355886E3C57E"
+				type: "item"
+				item: "techreborn:energy_flow_chip"
+			}]
+		}
+		{
+			x: 16.5d
+			y: -6.5d
+			dependencies: ["44D765E0FA983A7C"]
+			id: "62D2648DDD1565D6"
+			tasks: [{
+				id: "442BF0B1E38663F4"
+				type: "item"
+				item: "techreborn:cloaking_device"
+			}]
+		}
+		{
+			x: 18.0d
+			y: 1.0d
+			dependencies: ["5B6AADBAEC89E7D7"]
+			id: "3A8F9ECC16C55308"
+			tasks: [{
+				id: "2EDEC79AD6DD127B"
+				type: "item"
+				item: "techreborn:superconductor"
+			}]
+		}
+		{
+			x: 20.0d
+			y: 1.0d
+			dependencies: ["3A8F9ECC16C55308"]
+			id: "6147D8E262C201D1"
+			tasks: [{
+				id: "78044AAF06A8362B"
+				type: "item"
+				item: "techreborn:superconductor_cable"
+			}]
+		}
+		{
+			x: 19.5d
+			y: -0.5d
+			dependencies: ["3A8F9ECC16C55308"]
+			id: "5C76A759846A36F5"
+			tasks: [{
+				id: "232252E724C05B7D"
+				type: "item"
+				item: "techreborn:fusion_coil"
+			}]
+		}
+		{
+			x: 19.5d
+			y: 2.5d
+			dependencies: ["3A8F9ECC16C55308"]
+			id: "724A8D7E515C9992"
+			tasks: [
+				{
+					id: "4C6F0B33060789BC"
+					type: "item"
+					item: "techreborn:quantum_helmet"
+				}
+				{
+					id: "7750C84A1530697F"
+					type: "item"
+					item: "techreborn:quantum_chestplate"
+				}
+				{
+					id: "01933E0CAFDE859B"
+					type: "item"
+					item: "techreborn:quantum_leggings"
+				}
+				{
+					id: "3D39978DA78AFDF7"
+					type: "item"
+					item: "techreborn:quantum_boots"
+				}
+			]
+		}
+		{
+			x: 22.0d
+			y: -0.5d
+			dependencies: ["5C76A759846A36F5"]
+			id: "70406378849886D1"
+			tasks: [{
+				id: "47D56EE3D99DBF1C"
+				type: "item"
+				item: "techreborn:fusion_control_computer"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 7.0d
+			dependencies: ["4071B4CF551855BA"]
+			id: "2967560468B0AF61"
+			tasks: [{
+				id: "497C405E348916D1"
+				type: "item"
+				item: "techreborn:advanced_machine_casing"
+			}]
+		}
+		{
+			x: 9.0d
+			y: 9.0d
+			dependencies: ["2967560468B0AF61"]
+			id: "2453DB7AE7AC2BA4"
+			tasks: [{
+				id: "5A29E2AD2AB836AA"
+				type: "item"
+				item: "techreborn:industrial_machine_casing"
+			}]
+		}
+		{
+			x: 8.0d
+			y: 5.5d
+			dependencies: ["70A638D06F2BAAC0"]
+			id: "0F8E7D6FA712C71B"
+			tasks: [{
+				id: "78847F12DDD7E149"
+				type: "item"
+				item: "techreborn:advanced_drill"
+			}]
+		}
+		{
+			x: 8.0d
+			y: 7.0d
+			dependencies: ["0F8E7D6FA712C71B"]
+			id: "5881ED6DAF3881F7"
+			tasks: [{
+				id: "44915CD718E11AB6"
+				type: "item"
+				item: "techreborn:industrial_drill"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 6.5d
+			dependencies: [
+				"17FAB4A6DBAD6DFE"
+				"13A26EBE141DFB67"
+				"0F8E7D6FA712C71B"
+			]
+			id: "2BF8F0F6D72F7364"
+			tasks: [{
+				id: "7963E902FB5D0ECA"
+				type: "item"
+				item: "piercingpaxels:tr_advanced_drack"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 5.5d
+			dependencies: ["38188C0D6D7071FC"]
+			id: "13A26EBE141DFB67"
+			tasks: [{
+				id: "402C1A280E6365D7"
+				type: "item"
+				item: "techreborn:advanced_chainsaw"
+			}]
+		}
+		{
+			x: 5.0d
+			y: 7.0d
+			dependencies: ["13A26EBE141DFB67"]
+			id: "16F20AB4BECA50A0"
+			tasks: [{
+				id: "629952C5DE3D8400"
+				type: "item"
+				item: "techreborn:industrial_chainsaw"
+			}]
+		}
+		{
+			x: 6.5d
+			y: 8.0d
+			dependencies: [
+				"2BF8F0F6D72F7364"
+				"5881ED6DAF3881F7"
+				"16F20AB4BECA50A0"
+			]
+			id: "6AC7B82477BC34E6"
+			tasks: [{
+				id: "0AFCC6C70210B846"
+				type: "item"
+				item: "piercingpaxels:tr_industrial_drack"
+			}]
+		}
+		{
+			x: -1.5d
+			y: 2.5d
+			dependencies: ["62984CE5CE9E0906"]
+			id: "72BFF5C6EB845E82"
+			tasks: [{
+				id: "27E5FE6D74908C97"
+				type: "item"
+				item: "techreborn:drain"
+			}]
+		}
+		{
+			x: -2.5d
+			y: 0.0d
+			dependencies: ["62984CE5CE9E0906"]
+			id: "2B26B7FCFF776045"
+			tasks: [{
+				id: "722BB7F76182DB2A"
+				type: "item"
+				item: "techreborn:alarm"
+			}]
+		}
+	]
 	quest_links: [ ]
 }

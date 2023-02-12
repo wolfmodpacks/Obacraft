@@ -7,15 +7,121 @@
 	icon: "hexcasting:pride_colorizer_gay"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
-	quests: [{
-		x: 0.0d
-		y: 0.0d
-		id: "6BB70C04E861B82F"
-		tasks: [{
-			id: "280A5B4FFB7586CF"
-			type: "checkmark"
-			title: "Placeholder"
-		}]
-	}]
+	quests: [
+		{
+			title: "Hex something"
+			x: 0.0d
+			y: 0.0d
+			shape: "rsquare"
+			size: 1.4d
+			invisible: true
+			id: "6BB70C04E861B82F"
+			tasks: [{
+				id: "22B0E05E14CE5087"
+				type: "gamestage"
+				icon: "hexcasting:spellbook"
+				stage: "Hex magic is crazy"
+			}]
+			rewards: [{
+				id: "11A392D54858C6FB"
+				type: "item"
+				item: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "hexcasting:thehexbook"
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.5d
+			dependencies: ["6BB70C04E861B82F"]
+			id: "6B9569F1CE2CDA98"
+			tasks: [{
+				id: "380A1E15D723CC2D"
+				type: "item"
+				item: "minecraft:amethyst_shard"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 2.0d
+			dependencies: ["6B9569F1CE2CDA98"]
+			id: "378B829D94F7DD3F"
+			tasks: [{
+				id: "0F36D30752DE7243"
+				type: "item"
+				item: "hexcasting:cypher"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 2.0d
+			dependencies: ["6B9569F1CE2CDA98"]
+			id: "4ED1B9CA14FFEDB4"
+			tasks: [{
+				id: "23A8133DE193C9A8"
+				type: "item"
+				item: "hexcasting:scroll_small"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 4.0d
+			dependencies: ["4ED1B9CA14FFEDB4"]
+			id: "39081902E23808A6"
+			tasks: [{
+				id: "1674EDA8507ADFC2"
+				type: "item"
+				item: "hexcasting:focus"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 4.0d
+			dependencies: ["378B829D94F7DD3F"]
+			id: "152548483A6E127D"
+			tasks: [{
+				id: "7A75B221666087D2"
+				type: "item"
+				item: "hexcasting:trinket"
+			}]
+		}
+		{
+			x: 3.5d
+			y: 6.5d
+			dependencies: ["152548483A6E127D"]
+			id: "297E8678816FBBA1"
+			tasks: [{
+				id: "5DB5E9869C302EF4"
+				type: "item"
+				item: "hexcasting:artifact"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 4.0d
+			dependencies: ["6B9569F1CE2CDA98"]
+			id: "363B41BA037CC517"
+			tasks: [{
+				id: "511F8A3992DD5CC7"
+				type: "item"
+				item: "hexcasting:oak_staff"
+			}]
+		}
+		{
+			x: -3.0d
+			y: 6.5d
+			dependencies: ["39081902E23808A6"]
+			id: "7C4B67BDF61A64C6"
+			tasks: [{
+				id: "2A5937038139C5AF"
+				type: "item"
+				item: "hexcasting:spellbook"
+			}]
+		}
+	]
 	quest_links: [ ]
 }

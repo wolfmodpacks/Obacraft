@@ -236,8 +236,9 @@
 		}
 		{
 			x: -4.0d
-			y: -4.5d
-			dependencies: ["49A884208EA3D3E8"]
+			y: 1.0d
+			dependencies: ["316EF4479929A69A"]
+			hide: true
 			invisible: true
 			id: "641B9C93762903CC"
 			tasks: [{
@@ -247,9 +248,9 @@
 			}]
 		}
 		{
-			x: -6.0d
-			y: -4.5d
-			dependencies: ["49A884208EA3D3E8"]
+			x: 4.0d
+			y: 1.0d
+			dependencies: ["14441CB7FCE0B9C5"]
 			hide: false
 			invisible: true
 			id: "079B293BB381B321"
@@ -260,9 +261,9 @@
 			}]
 		}
 		{
-			x: -8.0d
-			y: -4.5d
-			dependencies: ["49A884208EA3D3E8"]
+			x: 0.0d
+			y: 3.5d
+			dependencies: ["1C9BCE974AAD9461"]
 			hide: false
 			invisible: true
 			id: "172A31C44B7BF83A"
@@ -335,6 +336,45 @@
 				auto: "invisible"
 				ignore_reward_blocking: true
 				stage: "Into SPACE"
+			}]
+		}
+		{
+			icon: "mcwlights:lava_lamp"
+			x: -2.0d
+			y: 1.0d
+			dependencies: ["490066BEC7EE97CF"]
+			id: "316EF4479929A69A"
+			tasks: [{
+				id: "64820BFBBAE453DF"
+				type: "gamestage"
+				title: "The Thermo Access"
+				stage: "Thermo Energy"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.5d
+			dependencies: ["490066BEC7EE97CF"]
+			id: "1C9BCE974AAD9461"
+			tasks: [{
+				id: "2C9D91F59822FDF3"
+				type: "gamestage"
+				title: "Furnace? Dont even know"
+				icon: "techreborn:iron_furnace"
+				stage: "Unlock Furnator Quests"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.0d
+			dependencies: ["490066BEC7EE97CF"]
+			id: "14441CB7FCE0B9C5"
+			tasks: [{
+				id: "70148A7E943A68EB"
+				type: "gamestage"
+				title: "More Power to you"
+				icon: "minecraft:magma_block"
+				stage: "Access the Magmator"
 			}]
 		}
 	]

@@ -17,7 +17,7 @@
 				id: "177E2FAECFC21116"
 				type: "gamestage"
 				icon: "graveyard:vial_of_blood"
-				stage: "Is Blooding time"
+				stage: "Become King Vamp"
 			}]
 			rewards: [{
 				id: "4946BF2E841E44D2"
