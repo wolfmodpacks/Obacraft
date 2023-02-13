@@ -1487,6 +1487,19 @@
       }
     },
     {
+      "projectID": 448231,
+      "fileID": 3993548,
+      "required": true,
+      "__meta": {
+        "name": "FTB Ultimine (Fabric)",
+        "dependencies": [
+          419699,
+          438495,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 448233,
       "fileID": 3823508,
       "required": true,

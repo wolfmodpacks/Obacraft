@@ -1,6 +1,6 @@
 {
 	id: "64CD9B5B04734097"
-	group: "7ECE65C9DD731CA5"
+	group: ""
 	order_index: 0
 	filename: "my_origins"
 	title: "My origins"
@@ -10,6 +10,7 @@
 		{
 			x: 0.0d
 			y: 0.0d
+			invisible: true
 			id: "4B529B66F021F19B"
 			tasks: [{
 				id: "1355740CD2283166"

@@ -13,6 +13,7 @@
 			y: 0.0d
 			shape: "hexagon"
 			size: 1.4d
+			invisible: true
 			id: "34E8B5ADE8249162"
 			tasks: [{
 				id: "54C9AE3D42CF627A"
