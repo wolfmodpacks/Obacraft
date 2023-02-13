@@ -33,7 +33,6 @@
 			y: 3.0d
 			dependencies: ["0DF94F50C20398C1"]
 			hide_text_until_complete: true
-			invisible: true
 			id: "50AA5D4310F9272A"
 			tasks: [{
 				id: "4AE0897F1798BF06"
@@ -54,7 +53,7 @@
 			x: 3.5d
 			y: 3.0d
 			dependencies: ["0DF94F50C20398C1"]
-			invisible: true
+			hide_text_until_complete: true
 			id: "38EAAB71A71B592A"
 			tasks: [{
 				id: "48BC67BE46C986E9"

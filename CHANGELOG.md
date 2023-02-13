@@ -1,3 +1,15 @@
+# 1.1.2
+    # Fixes
+      * Fix Loot Chest and Barrels not been accessible in someone else claim
+      
+    # Changes
+        * Changed Builder wand recipes
+
+    # Removed
+        * Remove Uncrafting Table from the game
+
+    # Added
+        * Companion Added
 # 1.0.5
 
 * Many Mods Added

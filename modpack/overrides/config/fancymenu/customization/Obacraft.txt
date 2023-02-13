@@ -18,7 +18,7 @@ customization {
 
 customization {
   action = setscale
-  scale = 3
+  scale = 2
 }
 
 customization {
@@ -161,14 +161,14 @@ customization {
 }
 
 customization {
-  orientation = mid-centered
-  x = -278
+  orientation = mid-left
+  x = 70
   width = 264
   action = addwebtexture
   actionid = 0c1540c6-95c1-4e9c-ac58-32bea8666ee71675560740928
-  y = -162
+  y = -226
   url = https://i.imgur.com/1QP7gWS.png
-  height = 73
+  height = 123
 }
 
 customization {
@@ -176,11 +176,11 @@ customization {
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = openlink
-  x = 175
-  width = 100
+  x = 178
+  width = 94
   actionid = 849f73ae-b1e8-4aa6-9594-f8f60c867f521675562392121
   action = addbutton
-  y = 15
+  y = 14
   label = Join our Discord
   value = https://discord.gg/eTvYv95PCG
   height = 20

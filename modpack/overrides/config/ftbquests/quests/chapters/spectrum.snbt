@@ -15,10 +15,9 @@
 			invisible: true
 			id: "781AF533DE9DABB6"
 			tasks: [{
-				id: "15AEFFED8636034A"
-				type: "gamestage"
-				icon: "spectrum:stardust"
-				stage: "Magic time"
+				id: "79FB7392E26BD28A"
+				type: "checkmark"
+				title: "WIP"
 			}]
 		}
 		{
