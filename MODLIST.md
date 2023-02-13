@@ -1,4 +1,4 @@
-# [Δ] ALL MODS (320)
+#[Δ] ALL MODS (321)
  └─ •↑ 'Dustrial Decor [Fabric] - https://www.curseforge.com/minecraft/mc-mods/dustrial-decor-fabric/files/3837296
  └─ •↑ Accelerated Decay - https://www.curseforge.com/minecraft/mc-mods/accelerated-decay/files/4139408
  └─ •↑ Ad Astra - https://www.curseforge.com/minecraft/mc-mods/ad-astra/files/4331884
@@ -102,6 +102,7 @@
  └─ •↑ FTB Library (Fabric) - https://www.curseforge.com/minecraft/mc-mods/ftb-library-fabric/files/4210869
  └─ •↑ FTB Quests (Fabric) - https://www.curseforge.com/minecraft/mc-mods/ftb-quests-fabric/files/4351563
  └─ •↑ FTB Teams (Fabric) - https://www.curseforge.com/minecraft/mc-mods/ftb-teams-fabric/files/4367025
+ └─ •↑ FTB Ultimine (Fabric) - https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-fabric/files/3993548
  └─ •↑ Fabric API - https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/4373739
  └─ •↑ Fabric Capes - https://www.curseforge.com/minecraft/mc-mods/capes/files/3966267
  └─ •↑ Fabric Language Kotlin - https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/files/4276483
