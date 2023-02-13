@@ -2256,6 +2256,17 @@
       }
     },
     {
+      "projectID": 551894,
+      "fileID": 3904696,
+      "required": true,
+      "__meta": {
+        "name": "Better Compatibility Checker",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 552176,
       "fileID": 3862141,
       "required": true,
