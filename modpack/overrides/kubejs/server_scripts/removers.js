@@ -1,6 +1,5 @@
-
 ServerEvents.recipes((event) => {
-    
+     
     const output = [
         // Modern Industrialization
         'modern_industrialization:quantum_sword',
@@ -23,8 +22,6 @@ ServerEvents.recipes((event) => {
         'arclight:angel_leggings',
         'arclight:angel_boots',
 
-        // Twilight Forest
-        'twilightforest:uncrafting_table',
     ]
 
     const id = [
@@ -41,6 +38,9 @@ ServerEvents.recipes((event) => {
 
         // Twilight Forest
         'twilightforest:uncrafting_table',
+
+        // Wands
+        'wands:stone_wand2',
     ]
 
 
