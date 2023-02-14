@@ -1,3 +1,6 @@
+# v1.1.3
+    * Fix wand recipe
+    
 # 1.1.2
     # Fixes
       * Fix Loot Chest and Barrels not been accessible in someone else claim
