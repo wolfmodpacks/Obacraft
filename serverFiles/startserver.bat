@@ -11,16 +11,17 @@ CD "%~dp0" >nul 2>&1
 
 :CHECK
 REM Check if serverstarter JAR is already downloaded
-IF NOT EXIST "%cd%\serverstarter-2.4.0.jar" (
+IF NOT EXIST "%cd%\serverstarter-2.3.1.jar" (
 	ECHO serverstarter binary not found, downloading serverstarter...
-	%SYSTEMROOT%\SYSTEM32\bitsadmin.exe /rawreturn /nowrap /transfer starter /dynamic /download /priority foreground https://github.com/TeamAOF/ServerStarter/releases/download/v2.4.0/serverstarter-2.4.0.jar "%cd%\serverstarter-2.4.0.jar"
+   ECHO Credits to AOF TEAM for the scripts to start this server
+	%SYSTEMROOT%\SYSTEM32\bitsadmin.exe /rawreturn /nowrap /transfer starter /dynamic /download /priority foreground https://github.com/Ocraftyone/ServerStarter-CFCorePatch/releases/download/v2.3.1/serverstarter-2.3.1.jar "%cd%\serverstarter-2.3.1.jar"
    GOTO MAIN
 ) ELSE (
    GOTO MAIN
 )
 
 :MAIN
-java -jar serverstarter-2.4.0.jar
+java -jar serverstarter-2.3.1.jar
 GOTO EOF
 
 :EOF

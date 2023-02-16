@@ -6,9 +6,9 @@ if [[ $(cat server-setup-config.yaml | grep 'ramDisk:' | awk 'BEGIN {FS=":"}{pri
     sudo mount -t tmpfs -o size=2G tmpfs $SAVE_DIR
     DO_RAMDISK=1
 fi
-	if [ -f serverstarter-2.4.0.jar ]; then
-			echo "Skipping download. Using existing serverstarter-2.4.0.jar"
-         java -jar serverstarter-2.4.0.jar
+	if [ -f serverstarter-2.3.1.jar ]; then
+			echo "Skipping download. Using existing serverstarter-2.3.1.jar"
+         java -jar serverstarter-2.3.1.jar
                if [[ $DO_RAMDISK -eq 1 ]]; then
                sudo umount $SAVE_DIR
                rm -rf $SAVE_DIR
@@ -16,23 +16,25 @@ fi
                fi
                exit 0
 	else
-			export URL="https://github.com/TeamAOF/ServerStarter/releases/download/v2.4.0/serverstarter-2.4.0.jar"
+			export URL="https://github.com/Ocraftyone/ServerStarter-CFCorePatch/releases/download/v2.3.1/serverstarter-2.3.1.jar"
 	fi
 		echo $URL
 		which wget >> /dev/null
 		if [ $? -eq 0 ]; then
+            echo "Credits Credits to AOF TEAM for the scripts to start this server"
 			echo "DEBUG: (wget) Downloading ${URL}"
-			wget -O serverstarter-2.4.0.jar "${URL}"
+			wget -O serverstarter-2.3.1.jar "${URL}"
    else
 			which curl >> /dev/null
 			if [ $? -eq 0 ]; then
+                echo "Credits Credits to AOF TEAM for the scripts to start this server"
 				echo "DEBUG: (curl) Downloading ${URL}"
-				curl -o serverstarter-2.4.0.jar "${URL}"
+				curl -Lo serverstarter-2.3.1.jar "${URL}"
 			else
 				echo "Neither wget or curl were found on your system. Please install one and try again"
          fi
       fi
-java -jar serverstarter-2.4.0.jar
+java -jar serverstarter-2.3.1.jar
 if [[ $DO_RAMDISK -eq 1 ]]; then
     sudo umount $SAVE_DIR
     rm -rf $SAVE_DIR

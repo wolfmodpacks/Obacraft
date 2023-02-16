@@ -25,7 +25,8 @@ install:
     - "-loader"
     - "0.14.14"
   modpackFormat: curse
-  
+  curseForgeAPIKey: PUT YOUR API KEY HERE BEFORE LAUNCHING
+
   formatSpecific:
     ignoreProject: 
       - 472772 # Dashloader
@@ -35,9 +36,7 @@ install:
   checkFolder: true
   
   installLoader: true
-  
-  installPack: true
-  
+    
   spongeBootstrapper: ~
 
   connectTimeout: 90
