@@ -3,7 +3,8 @@
         * Backups Config Updated to only run every 2 hours
         * Fix How mobs behave
         * Player Inventory should not appear anymore on waila
-
+        * Fix Menu Screen scalling
+        
     # Changes
         * Players should now have 10 hearts instead of 6
         * Remove heart values next to heart icons
