@@ -11,6 +11,10 @@ ServerEvents.recipes((event) => {
         'bewitchment:raw_silver',
         // Item Alchemy
         'itemalchemy:philosopher_stone',
+        'itemalchemy:alchemy_table',
+        'itemalchemy:alchemy_chest',
+        'itemalchemy:emc_condenser',
+        'itemalchemy:emc_condenser_mk2',
         // MCA
         'mca:gold_dust',
         'mca:engagement_ring',

@@ -1,0 +1,115 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_433
+  randomgroup = 1
+  vr:showif:windowheightbiggerthan = false
+  renderorder = foreground
+  randommode = false
+  custom_menu_title = The Obama MENU?
+  randomonlyfirsttime = false
+  vr:value:windowheightbiggerthan = 1800
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 829
+  action = autoscale
+  basewidth = 1600
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_return_to_game_button%
+  orientation = mid-left
+  x = 298
+  action = movebutton
+  y = -109
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_feedback_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  orientation = mid-left
+  x = 298
+  action = movebutton
+  y = -37
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_options_button%
+  width = 204
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_report_bugs_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=504342%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=374294%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_advancements_button%
+  orientation = mid-left
+  x = 298
+  action = movebutton
+  y = -84
+}
+
+customization {
+  identifier = %id=398318%
+  orientation = mid-left
+  x = 298
+  action = movebutton
+  y = -60
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_disconnect_button%
+  orientation = mid-left
+  x = 298
+  action = movebutton
+  y = -12
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_pausescreen_stats_button%
+  orientation = mid-left
+  x = 404
+  action = movebutton
+  y = -84
+}
+
+customization {
+  path = 
+  orientation = top-left
+  x = 0
+  width = 0
+  action = addtexture
+  actionid = 9cd32ffc-34a8-4728-b456-ff6576ef606f1675565460311
+  y = 10
+  height = 100
+}
+

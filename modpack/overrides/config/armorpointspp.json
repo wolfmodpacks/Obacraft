@@ -1,0 +1,59 @@
+{
+	"general": {
+		"textureSheet": "default",
+		"showFrostbitePercentage": true,
+		"enableArmorBar": true,
+		"showAbsorption": true,
+		"showArmorWhenZero": false,
+		"showArmorValue": true,
+		"enableHealthBar": true,
+		"showHealthValue": false,
+		"useToughnessBar": false,
+		"showResistance": true,
+		"textShadow": true,
+		"showToughnessWhenZero": false,
+		"frostbiteStyle": "ICON",
+		"enableToughness": true,
+		"toughnessSide": "LEFT",
+		"showProtection": true,
+		"showToughnessValue": true,
+		"suffix": "SI",
+		"debug": {
+			"debug": false
+		}
+	},
+	"representative": {
+		"resistance": 2,
+		"absorption": 0,
+		"toughness": 1,
+		"protection": 0
+	},
+	"textcolors": {
+		"heartFrostbite": "0x01bef2",
+		"heartWither": "0x2b2b2b",
+		"heart": "0xff1313",
+		"resistanceFull": "0x8a0f0f",
+		"heartPoison": "0x947818",
+		"absorption": "0xffc300",
+		"armor0": "0x3d3d3d",
+		"armorEQ25": "0xff8811",
+		"toughness": "0xff8811",
+		"armorGT25": "0xff3311",
+		"separator": "0x3d3d3d",
+		"armorLT25": "0x44ff11"
+	},
+	"textconfig": {
+		"healthValueAlignment": "RIGHT",
+		"toughnessValueAlignment": "RIGHT",
+		"enableArmorValueConfig": false,
+		"armorValueX": 0,
+		"armorValueAlignment": "RIGHT",
+		"healthValueX": 0,
+		"toughnessValueY": 0,
+		"armorValueY": 0,
+		"toughnessValueX": 0,
+		"enableHealthValueConfig": false,
+		"enableToughnessValueConfig": false,
+		"healthValueY": 0
+	}
+}

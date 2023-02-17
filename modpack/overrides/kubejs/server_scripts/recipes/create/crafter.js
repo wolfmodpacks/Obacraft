@@ -203,5 +203,116 @@ ServerEvents.recipes(event => {
         }
     })
 
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "id": "itemalchemy:alchemy_table",
+        "acceptMirrored": false,
+        "key": {
+            "A": {
+                "item": "minecraft:obsidian"
+            },
+            "B": {
+                "item": "minecraft:gold_block"
+            },
+            "D": {
+                "item": "minecraft:diamond_block"
+            },
+            "F": {
+                "item": "itemalchemy:philosopher_stone"
+            },
+            "G": {
+                "item": "advancednetherite:netherite_diamond_block"
+            },
+        },
+        "pattern": [
+            "GAGAG",
+            "AGBGA",
+            "GDFDG",
+            "AGBGA",
+            "GAGAG",
+        ],
+        "result": {
+            "item": "itemalchemy:alchemy_table",
+            "count": 1
+        }
+    })
+
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "id": "itemalchemy:alchemy_chest",
+        "acceptMirrored": false,
+        "key": {
+            "A": {
+                "item": "minecraft:crying_obsidian"
+            },
+            "B": {
+                "item": "compressor:octuple_compressed_cobblestone"
+            },
+            "D": {
+                "item": "advancednetherite:netherite_diamond_block"
+            },
+            "F": {
+                "item": "minecraft:chest"
+            },
+            "H": {
+                "item": "itemalchemy:low_covalence_dust"
+            },
+            "I": {
+                "item": "itemalchemy:high_covalence_dust"
+            },
+            "J": {
+                "item": "itemalchemy:middle_covalence_dust"
+            },
+        },
+        "pattern": [
+            "BADAB",
+            "AHJIA",
+            "BDFDB",
+            "AHJIA",
+            "BADAB",
+        ],
+        "result": {
+            "item": "itemalchemy:alchemy_chest",
+            "count": 1
+        }
+    })
+
+    event.custom({
+        "type": "create:mechanical_crafting",
+        "id": "itemalchemy:emc_condenser",
+        "acceptMirrored": false,
+        "key": {
+            "A": {
+                "item": "minecraft:crying_obsidian"
+            },
+            "B": {
+                "item": "compressor:octuple_compressed_cobblestone"
+            },
+            "D": {
+                "item": "advancednetherite:netherite_diamond_block"
+            },
+            "F": {
+                "item": "itemalchemy:alchemy_chest"
+            },
+            "H": {
+                "item": "botania:mana_diamond"
+            },
+            
+        },
+        "pattern": [
+            "BADAB",
+            "AHAHA",
+            "BDFDB",
+            "AHAHA",
+            "BADAB",
+        ],
+        "result": {
+            "item": "itemalchemy:emc_condenser",
+            "count": 1
+        }
+    })
+
+
+
 });
 

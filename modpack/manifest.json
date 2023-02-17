@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "1.1.3",
+  "version": "1.2.0",
   "author": "Wolfie",
   "name": "Obacraft",
   "files": [
@@ -171,11 +171,27 @@
       }
     },
     {
+      "projectID": 284324,
+      "fileID": 4326651,
+      "required": true,
+      "__meta": {
+        "name": "Emojiful"
+      }
+    },
+    {
       "projectID": 284876,
       "fileID": 4328511,
       "required": true,
       "__meta": {
         "name": "DimensionalDoors"
+      }
+    },
+    {
+      "projectID": 300331,
+      "fileID": 3896576,
+      "required": true,
+      "__meta": {
+        "name": "Simply Light"
       }
     },
     {
@@ -539,7 +555,7 @@
     },
     {
       "projectID": 361579,
-      "fileID": 4159882,
+      "fileID": 4381168,
       "required": true,
       "__meta": {
         "name": "spark"
@@ -1344,6 +1360,17 @@
       }
     },
     {
+      "projectID": 433539,
+      "fileID": 4105216,
+      "required": true,
+      "__meta": {
+        "name": "Comforts (Fabric 1.16.5 - 1.19.2)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 437552,
       "fileID": 3823457,
       "required": true,
@@ -1379,7 +1406,7 @@
     },
     {
       "projectID": 438495,
-      "fileID": 4210869,
+      "fileID": 4394392,
       "required": true,
       "__meta": {
         "name": "FTB Library (Fabric)",
@@ -1391,7 +1418,7 @@
     },
     {
       "projectID": 438496,
-      "fileID": 4351563,
+      "fileID": 4398350,
       "required": true,
       "__meta": {
         "name": "FTB Quests (Fabric)",
@@ -2228,6 +2255,17 @@
       }
     },
     {
+      "projectID": 547881,
+      "fileID": 4357441,
+      "required": true,
+      "__meta": {
+        "name": "Advanced Netherite [FABRIC]",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 548115,
       "fileID": 3842540,
       "required": true,
@@ -2413,6 +2451,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 570463,
+      "fileID": 4171284,
+      "required": true,
+      "__meta": {
+        "name": "Ecologics"
       }
     },
     {
@@ -2696,6 +2742,14 @@
       }
     },
     {
+      "projectID": 620784,
+      "fileID": 4382833,
+      "required": true,
+      "__meta": {
+        "name": "Geode+ [Forge/Fabric]"
+      }
+    },
+    {
       "projectID": 622010,
       "fileID": 4327928,
       "required": true,
@@ -2782,6 +2836,17 @@
       "required": true,
       "__meta": {
         "name": "MemoryLeakFix"
+      }
+    },
+    {
+      "projectID": 627986,
+      "fileID": 3930808,
+      "required": true,
+      "__meta": {
+        "name": "Naturalist",
+        "dependencies": [
+          388172
+        ]
       }
     },
     {
@@ -3047,6 +3112,18 @@
       }
     },
     {
+      "projectID": 662763,
+      "fileID": 4035470,
+      "required": true,
+      "__meta": {
+        "name": "Convenient Name Tags",
+        "dependencies": [
+          306612,
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 663141,
       "fileID": 3966060,
       "required": true,
@@ -3264,7 +3341,7 @@
     },
     {
       "projectID": 697926,
-      "fileID": 4327516,
+      "fileID": 4399552,
       "required": true,
       "__meta": {
         "name": "Item Alchemy (Fabric)",

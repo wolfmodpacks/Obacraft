@@ -1,5 +1,5 @@
 {
-  "badgeVisible": true,
+  "badgeVisible": false,
   "builtinServers": [
     {
       "name": "Obacraft Official Server",
