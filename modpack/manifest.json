@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "overrides": "overrides",
   "manifestVersion": 1,
-  "version": "1.2.0",
+  "version": "1.2.1",
   "author": "Wolfie",
   "name": "Obacraft",
   "files": [
@@ -3341,7 +3341,7 @@
     },
     {
       "projectID": 697926,
-      "fileID": 4399552,
+      "fileID": 4398675,
       "required": true,
       "__meta": {
         "name": "Item Alchemy (Fabric)",

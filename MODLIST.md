@@ -142,7 +142,7 @@
  └─ •↑ Inventory Sorting - https://www.curseforge.com/minecraft/mc-mods/inventory-sorting/files/3885990
  └─ •↑ Iris Shaders - https://www.curseforge.com/minecraft/mc-mods/irisshaders/files/4284512
  └─ •↑ It Takes a Pillage (Fabric) - https://www.curseforge.com/minecraft/mc-mods/it-takes-a-pillage-fabric/files/4098018
- └─ •↑ Item Alchemy (Fabric) - https://www.curseforge.com/minecraft/mc-mods/item-alchemy-fabric/files/4399552
+ └─ •↑ Item Alchemy (Fabric) - https://www.curseforge.com/minecraft/mc-mods/item-alchemy-fabric/files/4398675
  └─ •↑ Item Filters - https://www.curseforge.com/minecraft/mc-mods/item-filters/files/4055378
  └─ •↑ Item Model Fix (Fabric) - https://www.curseforge.com/minecraft/mc-mods/item-model-fix/files/3854720
  └─ •↑ JamLib - https://www.curseforge.com/minecraft/mc-mods/jamlib/files/4318554

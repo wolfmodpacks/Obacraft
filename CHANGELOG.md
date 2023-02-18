@@ -1,3 +1,10 @@
+## Version 1.2.1
+
+### Bug Fixes
+
+- Fixed an issue where Item Alchemy wouldn't start up
+- Resolved a problem where the Menu Screen wasn't scaling correctly due to outdated settings
+
 # v1.2.0
     # Fixes
         * Backups Config Updated to only run every 2 hours

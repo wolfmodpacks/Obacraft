@@ -30,8 +30,10 @@ const recipes = [
 ];
 
 
-ServerEvents.recipes((event) => {
-    recipes.forEach((recipe) => {
-        event.shaped(recipe.output, recipe.pattern, recipe.key).id(recipe.id);
+function recipesDust(event) {
+    recipes.forEach((recipes) => {
+      event.shaped(recipes.output, recipes.pattern, recipes.key).id(recipes.id);
     });
-});
+}
+
+ServerEvents.recipes(recipesDust);
