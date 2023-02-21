@@ -2784,6 +2784,18 @@
       }
     },
     {
+      "projectID": 622888,
+      "fileID": 4219583,
+      "required": true,
+      "__meta": {
+        "name": "Ponder for KubeJS",
+        "dependencies": [
+          238086,
+          624165
+        ]
+      }
+    },
+    {
       "projectID": 623560,
       "fileID": 4182772,
       "required": true,
@@ -3037,6 +3049,18 @@
         "dependencies": [
           341284,
           348521
+        ]
+      }
+    },
+    {
+      "projectID": 650095,
+      "fileID": 3924949,
+      "required": true,
+      "__meta": {
+        "name": "Create Support for Open Parties and Claims",
+        "dependencies": [
+          624165,
+          636608
         ]
       }
     },
@@ -3437,6 +3461,17 @@
       }
     },
     {
+      "projectID": 750818,
+      "fileID": 4206841,
+      "required": true,
+      "__meta": {
+        "name": "Create: Extended Flywheels Fabric",
+        "dependencies": [
+          624165
+        ]
+      }
+    },
+    {
       "projectID": 771265,
       "fileID": 4381561,
       "required": true,
@@ -3503,6 +3538,17 @@
         "dependencies": [
           482834,
           306612
+        ]
+      }
+    },
+    {
+      "projectID": 815006,
+      "fileID": 4356949,
+      "required": true,
+      "__meta": {
+        "name": "Create: Extended Cogwheels Fabric",
+        "dependencies": [
+          624165
         ]
       }
     },
