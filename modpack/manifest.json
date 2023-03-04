@@ -479,25 +479,6 @@
       }
     },
     {
-      "projectID": 349239,
-      "fileID": 4033215,
-      "required": true,
-      "__meta": {
-        "name": "Carpet"
-      }
-    },
-    {
-      "projectID": 349240,
-      "fileID": 4066596,
-      "required": true,
-      "__meta": {
-        "name": "Carpet Extra",
-        "dependencies": [
-          349239
-        ]
-      }
-    },
-    {
       "projectID": 351725,
       "fileID": 4178174,
       "required": true,
@@ -917,6 +898,17 @@
         "name": "Chest Tracker",
         "dependencies": [
           348521,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 397809,
+      "fileID": 4173795,
+      "required": true,
+      "__meta": {
+        "name": "Emotecraft (Fabric)",
+        "dependencies": [
           306612
         ]
       }
@@ -1588,6 +1580,18 @@
         "dependencies": [
           394468,
           394468
+        ]
+      }
+    },
+    {
+      "projectID": 456956,
+      "fileID": 4410347,
+      "required": true,
+      "__meta": {
+        "name": "Chipped",
+        "dependencies": [
+          633997,
+          570073
         ]
       }
     },
@@ -2356,7 +2360,7 @@
     },
     {
       "projectID": 556967,
-      "fileID": 4353680,
+      "fileID": 4399506,
       "required": true,
       "__meta": {
         "name": "Spectrum",
@@ -2473,6 +2477,14 @@
       }
     },
     {
+      "projectID": 574404,
+      "fileID": 4381609,
+      "required": true,
+      "__meta": {
+        "name": "Artis-Recrafted"
+      }
+    },
+    {
       "projectID": 576449,
       "fileID": 4073508,
       "required": true,
@@ -2494,6 +2506,14 @@
         "dependencies": [
           419699
         ]
+      }
+    },
+    {
+      "projectID": 579927,
+      "fileID": 4291596,
+      "required": true,
+      "__meta": {
+        "name": "Kentucky Fried Axolotls"
       }
     },
     {
@@ -2948,6 +2968,15 @@
       "required": true,
       "__meta": {
         "name": "Almost Unified"
+      }
+    },
+    {
+      "projectID": 633997,
+      "fileID": 3834086,
+      "required": true,
+      "__meta": {
+        "name": "CTM Refabricated",
+        "explicit": false
       }
     },
     {
@@ -3549,6 +3578,19 @@
         "name": "Create: Extended Cogwheels Fabric",
         "dependencies": [
           624165
+        ]
+      }
+    },
+    {
+      "projectID": 817666,
+      "fileID": 4413613,
+      "required": true,
+      "__meta": {
+        "name": "YUNG's Better Nether Fortresses (Fabric)",
+        "dependencies": [
+          348521,
+          421649,
+          306612
         ]
       }
     },
