@@ -535,6 +535,14 @@
       }
     },
     {
+      "projectID": 360438,
+      "fileID": 4151762,
+      "required": true,
+      "__meta": {
+        "name": "Lithium (Fabric)"
+      }
+    },
+    {
       "projectID": 361579,
       "fileID": 4381168,
       "required": true,
@@ -1016,6 +1024,17 @@
         "name": "BetterF3",
         "dependencies": [
           348521
+        ]
+      }
+    },
+    {
+      "projectID": 403656,
+      "fileID": 4048817,
+      "required": true,
+      "__meta": {
+        "name": "Image2Map",
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -2036,6 +2055,14 @@
       }
     },
     {
+      "projectID": 533897,
+      "fileID": 3837060,
+      "required": true,
+      "__meta": {
+        "name": "PictureSign"
+      }
+    },
+    {
       "projectID": 534029,
       "fileID": 4057306,
       "required": true,
@@ -2087,6 +2114,14 @@
         "dependencies": [
           536603
         ]
+      }
+    },
+    {
+      "projectID": 537533,
+      "fileID": 3502167,
+      "required": true,
+      "__meta": {
+        "name": "Ksyxis"
       }
     },
     {
@@ -2541,6 +2576,14 @@
       }
     },
     {
+      "projectID": 582640,
+      "fileID": 4351677,
+      "required": true,
+      "__meta": {
+        "name": "Better Fps - Render Distance[Fabric]"
+      }
+    },
+    {
       "projectID": 584511,
       "fileID": 4090409,
       "required": true,
@@ -2762,6 +2805,17 @@
       }
     },
     {
+      "projectID": 619718,
+      "fileID": 4002520,
+      "required": true,
+      "__meta": {
+        "name": "Cull Less Leaves",
+        "dependencies": [
+          667299
+        ]
+      }
+    },
+    {
       "projectID": 620784,
       "fileID": 4382833,
       "required": true,
@@ -2879,6 +2933,14 @@
         "dependencies": [
           388172
         ]
+      }
+    },
+    {
+      "projectID": 628761,
+      "fileID": 3829912,
+      "required": true,
+      "__meta": {
+        "name": "Entity Collision FPS Fix Refabricated"
       }
     },
     {
@@ -3390,6 +3452,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 696026,
+      "fileID": 4062483,
+      "required": true,
+      "__meta": {
+        "name": "Cull Clouds"
       }
     },
     {
