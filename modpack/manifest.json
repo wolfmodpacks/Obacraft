@@ -470,12 +470,36 @@
       }
     },
     {
+      "projectID": 341448,
+      "fileID": 4131774,
+      "required": true,
+      "__meta": {
+        "name": "Music Maker Mod"
+      }
+    },
+    {
+      "projectID": 344996,
+      "fileID": 3920729,
+      "required": true,
+      "__meta": {
+        "name": "EditSign (Forge&Fabric)"
+      }
+    },
+    {
       "projectID": 348521,
       "fileID": 3972420,
       "required": true,
       "__meta": {
         "name": "Cloth Config API (Fabric/Forge)",
         "explicit": false
+      }
+    },
+    {
+      "projectID": 350727,
+      "fileID": 4119622,
+      "required": true,
+      "__meta": {
+        "name": "Joy of Painting"
       }
     },
     {
@@ -717,6 +741,14 @@
           308769,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 390168,
+      "fileID": 4110462,
+      "required": true,
+      "__meta": {
+        "name": "XL Packets Fabric"
       }
     },
     {
@@ -1071,6 +1103,17 @@
       }
     },
     {
+      "projectID": 407206,
+      "fileID": 4411341,
+      "required": true,
+      "__meta": {
+        "name": "Chat Heads",
+        "dependencies": [
+          348521
+        ]
+      }
+    },
+    {
       "projectID": 407311,
       "fileID": 3971563,
       "required": true,
@@ -1304,6 +1347,14 @@
       }
     },
     {
+      "projectID": 423421,
+      "fileID": 3974481,
+      "required": true,
+      "__meta": {
+        "name": "Jump Over Fences"
+      }
+    },
+    {
       "projectID": 424480,
       "fileID": 3951137,
       "required": true,
@@ -1457,6 +1508,17 @@
       }
     },
     {
+      "projectID": 438718,
+      "fileID": 4073356,
+      "required": true,
+      "__meta": {
+        "name": "Alloy Forgery",
+        "dependencies": [
+          532610
+        ]
+      }
+    },
+    {
       "projectID": 439890,
       "fileID": 4388911,
       "required": true,
@@ -1501,6 +1563,17 @@
       }
     },
     {
+      "projectID": 444658,
+      "fileID": 3856032,
+      "required": true,
+      "__meta": {
+        "name": "VehicleFix",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 446253,
       "fileID": 3832880,
       "required": true,
@@ -1509,6 +1582,14 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 446499,
+      "fileID": 4073927,
+      "required": true,
+      "__meta": {
+        "name": "Taterzens [Fabric]"
       }
     },
     {
@@ -1978,6 +2059,19 @@
       }
     },
     {
+      "projectID": 517650,
+      "fileID": 4095954,
+      "required": true,
+      "__meta": {
+        "name": "Mythic Mounts",
+        "dependencies": [
+          393236,
+          306612,
+          388172
+        ]
+      }
+    },
+    {
       "projectID": 518319,
       "fileID": 3902698,
       "required": true,
@@ -2133,6 +2227,22 @@
         "dependencies": [
           306612
         ]
+      }
+    },
+    {
+      "projectID": 538316,
+      "fileID": 4014715,
+      "required": true,
+      "__meta": {
+        "name": "Death Knell"
+      }
+    },
+    {
+      "projectID": 538828,
+      "fileID": 3906394,
+      "required": true,
+      "__meta": {
+        "name": "YDM's Allay "
       }
     },
     {
@@ -2333,6 +2443,25 @@
       }
     },
     {
+      "projectID": 550916,
+      "fileID": 3825962,
+      "required": true,
+      "__meta": {
+        "name": "TraderNPCs"
+      }
+    },
+    {
+      "projectID": 551364,
+      "fileID": 4359130,
+      "required": true,
+      "__meta": {
+        "name": "Friends&Foes (Fabric)",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 551894,
       "fileID": 3904696,
       "required": true,
@@ -2520,6 +2649,17 @@
       }
     },
     {
+      "projectID": 575504,
+      "fileID": 3921889,
+      "required": true,
+      "__meta": {
+        "name": "Meticulous",
+        "dependencies": [
+          306612
+        ]
+      }
+    },
+    {
       "projectID": 576449,
       "fileID": 4073508,
       "required": true,
@@ -2652,6 +2792,17 @@
       }
     },
     {
+      "projectID": 596224,
+      "fileID": 4060233,
+      "required": true,
+      "__meta": {
+        "name": "Debugify",
+        "dependencies": [
+          667299
+        ]
+      }
+    },
+    {
       "projectID": 596615,
       "fileID": 3926780,
       "required": true,
@@ -2671,6 +2822,17 @@
         "name": "Duckling",
         "dependencies": [
           388172
+        ]
+      }
+    },
+    {
+      "projectID": 597298,
+      "fileID": 4162484,
+      "required": true,
+      "__meta": {
+        "name": "Keymap",
+        "dependencies": [
+          306612
         ]
       }
     },
@@ -2704,6 +2866,26 @@
           348521,
           388172
         ]
+      }
+    },
+    {
+      "projectID": 606399,
+      "fileID": 3856031,
+      "required": true,
+      "__meta": {
+        "name": "The Box Trot",
+        "dependencies": [
+          319596,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 608235,
+      "fileID": 4001578,
+      "required": true,
+      "__meta": {
+        "name": "YDM's Weapon Master"
       }
     },
     {
@@ -2802,6 +2984,14 @@
           348521,
           306612
         ]
+      }
+    },
+    {
+      "projectID": 619667,
+      "fileID": 4401143,
+      "required": true,
+      "__meta": {
+        "name": "Not Enough Gamerules [Fabric]"
       }
     },
     {
@@ -2906,14 +3096,6 @@
         "dependencies": [
           306612
         ]
-      }
-    },
-    {
-      "projectID": 625437,
-      "fileID": 3912877,
-      "required": true,
-      "__meta": {
-        "name": "Packet Size Doubler"
       }
     },
     {
@@ -3084,6 +3266,18 @@
         "name": "Epic Paladins - 2.0 Update soon",
         "dependencies": [
           388172
+        ]
+      }
+    },
+    {
+      "projectID": 635776,
+      "fileID": 4195569,
+      "required": true,
+      "__meta": {
+        "name": "Little Ants [FABRIC]",
+        "dependencies": [
+          388172,
+          306612
         ]
       }
     },
@@ -3660,6 +3854,17 @@
         "dependencies": [
           348521,
           421649,
+          306612
+        ]
+      }
+    },
+    {
+      "projectID": 821483,
+      "fileID": 4422686,
+      "required": true,
+      "__meta": {
+        "name": "[Meadow] Let's do Cheese!",
+        "dependencies": [
           306612
         ]
       }
