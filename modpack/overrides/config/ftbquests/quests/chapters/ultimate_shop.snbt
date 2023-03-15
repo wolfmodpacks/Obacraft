@@ -8,7 +8,6 @@
 		id: "minecraft:player_head"
 		Count: 1b
 		tag: {
-			HideFlags: 127
 			SkullOwner: {
 				Properties: {
 					textures: [{
@@ -22,10 +21,11 @@
 					0
 				]
 			}
-			"Polymer$itemId": "universal_shops:admin_trade_block"
+			HideFlags: 127
 			display: {
 				Name: "{\"italic\":false,\"extra\":[{\"italic\":false,\"text\":\"Admin Trade Shop\"}],\"text\":\"\"}"
 			}
+			"Polymer$itemId": "universal_shops:admin_trade_block"
 		}
 	}
 	default_quest_shape: ""

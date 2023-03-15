@@ -1,7 +1,7 @@
 {
 	id: "16F8E097A4FA25F9"
 	group: "75986D46F3A67E2C"
-	order_index: 1
+	order_index: 0
 	filename: "simple_storage"
 	title: "Simple Storage"
 	icon: "toms_storage:ts.adv_wireless_terminal"

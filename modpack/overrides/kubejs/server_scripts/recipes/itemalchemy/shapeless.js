@@ -1,5 +1,4 @@
-
-const recipes = [
+const theRecipes = [
     {
         output: 'itemalchemy:high_covalence_dust',
         pattern: ['AB '],
@@ -31,9 +30,54 @@ const recipes = [
 
 
 function recipesDust(event) {
-    recipes.forEach((recipes) => {
-      event.shaped(recipes.output, recipes.pattern, recipes.key).id(recipes.id);
+    theRecipes.forEach((recipe) => {
+      event.shaped(recipe.output, recipe.pattern, recipe.key).id(recipe.id);
     });
 }
 
 ServerEvents.recipes(recipesDust);
+
+ServerEvents.recipes(event => {
+
+    event.custom({
+        "type": "artis:the_huge_table_shaped",
+        "id": "itemalchemy:philosopher_stone",
+        "acceptMirrored": false,
+        "key": {
+            "A": {
+                "item": "spectrum:bedrock_storage_block"
+            },
+            "B": {
+                "item": "haema:vampire_blood"
+            },
+            "C": {
+                "item": "modern_industrialization:singularity"
+            },
+            "D": {
+                "item": "ae2:singularity"
+            },
+            "F": {
+                "item": "mca:baby_boy"
+            },
+            "G": {
+                "item": "arclight:arclight_core"
+            },
+        },
+        "pattern": [
+            "    A    ",
+            "   ABA   ",
+            "  ABGBA  ",
+            " ABDBCBA ",
+            "ABGFGFGBA",
+            " ABCBDBA ",
+            "  ABGBA  ",
+            "   ABA   ",
+            "    A    "
+        ],
+        "result": {
+            "item": "itemalchemy:philosopher_stone",
+            "count": 1
+        }
+    })
+
+});

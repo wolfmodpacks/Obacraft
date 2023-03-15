@@ -1,4 +1,4 @@
-# [Δ] ALL MODS (330)
+#[Δ] ALL MODS (367)
  └─ •↑ 'Dustrial Decor [Fabric] - https://www.curseforge.com/minecraft/mc-mods/dustrial-decor-fabric/files/3837296
  └─ •↑ Accelerated Decay - https://www.curseforge.com/minecraft/mc-mods/accelerated-decay/files/4139408
  └─ •↑ Ad Astra - https://www.curseforge.com/minecraft/mc-mods/ad-astra/files/4331884
@@ -9,6 +9,7 @@
  └─ •↑ Advancement Plaques [Fabric] - https://www.curseforge.com/minecraft/mc-mods/advancement-plaques-fabric/files/3949457
  └─ •↑ Advancements Debug - https://www.curseforge.com/minecraft/mc-mods/advancements-debug/files/3345570
  └─ •↑ AdventureZ - https://www.curseforge.com/minecraft/mc-mods/adventurez/files/4061649
+ └─ •↑ Alloy Forgery - https://www.curseforge.com/minecraft/mc-mods/alloy-forgery/files/4073356
  └─ •↑ Almost Unified - https://www.curseforge.com/minecraft/mc-mods/almost-unified/files/4375635
  └─ •↑ Alternate Current - https://www.curseforge.com/minecraft/mc-mods/alternate-current/files/3842540
  └─ •↑ Amecs (Fabric) - https://www.curseforge.com/minecraft/mc-mods/amecs/files/3819822
@@ -17,12 +18,13 @@
  └─ •↑ AppleSkin - https://www.curseforge.com/minecraft/mc-mods/appleskin/files/3927567
  └─ •↑ Applied Botanics Addon - https://www.curseforge.com/minecraft/mc-mods/applied-botanics-addon/files/4203088
  └─ •↑ Applied Energistics 2 - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2/files/4293536
- └─ •↑ Applied Energistics 2 Wireless Terminals - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals/files/4333616
+ └─ •↑ Applied Energistics 2 Wireless Terminals - https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2-wireless-terminals/files/4333616   
  └─ •↑ Architect's Palette [FABRIC] - https://www.curseforge.com/minecraft/mc-mods/architects-palette-fabric/files/3845046
  └─ •↑ Architectury API (Fabric/Forge) - https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/4147351
  └─ •↑ Architectury API (UNUSED) - https://www.curseforge.com/minecraft/mc-mods/architectury-fabric/files/3780724
  └─ •↑ Armor Points ++ / Health Stacking - https://www.curseforge.com/minecraft/mc-mods/armorpoints/files/4378366
  └─ •↑ Artifacts (Fabric) - https://www.curseforge.com/minecraft/mc-mods/artifacts-fabric/files/3843992
+ └─ •↑ Artis-Recrafted - https://www.curseforge.com/minecraft/mc-mods/artis-recrafted/files/4381609
  └─ •↑ Audio Extension for FancyMenu [Fabric] - https://www.curseforge.com/minecraft/mc-mods/audio-extension-for-fancymenu-fabric/files/3854658
  └─ •↑ Auth Me - https://www.curseforge.com/minecraft/mc-mods/auth-me/files/4021907
  └─ •↑ Auto Config Updated API - https://www.curseforge.com/minecraft/mc-mods/auto-config-updated-api/files/3668220
@@ -37,6 +39,7 @@
  └─ •↑ Better Biome Blend - https://www.curseforge.com/minecraft/mc-mods/better-biome-blend/files/3832880
  └─ •↑ Better Combat [Fabric & Forge] - https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus/files/4357587
  └─ •↑ Better Compatibility Checker - https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker/files/3904696
+ └─ •↑ Better Fps - Render Distance[Fabric] - https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance-fabric/files/4351677
  └─ •↑ Better Statistics Screen (Fabric/Forge) - https://www.curseforge.com/minecraft/mc-mods/better-stats/files/4378075
  └─ •↑ BetterEnd - https://www.curseforge.com/minecraft/mc-mods/betterend/files/4369085
  └─ •↑ BetterF3 - https://www.curseforge.com/minecraft/mc-mods/betterf3/files/4030572
@@ -54,18 +57,19 @@
  └─ •↑ Building Wands - https://www.curseforge.com/minecraft/mc-mods/building-wands/files/4352831
  └─ •↑ Builtin Servers - https://www.curseforge.com/minecraft/mc-mods/builtin-servers/files/3857552
  └─ •↑ CC: Restitched - https://www.curseforge.com/minecraft/mc-mods/cc-restitched/files/3908334
+ └─ •↑ CTM Refabricated - https://www.curseforge.com/minecraft/mc-mods/ctm-refabricated/files/3834086
  └─ •↑ Calibrated Access - https://www.curseforge.com/minecraft/mc-mods/calibrated/files/4386490
  └─ •↑ Campanion - https://www.curseforge.com/minecraft/mc-mods/campanion/files/4119826
  └─ •↑ Capes [Fabric/Forge] - https://www.curseforge.com/minecraft/mc-mods/capes/files/3966267
  └─ •↑ Capybara [Fabric] - https://www.curseforge.com/minecraft/mc-mods/capybara-fabric/files/4104265
  └─ •↑ Cardinal Components - https://www.curseforge.com/minecraft/mc-mods/cardinal-components/files/3954769
- └─ •↑ Carpet - https://www.curseforge.com/minecraft/mc-mods/carpet/files/4033215
- └─ •↑ Carpet Extra - https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/4066596
  └─ •↑ Carry On - https://www.curseforge.com/minecraft/mc-mods/carry-on/files/4366847
  └─ •↑ Catwalks Inc. - https://www.curseforge.com/minecraft/mc-mods/catwalks-inc/files/3912708
  └─ •↑ Charm of Undying (Fabric 1.16.1 - 1.19.2) - https://www.curseforge.com/minecraft/mc-mods/charm-of-undying-fabric/files/4346535
  └─ •↑ Chassis - https://www.curseforge.com/minecraft/mc-mods/chassis/files/3926780
+ └─ •↑ Chat Heads - https://www.curseforge.com/minecraft/mc-mods/chat-heads/files/4411341
  └─ •↑ Chest Tracker - https://www.curseforge.com/minecraft/mc-mods/chest-tracker/files/4074148
+ └─ •↑ Chipped - https://www.curseforge.com/minecraft/mc-mods/chipped/files/4410347
  └─ •↑ ChoiceTheorem's Overhauled Village - https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village/files/4131787
  └─ •↑ Chunky (Fabric) - https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator/files/3970963
  └─ •↑ CleanCut - https://www.curseforge.com/minecraft/mc-mods/cleancut/files/3950652
@@ -83,11 +87,18 @@
  └─ •↑ Crawl (Fabric) - https://www.curseforge.com/minecraft/mc-mods/crawl/files/3972616
  └─ •↑ Create Crafts & Additions - https://www.curseforge.com/minecraft/mc-mods/createaddition/files/4388911
  └─ •↑ Create Fabric - https://www.curseforge.com/minecraft/mc-mods/create-fabric/files/4388601
+ └─ •↑ Create Support for Open Parties and Claims - https://www.curseforge.com/minecraft/mc-mods/opac-fabric-create-support/files/3924949
+ └─ •↑ Create: Extended Cogwheels Fabric - https://www.curseforge.com/minecraft/mc-mods/create-extended-cogwheels-fabric/files/4356949
+ └─ •↑ Create: Extended Flywheels Fabric - https://www.curseforge.com/minecraft/mc-mods/create-extended-flywheels-fabric/files/4206841
  └─ •↑ Croparia v4 [FORGE/FABRIC] - https://www.curseforge.com/minecraft/mc-mods/croparia/files/4042913
  └─ •↑ Croptopia - https://www.curseforge.com/minecraft/mc-mods/croptopia/files/4344773
  └─ •↑ Croptosis - https://www.curseforge.com/minecraft/mc-mods/croptosis/files/3823457
+ └─ •↑ Cull Clouds - https://www.curseforge.com/minecraft/mc-mods/cullclouds/files/4062483
+ └─ •↑ Cull Less Leaves - https://www.curseforge.com/minecraft/mc-mods/cull-less-leaves/files/4002520
  └─ •↑ Dank Storage Fabric - https://www.curseforge.com/minecraft/mc-mods/dank-storage-fabric/files/4077255
  └─ •↑ Dark Loading Screen - https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen/files/3845449
+ └─ •↑ Death Knell - https://www.curseforge.com/minecraft/mc-mods/death-knell/files/4014715
+ └─ •↑ Debugify - https://www.curseforge.com/minecraft/mc-mods/debugify/files/4060233
  └─ •↑ Deep Mob Learning: Refabricated - https://www.curseforge.com/minecraft/mc-mods/deep-mob-learning-refabricated/files/4393333
  └─ •↑ Deeper and Darker - https://www.curseforge.com/minecraft/mc-mods/deeperdarker/files/4166675
  └─ •↑ Diagonal Fences - https://www.curseforge.com/minecraft/mc-mods/diagonal-fences/files/4026714
@@ -99,11 +110,14 @@
  └─ •↑ Dynamic FPS - https://www.curseforge.com/minecraft/mc-mods/dynamic-fps/files/3829250
  └─ •↑ Earth2Java - https://www.curseforge.com/minecraft/mc-mods/earth2java/files/3968924
  └─ •↑ Ecologics - https://www.curseforge.com/minecraft/mc-mods/ecologics/files/4171284
- └─ •↑ Elytra Slot (Fabric) - https://www.curseforge.com/minecraft/mc-mods/elytra-slot-fabric/files/4375451
+ └─ •↑ EditSign (Forge&Fabric) - https://www.curseforge.com/minecraft/mc-mods/edit-sign/files/3920729
+ └─ •↑ Elytra Slot (Fabric 1.16.1 - 1.19.2) - https://www.curseforge.com/minecraft/mc-mods/elytra-slot-fabric/files/4375451
  └─ •↑ Emojiful - https://www.curseforge.com/minecraft/mc-mods/emojiful/files/4326651
+ └─ •↑ Emotecraft (Fabric) - https://www.curseforge.com/minecraft/mc-mods/emotecraft/files/4173795
  └─ •↑ Enhanced Block Entities - https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities/files/4046700
+ └─ •↑ Entity Collision FPS Fix Refabricated - https://www.curseforge.com/minecraft/mc-mods/entity-collision-fps-fix-fabric/files/3829912
  └─ •↑ Entity Culling Fabric/Forge - https://www.curseforge.com/minecraft/mc-mods/entityculling/files/3823508
- └─ •↑ Epic Paladins - 2.0 Update soon - https://www.curseforge.com/minecraft/mc-mods/epic-paladins/files/3999476
+ └─ •↑ Epic Paladins 2.0 - https://www.curseforge.com/minecraft/mc-mods/epic-paladins/files/3999476
  └─ •↑ Exordium - https://www.curseforge.com/minecraft/mc-mods/exordium/files/4009906
  └─ •↑ Expanded Storage - https://www.curseforge.com/minecraft/mc-mods/expanded-storage/files/4373688
  └─ •↑ FTB Backups 2 - https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2/files/4105758
@@ -123,6 +137,7 @@
  └─ •↑ FerriteCore (Fabric) - https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric/files/4117902
  └─ •↑ Fix Experience Bug (now with FABRIC and FORGE versions) - https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug/files/4365624
  └─ •↑ Forge Config API Port [Fabric] - https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric/files/4322560
+ └─ •↑ Friends&Foes (Fabric) - https://www.curseforge.com/minecraft/mc-mods/friends-and-foes/files/4359130
  └─ •↑ GeckoLib - https://www.curseforge.com/minecraft/mc-mods/geckolib/files/4181375
  └─ •↑ Geode+ [Forge/Fabric] - https://www.curseforge.com/minecraft/mc-mods/geode-plus/files/4382833
  └─ •↑ Haema - https://www.curseforge.com/minecraft/mc-mods/haema/files/4066643
@@ -131,6 +146,7 @@
  └─ •↑ Here be no Dragons! - https://www.curseforge.com/minecraft/mc-mods/here-be-no-dragons/files/3147277
  └─ •↑ Hex Casting - https://www.curseforge.com/minecraft/mc-mods/hexcasting/files/4132955
  └─ •↑ Iceberg [Fabric] - https://www.curseforge.com/minecraft/mc-mods/iceberg-fabric/files/3922111
+ └─ •↑ Image2Map - https://www.curseforge.com/minecraft/mc-mods/image2map/files/4048817
  └─ •↑ ImmediatelyFast - https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/4366452
  └─ •↑ Immersive Aircraft [Fabric/Forge] - https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft/files/4365381
  └─ •↑ Incantationem - https://www.curseforge.com/minecraft/mc-mods/incantationem/files/4018252
@@ -146,10 +162,15 @@
  └─ •↑ Item Filters - https://www.curseforge.com/minecraft/mc-mods/item-filters/files/4055378
  └─ •↑ Item Model Fix (Fabric) - https://www.curseforge.com/minecraft/mc-mods/item-model-fix/files/3854720
  └─ •↑ JamLib - https://www.curseforge.com/minecraft/mc-mods/jamlib/files/4318554
+ └─ •↑ Joy of Painting - https://www.curseforge.com/minecraft/mc-mods/joy-of-painting/files/4119622
+ └─ •↑ Jump Over Fences - https://www.curseforge.com/minecraft/mc-mods/jump-over-fences-forge/files/3974481
+ └─ •↑ Kentucky Fried Axolotls - https://www.curseforge.com/minecraft/mc-mods/kentucky-fried-axolotls/files/4291596
+ └─ •↑ Keymap - https://www.curseforge.com/minecraft/mc-mods/keymap/files/4162484
  └─ •↑ Kibe Utilities - https://www.curseforge.com/minecraft/mc-mods/kibe/files/4352610
  └─ •↑ KleeSlabs (Fabric Edition) - https://www.curseforge.com/minecraft/mc-mods/kleeslabs-fabric/files/3927983
  └─ •↑ Konkrete [Fabric] - https://www.curseforge.com/minecraft/mc-mods/konkrete-fabric/files/4136415
  └─ •↑ Krypton - https://www.curseforge.com/minecraft/mc-mods/krypton/files/3908028
+ └─ •↑ Ksyxis - https://www.curseforge.com/minecraft/mc-mods/ksyxis/files/3502167
  └─ •↑ KubeJS - https://www.curseforge.com/minecraft/mc-mods/kubejs/files/4332308
  └─ •↑ LambDynamicLights - https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights/files/4257321
  └─ •↑ LambdaBetterGrass - https://www.curseforge.com/minecraft/mc-mods/lambdabettergrass/files/3834055
@@ -160,6 +181,8 @@
  └─ •↑ Light Emitting Diode - https://www.curseforge.com/minecraft/mc-mods/led/files/3999665
  └─ •↑ Light Overlay (Rift/Forge/Fabric) - https://www.curseforge.com/minecraft/mc-mods/light-overlay/files/3832013
  └─ •↑ Lightest Lamps (Fabric/Quilt) - https://www.curseforge.com/minecraft/mc-mods/lightest-lamps-fabric/files/3965300
+ └─ •↑ Lithium (Fabric) - https://www.curseforge.com/minecraft/mc-mods/lithium/files/4151762
+ └─ •↑ Little Ants [FABRIC] - https://www.curseforge.com/minecraft/mc-mods/little-ants/files/4195569
  └─ •↑ Log Begone - https://www.curseforge.com/minecraft/mc-mods/log-begone/files/4182772
  └─ •↑ Log More Info - https://www.curseforge.com/minecraft/mc-mods/log-more-info/files/3955329
  └─ •↑ LootJS: KubeJS Addon - https://www.curseforge.com/minecraft/mc-mods/lootjs/files/4372742
@@ -170,7 +193,7 @@
  └─ •↑ MC Dungeons Weapons - https://www.curseforge.com/minecraft/mc-mods/mcdw/files/3971563
  └─ •↑ MC Story Mode Armors [Forge / Fabric] - https://www.curseforge.com/minecraft/mc-mods/mcsa/files/3990124
  └─ •↑ MCA Reborn [Fabric/Forge] - https://www.curseforge.com/minecraft/mc-mods/minecraft-comes-alive-reborn/files/4380376
- └─ •↑ MCPitanLibarch (Fabric/Forge) - https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch/files/4259331
+ └─ •↑ MCPitanLib (Fabric/Forge) - https://www.curseforge.com/minecraft/mc-mods/mcpitanlibarch/files/4259331
  └─ •↑ ME Requester - https://www.curseforge.com/minecraft/mc-mods/merequester/files/4287562
  └─ •↑ MEGA Cells - https://www.curseforge.com/minecraft/mc-mods/mega-cells/files/4364186
  └─ •↑ Macaw's Bridges - https://www.curseforge.com/minecraft/mc-mods/macaws-bridges/files/4178174
@@ -185,6 +208,7 @@
  └─ •↑ Magitek Mechs - https://www.curseforge.com/minecraft/mc-mods/magitek-mechs/files/4057306
  └─ •↑ Marium's Soulslike Weaponry - https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry/files/4385670
  └─ •↑ MemoryLeakFix - https://www.curseforge.com/minecraft/mc-mods/memoryleakfix/files/4147605
+ └─ •↑ Meticulous - https://www.curseforge.com/minecraft/mc-mods/meticulous/files/3921889
  └─ •↑ MidnightLib - https://www.curseforge.com/minecraft/mc-mods/midnightlib/files/4059589
  └─ •↑ Miskatonic Mysteries - https://www.curseforge.com/minecraft/mc-mods/miskatonic-mysteries/files/4192800
  └─ •↑ MmmMmmMmmMmm (Target Dummy) - https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm/files/4301168
@@ -200,29 +224,33 @@
  └─ •↑ More Villagers [Fabric] - https://www.curseforge.com/minecraft/mc-mods/more-villagers-fabric/files/3843501
  └─ •↑ MoreAchievements [Fabric] - https://www.curseforge.com/minecraft/mc-mods/moreachievements-fabric/files/4055252
  └─ •↑ Mouse Tweaks - https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/3828448
+ └─ •↑ Music Maker Mod - https://www.curseforge.com/minecraft/mc-mods/music-maker-mod/files/4131774
+ └─ •↑ Mythic Mounts - https://www.curseforge.com/minecraft/mc-mods/mythic-mounts/files/4095954
  └─ •↑ Naturalist - https://www.curseforge.com/minecraft/mc-mods/naturalist/files/3930808
  └─ •↑ Nature's Compass - https://www.curseforge.com/minecraft/mc-mods/natures-compass/files/4118387
  └─ •↑ NetherPortalFix (Fabric Edition) - https://www.curseforge.com/minecraft/mc-mods/netherportalfix-fabric/files/3832620
  └─ •↑ No Chat Reports - https://www.curseforge.com/minecraft/mc-mods/no-chat-reports/files/4082460
  └─ •↑ No Telemetry - https://www.curseforge.com/minecraft/mc-mods/no-telemetry/files/4368412
+ └─ •↑ Not Enough Gamerules [Fabric] - https://www.curseforge.com/minecraft/mc-mods/not-enough-gamerules-fabric/files/4401143
  └─ •↑ Nullscape - https://www.curseforge.com/minecraft/mc-mods/nullscape/files/3862219
  └─ •↑ Oh The Biomes You'll Go Refabricated - https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric/files/4027262
  └─ •↑ On Soul Fire - https://www.curseforge.com/minecraft/mc-mods/on-soul-fire/files/3830809
  └─ •↑ Open Parties and Claims - https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims/files/4344796
  └─ •↑ Origins (Fabric) - https://www.curseforge.com/minecraft/mc-mods/origins/files/4044263
  └─ •↑ PAUCAL - https://www.curseforge.com/minecraft/mc-mods/paucal/files/4100643
- └─ •↑ Packet Size Doubler - https://www.curseforge.com/minecraft/mc-mods/packet-size-doubler/files/3912877
  └─ •↑ Paginated Advancements - https://www.curseforge.com/minecraft/mc-mods/paginated-advancements/files/3875504
  └─ •↑ Paintings ++ - https://www.curseforge.com/minecraft/mc-mods/paintings/files/4084512
  └─ •↑ Paladin's Furniture - https://www.curseforge.com/minecraft/mc-mods/paladins-furniture/files/3966060
  └─ •↑ Patchouli (Fabric/Quilt) - https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric/files/4031404
  └─ •↑ Pehkui - https://www.curseforge.com/minecraft/mc-mods/pehkui/files/4314945
+ └─ •↑ PictureSign - https://www.curseforge.com/minecraft/mc-mods/picturesign/files/3837060
  └─ •↑ Piercing Paxels - https://www.curseforge.com/minecraft/mc-mods/piercing-paxels/files/4312333
  └─ •↑ Plant In A Jar - https://www.curseforge.com/minecraft/mc-mods/plant-in-a-jar/files/4083775
  └─ •↑ Platforms [Fabric] - https://www.curseforge.com/minecraft/mc-mods/platforms-fabric/files/4311849
  └─ •↑ PlayerAbilityLib - https://www.curseforge.com/minecraft/mc-mods/pal/files/3800599
  └─ •↑ Plushie Mod - https://www.curseforge.com/minecraft/mc-mods/plushie-mod/files/3827209
  └─ •↑ PolyLib - https://www.curseforge.com/minecraft/mc-mods/polylib/files/4110279
+ └─ •↑ Ponder for KubeJS - https://www.curseforge.com/minecraft/mc-mods/ponder/files/4219583
  └─ •↑ Powah! (Rearchitected) - https://www.curseforge.com/minecraft/mc-mods/powah-rearchitected/files/4183077
  └─ •↑ Presence Footsteps [Fabric] - https://www.curseforge.com/minecraft/mc-mods/presence-footsteps/files/4239129
  └─ •↑ Pretty Beaches (Fabric Edition) - https://www.curseforge.com/minecraft/mc-mods/pretty-beaches-fabric/files/3833448
@@ -254,6 +282,7 @@
  └─ •↑ ServerCore - https://www.curseforge.com/minecraft/mc-mods/servercore/files/4058121
  └─ •↑ ShetiPhianCore [Fabric] - https://www.curseforge.com/minecraft/mc-mods/shetiphiancore-fabric/files/4311851
  └─ •↑ Show Me Your Skin! - https://www.curseforge.com/minecraft/mc-mods/show-me-your-skin/files/4327928
+ └─ •↑ Sierra's Flowers - https://www.curseforge.com/minecraft/mc-mods/srias-flowers/files/4240559
  └─ •↑ Simple Discord RPC [Forge/Fabric/Quilt] - https://www.curseforge.com/minecraft/mc-mods/simple-discord-rpc/files/4151760
  └─ •↑ Simple Hats - https://www.curseforge.com/minecraft/mc-mods/simplehats/files/4117828
  └─ •↑ Simple Voice Chat - https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/4372221
@@ -266,21 +295,22 @@
  └─ •↑ Sodium - https://www.curseforge.com/minecraft/mc-mods/sodium/files/3957319
  └─ •↑ Sodium Extra - https://www.curseforge.com/minecraft/mc-mods/sodium-extra/files/4279044
  └─ •↑ Sound Physics Remastered - https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/4199799
- └─ •↑ Spectrum - https://www.curseforge.com/minecraft/mc-mods/spectrum/files/4353680
+ └─ •↑ Spectrum - https://www.curseforge.com/minecraft/mc-mods/spectrum/files/4399506
  └─ •↑ Spectrum Jetpacks - https://www.curseforge.com/minecraft/mc-mods/spectrum-jetpacks/files/4387980
  └─ •↑ Spell Engine - https://www.curseforge.com/minecraft/mc-mods/spell-engine/files/4381585
  └─ •↑ Spell Power Attributes [Fabric] - https://www.curseforge.com/minecraft/mc-mods/spell-power/files/4381561
  └─ •↑ Spice of Fabric (Fabric) - https://www.curseforge.com/minecraft/mc-mods/spice-of-fabric/files/4173588
  └─ •↑ Squat Grow (Shift / Twerk to grow plants) - https://www.curseforge.com/minecraft/mc-mods/squat-grow/files/4033195
- └─ •↑ Sria's Flowers - https://www.curseforge.com/minecraft/mc-mods/srias-flowers/files/4240559
  └─ •↑ Stoneholm, Underground Villages (Fabric) - https://www.curseforge.com/minecraft/mc-mods/stoneholm/files/3819692
  └─ •↑ Styled Chat - https://www.curseforge.com/minecraft/mc-mods/styled-chat/files/4062934
  └─ •↑ Styled Player List - https://www.curseforge.com/minecraft/mc-mods/styled-player-list/files/3902725
  └─ •↑ TARDIS Refined - Forge/Fabric - https://www.curseforge.com/minecraft/mc-mods/tardis-refined/files/4284652
+ └─ •↑ Taterzens [Fabric] - https://www.curseforge.com/minecraft/mc-mods/taterzens/files/4073927
  └─ •↑ Tech Reborn - https://www.curseforge.com/minecraft/mc-mods/techreborn/files/4102770
  └─ •↑ Tempad - https://www.curseforge.com/minecraft/mc-mods/tempad/files/4373373
  └─ •↑ TerraBlender (Fabric) - https://www.curseforge.com/minecraft/mc-mods/terrablender-fabric/files/4205731
  └─ •↑ Terralith - https://www.curseforge.com/minecraft/mc-mods/terralith/files/4167132
+ └─ •↑ The Box Trot - https://www.curseforge.com/minecraft/mc-mods/the-box-trot/files/3856031
  └─ •↑ The Graveyard (FABRIC) - https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric/files/4100322
  └─ •↑ The Graveyard Biomes (FABRIC) - https://www.curseforge.com/minecraft/mc-mods/the-graveyard-biomes-fabric/files/4090409
  └─ •↑ The Twilight Forest - https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/4389094
@@ -291,12 +321,14 @@
  └─ •↑ Tom's Simple Storage Mod (Fabric) - https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric/files/4329300
  └─ •↑ Too Many Binds - https://www.curseforge.com/minecraft/mc-mods/too-many-binds/files/4362273
  └─ •↑ Tool Stats - https://www.curseforge.com/minecraft/mc-mods/tool-stats/files/3944167
+ └─ •↑ TraderNPCs - https://www.curseforge.com/minecraft/mc-mods/tradernpcs/files/3825962
  └─ •↑ Trading Post [Forge & Fabric] - https://www.curseforge.com/minecraft/mc-mods/trading-post/files/3945830
  └─ •↑ Transparent - https://www.curseforge.com/minecraft/mc-mods/transparent/files/4031059
  └─ •↑ TrashSlot (Fabric Edition) - https://www.curseforge.com/minecraft/mc-mods/trashslot-fabric-edition/files/3835114
  └─ •↑ Traveler's Backpack [Fabric] - https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric/files/4386248
  └─ •↑ Trinkets (Fabric) - https://www.curseforge.com/minecraft/mc-mods/trinkets/files/4343755
  └─ •↑ Universal Shops - https://www.curseforge.com/minecraft/mc-mods/universal-shops/files/4112528
+ └─ •↑ VehicleFix - https://www.curseforge.com/minecraft/mc-mods/vehiclefix/files/3856032
  └─ •↑ Very Many Players (Fabric) - https://www.curseforge.com/minecraft/mc-mods/vmp-fabric/files/4379513
  └─ •↑ Video Extension for FancyMenu [Fabric] - https://www.curseforge.com/minecraft/mc-mods/video-extension-for-fancymenu-fabric/files/3928273
  └─ •↑ VoidZ - https://www.curseforge.com/minecraft/mc-mods/voidz/files/3951132
@@ -309,12 +341,16 @@
  └─ •↑ Wolf Armor Compat (Fabric) - https://www.curseforge.com/minecraft/mc-mods/wolf-armor-compat/files/4351224
  └─ •↑ Wolves With Armor - https://www.curseforge.com/minecraft/mc-mods/wolves-with-armor/files/3853629
  └─ •↑ Wunderreich - https://www.curseforge.com/minecraft/mc-mods/wunderreich/files/4046742
+ └─ •↑ XL Packets Fabric - https://www.curseforge.com/minecraft/mc-mods/xl-packets-fabric/files/4110462
  └─ •↑ Xaero's Minimap - https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4381123
  └─ •↑ Xaero's World Map - https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4381144
+ └─ •↑ YDM's Allay  - https://www.curseforge.com/minecraft/mc-mods/ydms-allay/files/3906394
+ └─ •↑ YDM's Weapon Master - https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master/files/4001578
  └─ •↑ YUNG's API (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric/files/4035003
  └─ •↑ YUNG's Better Desert Temples (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric/files/4031661
  └─ •↑ YUNG's Better Dungeons (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric/files/4031673
  └─ •↑ YUNG's Better Mineshafts (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric/files/4031205
+ └─ •↑ YUNG's Better Nether Fortresses (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric/files/4413613      
  └─ •↑ YUNG's Better Ocean Monuments (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric/files/4031419
  └─ •↑ YUNG's Better Witch Huts (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric/files/4031228
  └─ •↑ YUNG's Bridges (Fabric) - https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric/files/4031234
@@ -322,6 +358,7 @@
  └─ •↑ YetAnotherConfigLib - https://www.curseforge.com/minecraft/mc-mods/yacl/files/4361292
  └─ •↑ You're in Grave Danger - https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger/files/4357427
  └─ •↑ Your Options Shall Be Respected (YOSBR) - https://www.curseforge.com/minecraft/mc-mods/yosbr/files/2934596
+ └─ •↑ [Meadow] Let's do Cheese! - https://www.curseforge.com/minecraft/mc-mods/welcome-to-meadow/files/4422686
  └─ •↑ bad packets - https://www.curseforge.com/minecraft/mc-mods/badpackets/files/4073853
  └─ •↑ cAn i MiNe thIS bLOCk? - https://www.curseforge.com/minecraft/mc-mods/can-i-mine-this-block/files/3831994
  └─ •↑ libIPN - https://www.curseforge.com/minecraft/mc-mods/libipn/files/4370451

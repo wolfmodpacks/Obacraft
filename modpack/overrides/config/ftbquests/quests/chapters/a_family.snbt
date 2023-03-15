@@ -9,21 +9,21 @@
 		Count: 1b
 		tag: {
 			baby: {
-				motherName: "Unknown"
 				mother: [I;
 					0
 					0
 					0
 					0
 				]
-				fatherName: "Unknown"
 				age: 0
+				fatherName: "Unknown"
 				father: [I;
 					0
 					0
 					0
 					0
 				]
+				motherName: "Unknown"
 			}
 		}
 	}

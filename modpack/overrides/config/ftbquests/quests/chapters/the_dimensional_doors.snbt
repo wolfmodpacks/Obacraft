@@ -1,0 +1,23 @@
+{
+	id: "292133C2F1AEA70D"
+	group: "4FB9660C08C751B9"
+	order_index: 5
+	filename: "the_dimensional_doors"
+	title: "The Dimensional Doors"
+	icon: "dimdoors:monolith_spawner"
+	always_invisible: true
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		x: 0.0d
+		y: 0.0d
+		id: "271F92A1503864C5"
+		tasks: [{
+			id: "5074EA54EB807B19"
+			type: "advancement"
+			advancement: "dimdoors:dimdoors/root"
+			criterion: ""
+		}]
+	}]
+	quest_links: [ ]
+}

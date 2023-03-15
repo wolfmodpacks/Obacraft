@@ -7,7 +7,7 @@ const blockBlacklistedItems =
   {
 		  "id": "indrev:nikolite_ore",
 		  "message": "You need to reach The Revolution stage!",
-		  "questId": "247E1A063CCA79AC"
+		  "questId": "1ABA6898639F9038"
 	},
   {
       "id": "ae2:flawless_budding_quartz",
@@ -65,7 +65,7 @@ const itemBlacklistedItems =
   {
       "id": "indrev:nikolite_dust",
       "message": "You need to reach The Revolution stage!",
-      "questId": "247E1A063CCA79AC"
+      "questId": "1ABA6898639F9038"
   },
   {
       "id": "techreborn:sap",
@@ -126,8 +126,11 @@ function isBlacklisted(id, player, blacklist) {
     event.player.displayClientMessage(blacklistedItem.message, true);
     
     const item = event.player.getInventory().getItem(event.getSlot())
+    // const amount = item.getAmount()
+    // item.setAmount(0)
     event.player.getInventory().setItem(event.getSlot(), 'minecraft:air')
 
+    //event.player.drop(event.item, false, false);
   };  
   
   function blackListCheck(itemToTest, event) {
@@ -167,9 +170,15 @@ function isBlacklisted(id, player, blacklist) {
     }
   });
   let flag = true;
+  let flag1 = true;
   PlayerEvents.inventoryChanged((event) => {
     flag = !flag
     if (flag) return;
     blackListCheck(event.item, event)
 
   });
+  // ItemEvents.dropped((event) =>{ 
+  //   flag1 = !flag1
+  //   if (flag1) return;
+  //   blackListCheck(event.item, event)
+  // });

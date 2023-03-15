@@ -22,10 +22,10 @@
 					id: "indrev:gamer_axe"
 					Count: 1b
 					tag: {
+						selected: { }
 						Active: 1b
 						Progress: 1.0f
 						Damage: 0
-						selected: { }
 						energy: 10000L
 					}
 				}
@@ -39,8 +39,8 @@
 		}
 		{
 			x: 0.0d
-			y: 3.0d
-			dependencies: ["70B683E1B9768E87"]
+			y: 2.0d
+			dependencies: ["1ABA6898639F9038"]
 			hide: true
 			id: "7BC71F91147FF39A"
 			tasks: [{
@@ -97,7 +97,7 @@
 		}
 		{
 			x: 0.0d
-			y: 5.0d
+			y: 4.0d
 			dependencies: [
 				"59C6292745A27A0B"
 				"775DA1334807D870"
@@ -113,7 +113,7 @@
 		}
 		{
 			x: 0.0d
-			y: 6.5d
+			y: 5.5d
 			dependencies: ["6EBD3561E922EC2C"]
 			id: "2A857DF4E2BA4C8B"
 			tasks: [
@@ -183,17 +183,6 @@
 				id: "70F0D5F7F3F7D212"
 				type: "item"
 				item: "indrev:machine_block"
-			}]
-		}
-		{
-			x: 0.0d
-			y: 1.5d
-			dependencies: ["1ABA6898639F9038"]
-			id: "70B683E1B9768E87"
-			tasks: [{
-				id: "4C6423DBC01E0509"
-				type: "item"
-				item: "techreborn:refined_iron_ingot"
 			}]
 		}
 		{

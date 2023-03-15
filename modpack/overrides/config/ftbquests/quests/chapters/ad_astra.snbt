@@ -84,8 +84,8 @@
 						id: "ad_astra:space_helmet"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -96,8 +96,8 @@
 						id: "ad_astra:space_suit"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -108,8 +108,8 @@
 						id: "ad_astra:space_pants"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -120,8 +120,8 @@
 						id: "ad_astra:space_boots"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -363,8 +363,8 @@
 						id: "ad_astra:netherite_space_helmet"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -375,8 +375,8 @@
 						id: "ad_astra:netherite_space_suit"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -387,8 +387,8 @@
 						id: "ad_astra:netherite_space_pants"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -399,8 +399,8 @@
 						id: "ad_astra:netherite_space_boots"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -497,8 +497,8 @@
 						id: "ad_astra:jet_suit_helmet"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -509,8 +509,8 @@
 						id: "ad_astra:jet_suit"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -521,8 +521,8 @@
 						id: "ad_astra:jet_suit_pants"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
@@ -533,8 +533,8 @@
 						id: "ad_astra:jet_suit_boots"
 						Count: 1b
 						tag: {
-							BotariumData: { }
 							Damage: 0
+							BotariumData: { }
 						}
 					}
 				}
