@@ -1,7 +1,13 @@
+## Version 1.3.1 
+
+**Fixes**: 
+- Outdated Libraries (Which wont let the game start)
+
+
 ## Version 1.3.0
 
 
-** Changes:** 
+**Changes:** 
 
 - REI items are now categorize (currently only Minecraft items and chipped)
 - Changed Extended Flywheels recipes
@@ -9,7 +15,7 @@
 - Items are blacklisted until u unlocked the quests are unblocked
 - Added few different crafting recipes tiers
 
-** Removed Mods:**
+**Removed Mods:**
 
 ```md
 - Packet Size Doubler - https://www.curseforge.com/minecraft/mc-mods/packet-size-doubler/files/3912877
