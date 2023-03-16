@@ -7,7 +7,7 @@ modpack:
 install:
   mcVersion: 1.19.2
   loaderVersion: 0.14.17
-  modpackUrl: https://mediafilez.forgecdn.net/files/4438/859/Obacraft-v1.3.0.zip
+  modpackUrl: https://mediafilez.forgecdn.net/files/4439/881/Obacraft-v1.3.1.zip
   installerUrl: https://maven.fabricmc.net/net/fabricmc/fabric-installer/0.11.1/fabric-installer-0.11.1.jar
   
   ignoreFiles:
